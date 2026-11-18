@@ -1,0 +1,38 @@
+---
+title: "Rain Rituals and Drought Governance"
+subtitle: "Current research · how societies and states recognize drought"
+categories: [Drought governance, Human-environment systems, Climate, Drylands]
+---
+
+[Current]{.wo-status .current} [Paper accepted]{.wo-status .accepted}
+
+::: {.wo-why}
+**Putting people in the equation.** Drought indices and satellite maps measure water deficits. They do not show when a society decides that a drought matters. This research treats that moment of recognition as data, because drought governance depends on when and where people and institutions act, not only on physical thresholds.
+:::
+
+Rain prayer events (*Salat al-Istisqa'*) are a long-standing community and institutional response to drought across North Africa and the Middle East. This project asks whether calls for these prayers can serve as a ground-level signal of climate stress. It builds an event record from newspapers and news websites in **Algeria, Morocco and Tunisia (2000–2024)** and compares it with the Standardized Precipitation Evapotranspiration Index (SPEI) and conflict data. The aim is to understand how climate and conflict shocks interact in dryland societies.
+
+Rituals were more likely as drought intensified, fell within the agricultural season, and tracked drought over rainfed cropland more closely than national averages. Together these results show that institutional recognition of drought follows where and when it hits farming. A related line of work looks at formal drought governance, including early-warning design in Algeria's Drought Shield program.
+
+**Region:** Algeria, Morocco, Tunisia · **Collaborators:** M. E. Brown, A. Endsley, W. Anderson, M. Enenkel, T. V. Loboda, G. Kaci
+
+::: {.callout-note appearance="simple" icon=false}
+**In the news.** *[When a Prayer Is Also a Climate Signal](https://eos.org/articles/when-a-prayer-is-also-a-climate-signal)*. Eos (AGU), 3 December 2025, by Nathaniel Scharping. The article covers this research ahead of its presentation at AGU's Annual Meeting 2025.
+:::
+
+::: {.wo-gallery}
+![Newspaper archives collected to build the rain-ritual event record.](../assets/images/proj-newspaper-archive.jpg){fig-alt="Boxes of newspaper archives stacked on a library cart"}
+
+![Microfilm reels from the newspaper collection.](../assets/images/proj-microfilm.jpg){fig-alt="A hand holding a microfilm reel"}
+:::
+
+## Outputs
+
+- Ouaret, W., Brown, M. E., Endsley, A., Anderson, W., Enenkel, M., & Loboda, T. V. *Rain Rituals Signal the Impact of Climate and Conflict Shocks in Drylands.* *Environmental Research: Climate* (accepted). [Accepted]{.wo-status .accepted}
+- Presentation at AGU's Annual Meeting 2025, New Orleans, 18 December 2025. [Abstract](https://agu.confex.com/agu/agu25/meetingapp.cgi/Paper/1970135)
+- Scharping, N. (2025). When a prayer is also a climate signal. *Eos*, 106. [doi:10.1029/2025EO250450](https://doi.org/10.1029/2025EO250450) (news coverage)
+- Ouaret, W., Kaci, G., & Brown, M. E. (2023). *Divine Insight: Uncovering the Climate Information Potential of Rain Prayer Events in the Middle East and North Africa Region.* AGU Fall Meeting, SY13A-05 (oral).
+- Ouaret, W. (2023). *Praying for data, does it work?* Ignite AGU stage talk, AGU Fall Meeting. [Watch](https://tinyurl.com/5n6z5m5)
+- Ouaret, W., & Brown, M. E. (2023). *Enhancing Early Warning Systems for Drought Resilience in Agriculture: The Case of Algeria's Drought Shield Program.* AGU Fall Meeting, GC13F-0982 (poster).
+
+[← All research](index.qmd)

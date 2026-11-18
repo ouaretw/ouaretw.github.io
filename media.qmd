@@ -1,0 +1,93 @@
+---
+title: "Talks & Activities"
+subtitle: "Talks, posters, workshops and public engagement"
+---
+
+## Videos
+
+::: {.wo-dated}
+- **2025.** *SEEDS Seminar Series*: 13 recorded talks on remote sensing and AI for agriculture, which I organized as SEEDS project lead. [Watch the playlist](https://www.youtube.com/playlist?list=PLaqba-tnL7HIkkqRrp4iQiub09L-CFCI8) · [About SEEDS](projects/seeds.qmd)
+- **2023.** *Praying for data, does it work?* Ignite AGU stage talk. [Watch](https://tinyurl.com/5n6z5m5)
+:::
+
+## Public engagement and media
+
+::: {.wo-dated}
+- **2025.** Research on rain prayers as drought signals in Algeria, Morocco and Tunisia featured in *Eos* (AGU). Scharping, N., *[When a Prayer Is Also a Climate Signal](https://eos.org/articles/when-a-prayer-is-also-a-climate-signal)*, 3 December 2025. [doi:10.1029/2025EO250450](https://doi.org/10.1029/2025EO250450)
+:::
+
+<!-- Add media appearances (interviews, press, podcasts) here as they occur. Video embed: {{< video https://www.youtube.com/watch?v=... >}} -->
+
+## Invited and conference talks
+
+### 2025 {.media-year}
+
+::: {.wo-dated}
+- **Presentation.** Rain prayer announcements as a drought signal in Algeria, Morocco and Tunisia. AGU Annual Meeting 2025, New Orleans, 18 December 2025. [Abstract](https://agu.confex.com/agu/agu25/meetingapp.cgi/Paper/1970135)
+:::
+
+### 2024 {.media-year}
+
+::: {.wo-dated}
+- **Oral.** Ouaret, W., Brown, M. E., & Shumilo, L. *Mapping Agricultural Greenhouses in Algeria: A Deep Learning Approach.* IEEE M2GARSS 2024, Oran, Algeria.
+- **Round table.** *The Anthropologist as Vulnerable Observer: Compounding Disasters and Anxiety in the Face of Climate Catastrophe.* Society for Applied Anthropology 84th Annual Meeting, Santa Fe, NM. Panelists: K. Scott Ford, W. Ouaret, M. Araujo, C. Fowler, M. Gonzalez (Chair).
+:::
+
+### 2023 {.media-year}
+
+::: {.wo-dated}
+- **Oral.** Ouaret, W., Kaci, G., & Brown, M. E. *Divine Insight: Uncovering the Climate Information Potential of Rain Prayer Events in the Middle East and North Africa Region.* AGU Fall Meeting, SY13A-05.
+:::
+
+### 2022 {.media-year}
+
+::: {.wo-dated}
+- **Invited talk.** *Using SMAP for smallholder agriculture in Africa.* NASA SMAP Meeting (online), July 2022.
+- **Oral (co-author).** McCarty, J. L., Hain, C., Brown, M. E., et al., Ouaret, W., et al. *Quantifying the Impact of Urban Expansion until 2030 on Peri-Urban Agriculture, Hydrometeorology, Food Security and Human Health.* AGU Fall Meeting, GC33D-05.
+- **Oral (co-author).** Gargulinski, E., Soja, A. J., McCarty, J. L., et al., Ouaret, W., et al. *Quantifying Burned Area and Smoke from Prescribed and Smaller Fires: Flint Hills, Kansas 2022.* AGU Fall Meeting, GH42A-34.
+:::
+
+## Conference posters
+
+### 2024 {.media-year}
+
+::: {.wo-dated}
+- Ouaret, W., Loboda, T. V., Skakun, S., Endsley, A., & Brown, M. E. *High-Resolution Winter Cereal Mapping in North Africa for the 2023–2024 Cropping Season Using Collected Field Data.* AGU Fall Meeting, GC13O-0385.
+- Ouaret, W., Endsley, A., Bouzid, A., Oulmane, A., & Kaci, G. *Building capacity for open and reproducible climate data analysis in the Middle East and Northern Africa.* AGU Fall Meeting, H11O-088.
+:::
+
+### 2023 {.media-year}
+
+::: {.wo-dated}
+- Ouaret, W., Endsley, A., Brown, M. E., Latati, M., & Nabil, M. *Seeds of Change: Equipping Scientists with NASA's Climate-Sensitive Agricultural Tools.* AGU Fall Meeting, U53B-0529.
+- Ouaret, W., & Brown, M. E. *Enhancing Early Warning Systems for Drought Resilience in Agriculture: The Case of Algeria's Drought Shield Program.* AGU Fall Meeting, GC13F-0982.
+- Kaci, G., Ouaret, W., Belaroui, A., Akziz, D., Bourtache, M., Tachi, S. E., & Khaloui, S. *Impact of Agricultural Practices and Forest Fires on GHG Emissions and Soil Carbon Dynamics in Northern Algerian Regions.* AGU Fall Meeting.
+- Bourtache, M., Kaci, G., Akziz, D., Madani, H., Belaroui, A., Tachi, S. E., & Ouaret, W. *Investigating the Link Between Illegal Dumping and Wildfire Occurrences in North East Algeria Using Remote Sensing and In-Situ Data.* AGU Fall Meeting.
+- Ouaret, W., Kaci, G., & Brown, M. E. *Charting Two Decades of Algerian Agriculture: Unveiling the Evolution of Cropland Area and Yield Estimation (1998–2021).* AgMIP9, New York.
+:::
+
+### 2022 {.media-year}
+
+::: {.wo-dated}
+- Ouaret, W., Endsley, K. A., Brown, M. E., & McCarty, J. L. *Spatiotemporal Climatic and Hydrological Trends for Algerian Smallholder Agriculture Using Remotely Sensed Data.* AGU Fall Meeting, H12N-0862.
+- McCarty, J. L., Ouaret, W., Adzhar, R. B., et al. *A Systematic and Semi-Critical Review of Land-Cover/Land-Use Change Modeling in the African Context.* AGU Fall Meeting, SY52C-0213.
+- Kaci, G., Ouaret, W., Adzhar, R. B., et al. *The Impact of the Summer 2021 Wildfire Events on Local Community Livelihoods in Mountainous Mediterranean Coastal Regions of Algeria.* AGU Fall Meeting.
+:::
+
+## Workshops and training led
+
+::: {.wo-dated}
+- **2025.** SEEDS Seminar Series: workshops on applied remote sensing for agriculture, University of Maryland, College Park
+- **2024.** Open Climate Science for Agriculture, CREAD, Algiers, Algeria
+- **2024.** Python Foundations for Climate Science, CREAD, Algiers, Algeria
+- **2024.** Crop Mapping and Random Sampling, CRAT, Constantine, Algeria
+- **2024.** Field Data Collection Principles and Field Surveys, CRAT, Constantine, Algeria
+:::
+
+## Conference organization and service
+
+::: {.wo-dated}
+- **2025.** Student/Early Career Convener, AGU Fall Meeting, sessions IN43B & IN52A, New Orleans
+- **2025.** Reviewer, Meta-Reviewer & TPC Member, IEEE AIESRE 2025, Tizi-Ouzou, Algeria
+- **2024.** Session Chair, WE1.R1 Greenhouse Emissions, IEEE M2GARSS 2024, Oran, Algeria
+:::

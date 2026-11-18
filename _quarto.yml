@@ -1,0 +1,81 @@
+project:
+  type: website
+  output-dir: docs          # GitHub Pages serves this folder (Settings > Pages > main /docs)
+  resources:
+    - assets/images/*
+    - .nojekyll
+
+website:
+  title: "Walid Ouaret"
+  site-url: "https://ouaretw.github.io"
+  description: "Walid Ouaret, Ph.D. — Earth observation scientist and Postdoctoral Fellow at The Earth Commons Institute, Georgetown University."
+  favicon: assets/images/amazigh-sign.png
+  open-graph: true
+  page-navigation: false
+  navbar:
+    logo: assets/images/amazigh-sign.png
+    logo-alt: "Amazigh motif"
+    left:
+      - href: index.qmd
+        text: About
+      - text: Research
+        menu:
+          - href: projects/index.qmd
+            text: Overview & fieldwork
+          - text: "---"
+          - href: projects/winter-cereal-mapping.qmd
+            text: Cereal mapping & area estimation
+          - href: projects/drought-landuse-north-africa.qmd
+            text: Drought & land-use change
+          - href: projects/rain-rituals.qmd
+            text: Rain rituals & drought governance
+          - href: projects/harveststat.qmd
+            text: NASA HarvestStat
+          - href: projects/greenhouse-mapping.qmd
+            text: Greenhouse mapping
+      - href: teaching.qmd
+        text: Teaching
+      - href: publications.qmd
+        text: Publications
+      - href: media.qmd
+        text: Talks & Media
+      - href: cv.qmd
+        text: CV
+      - href: index.qmd#book-a-consultation
+        text: Contact
+    right:
+      - icon: mortarboard
+        href: https://scholar.google.com/citations?user=p7yIdHgAAAAJ
+        aria-label: Google Scholar
+      - icon: github
+        href: https://github.com/ouaretw
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://www.linkedin.com/in/walid-ouaret/
+        aria-label: LinkedIn
+      - icon: envelope
+        href: mailto:wo140@georgetown.edu
+        aria-label: Email
+  page-footer:
+    left: "© 2026 Walid Ouaret · The Earth Commons Institute, Georgetown University"
+    center:
+      - text: Research
+        href: projects/index.qmd
+      - text: Teaching
+        href: teaching.qmd
+      - text: Publications
+        href: publications.qmd
+      - text: Blog
+        href: blog/index.qmd
+      - text: Contact
+        href: index.qmd#book-a-consultation
+    right: "Built with [Quarto](https://quarto.org)"
+
+format:
+  html:
+    theme:
+      light: [flatly, theme-light.scss, styles.scss]
+      dark: [darkly, theme-dark.scss, styles.scss]
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true

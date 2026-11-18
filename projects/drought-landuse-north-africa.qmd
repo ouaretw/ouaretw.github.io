@@ -1,0 +1,38 @@
+---
+title: "Drought and Agricultural Land-Use Change in North Africa"
+subtitle: "Current research · doctoral dissertation line"
+categories: [Drought, Land-use change, Remote sensing, North Africa]
+---
+
+[Current]{.wo-status .current}
+
+This research asks how drought shapes agricultural land use in the drylands of **Algeria, Morocco and Tunisia**: where cereals and other crops are grown, how cropland expands, contracts or intensifies, and how reliably this can be measured from space. It was the subject of my PhD dissertation, *Drought and Agricultural Land-Use Change in North Africa* (University of Maryland, 2026), and I am continuing it.
+
+**Region:** Algeria, Morocco, Tunisia · **Collaborators:** M. E. Brown, T. V. Loboda
+
+::: {.wo-gallery}
+![Rangeland at the dry margin of the cereal belt, Tiaret region, Algeria, April 2024](../assets/images/field-algeria-tiaret.jpg){fig-alt="Dry rangeland with a lone tree in western Algeria"}
+
+![Cereal hills, Bordj Bou Arréridj region, Algeria, June 2024](../assets/images/field-algeria-hills.jpg){fig-alt="Hills with cereal fields in Algeria"}
+
+![Cropland and hillslopes, Taza region, Morocco, February 2024](../assets/images/field-morocco-taza.jpg){fig-alt="Hillside above green fields in northern Morocco"}
+:::
+
+## Approach
+
+- High-resolution mapping of winter cereals from satellite imagery, trained and validated with field data collected for the project
+- Design-based estimates of cropland area built on probability sampling and field surveys
+- Long-term reconstruction of cropland area and yield, and comparison with agricultural statistics
+- Drought indices and satellite records of vegetation and soil moisture, linked to cropland dynamics
+
+## Outputs to date
+
+- Ouaret, W., Loboda, T. V., Skakun, S., Endsley, A., & Brown, M. E. (2024). *High-Resolution Winter Cereal Mapping in North Africa for the 2023–2024 Cropping Season Using Collected Field Data.* AGU Fall Meeting, GC13O-0385 (poster).
+- Ouaret, W., Brown, M. E., & Shumilo, L. (2024). *Mapping Agricultural Greenhouses in Algeria: A Deep Learning Approach.* IEEE M2GARSS, 103–107. [doi:10.1109/M2GARSS57310.2024.10537540](https://doi.org/10.1109/M2GARSS57310.2024.10537540)
+- Ouaret, W., Brown, M. E. (2023). *Enhancing Early Warning Systems for Drought Resilience in Agriculture: The Case of Algeria's Drought Shield Program.* AGU Fall Meeting, GC13F-0982 (poster).
+- Ouaret, W., Kaci, G., & Brown, M. E. (2023). *Charting Two Decades of Algerian Agriculture: Cropland Area and Yield Estimation (1998–2021).* AgMIP9, New York (poster).
+- Ouaret, W., Endsley, K. A., Brown, M. E., & McCarty, J. L. (2022). *Spatiotemporal Climatic and Hydrological Trends for Algerian Smallholder Agriculture Using Remotely Sensed Data.* AGU Fall Meeting, H12N-0862 (poster).
+
+Related pages: [cereal mapping and area estimation](winter-cereal-mapping.qmd) · [greenhouse mapping](greenhouse-mapping.qmd)
+
+[← All research](index.qmd)

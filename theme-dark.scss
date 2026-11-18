@@ -1,0 +1,30 @@
+// Dark variant: deep green ground, warm off-white text, soft green links, terracotta accents only.
+
+/*-- scss:defaults --*/
+$primary:     #A9D3BC;
+$secondary:   #8FA89C;
+$link-color:  #A9D3BC;
+$link-hover-color: #FFFFFF;
+$body-bg:     #101C17;
+$body-color:  #E9E4D8;
+$headings-color: #F3EFE6;
+$navbar-bg:   #0B1511;
+$navbar-fg:   #E9E4D8;
+$navbar-hl:   #FFFFFF;
+$footer-bg:   #0B1511;
+$footer-fg:   #B9B3A6;
+
+/*-- scss:rules --*/
+:root {
+  --wo-surface: #15241E;
+  --wo-border: #24372F;
+  --wo-rule: #2E443A;
+  --wo-muted: #B9B3A6;
+  --wo-accent: #D49A76;
+  --wo-ink: #F3EFE6;
+  --wo-btn-bg: #E9E4D8;  --wo-btn-fg: #101C17;
+  --wo-chip-current-bg: #1E3A2F;  --wo-chip-current-fg: #CFE6DA;
+  --wo-chip-prev-bg: #26332D;     --wo-chip-prev-fg: #D3CDBF;
+  --wo-chip-dev-bg: #26332D;      --wo-chip-dev-fg: #D3CDBF;
+  --wo-chip-sub-bg: #3A2A20;      --wo-chip-sub-fg: #F0C6AA;
+}

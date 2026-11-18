@@ -1,0 +1,12 @@
+---
+title: "Blog"
+subtitle: "Notes on remote sensing, climate data and agriculture"
+listing:
+  contents: posts
+  type: default
+  sort: "date desc"
+  categories: true
+  sort-ui: true
+  filter-ui: true
+  feed: true
+---

@@ -1,0 +1,11 @@
+---
+title: "Welcome"
+description: "First post on the new site."
+date: 2026-11-18
+author: "Walid Ouaret"
+categories: [news]
+---
+
+Welcome to my website. I'll use this blog for tutorials on remote sensing and climate data workflows, notes from workshops, and updates on my research on agriculture and drought in North Africa.
+
+<!-- To add a post: copy this folder, rename it YYYY-MM-DD-short-title, and edit index.qmd. -->

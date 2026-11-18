@@ -1,0 +1,31 @@
+// Palette from the PhD defense deck, used with restraint:
+// ink green #142D24 carries the page; sand/cream are the ground; terracotta only as a small accent.
+
+/*-- scss:defaults --*/
+$primary:     #142D24;
+$secondary:   #5E7A6E;
+$link-color:  #1F5A45;
+$link-hover-color: #142D24;
+$body-bg:     #FBFAF6;
+$body-color:  #1C2420;
+$headings-color: #142D24;
+$navbar-bg:   #142D24;
+$navbar-fg:   #E9E4D8;
+$navbar-hl:   #FFFFFF;
+$footer-bg:   #F3EFE6;
+$footer-fg:   #4A554F;
+
+/*-- scss:rules --*/
+:root {
+  --wo-surface: #FFFFFF;
+  --wo-border: #E6E1D6;
+  --wo-rule: #DDD6C8;
+  --wo-muted: #5C6660;
+  --wo-accent: #A65A36;          /* terracotta, accents only */
+  --wo-ink: #142D24;
+  --wo-btn-bg: #142D24;  --wo-btn-fg: #FBFAF6;
+  --wo-chip-current-bg: #E7EEE9;  --wo-chip-current-fg: #1F4A3A;
+  --wo-chip-prev-bg: #EFECE5;     --wo-chip-prev-fg: #4A554F;
+  --wo-chip-dev-bg: #EFECE5;      --wo-chip-dev-fg: #4A554F;
+  --wo-chip-sub-bg: #F3E9E2;      --wo-chip-sub-fg: #7A3E22;
+}

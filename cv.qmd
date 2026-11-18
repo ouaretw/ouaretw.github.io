@@ -1,0 +1,213 @@
+---
+title: "Curriculum Vitae"
+subtitle: "Walid Ouaret, Ph.D."
+---
+
+::: {.cv-contact}
+Postdoctoral Fellow, The Earth Commons Institute, Georgetown University, Washington, DC ·
+[wo140@georgetown.edu](mailto:wo140@georgetown.edu) ·
+[Google Scholar](https://scholar.google.com/citations?user=p7yIdHgAAAAJ) ·
+[GitHub](https://github.com/ouaretw) ·
+[LinkedIn](https://www.linkedin.com/in/walid-ouaret/) ·
+[ORCID](https://orcid.org/0000-0002-2615-1451)
+:::
+
+<!-- PDF download: add a public CV (no phone number or home address) at assets/cv.pdf, then uncomment: -->
+<!-- [Download PDF CV](assets/cv.pdf){.btn .btn-primary .btn-sm} -->
+
+## Current appointment
+
+::: {.cv-entry}
+::: {.cv-head}
+[Postdoctoral Fellow]{.cv-role} [2026 to present]{.cv-date}
+:::
+[The Earth Commons Institute, Georgetown University, Washington, DC]{.cv-where}
+
+- Research in the SuRGE Lab with Roshanak (Roshi) Nateghi on Earth observation, climate risk and environmental resilience
+:::
+
+## Education
+
+::: {.cv-entry}
+::: {.cv-head}
+[Ph.D., Geographical Sciences]{.cv-role} [2026]{.cv-date}
+:::
+[University of Maryland, College Park]{.cv-where}
+
+- Dissertation: *Drought and Agricultural Land-Use Change in North Africa*
+- Advisors: Molly E. Brown and Tatiana V. Loboda
+- Specialization: agriculture, remote sensing, climate, food security
+:::
+
+::: {.cv-entry}
+::: {.cv-head}
+[Executive Master, Geo-Information Systems and Territorial Development]{.cv-role} [2020–2021]{.cv-date}
+:::
+[AgroParisTech Executive, Montpellier, France]{.cv-where}
+:::
+
+::: {.cv-entry}
+::: {.cv-head}
+[Degree in Innovation, Technology and Entrepreneurship]{.cv-role} [2017–2018]{.cv-date}
+:::
+[Université Paris Sciences et Lettres (PSL), Paris, France]{.cv-where}
+:::
+
+::: {.cv-entry}
+::: {.cv-head}
+[M.S., Climate, Land Use and Ecosystem Services]{.cv-role} [2017]{.cv-date}
+:::
+[Paris-Saclay University & AgroParisTech, France]{.cv-where}
+:::
+
+::: {.cv-entry}
+::: {.cv-head}
+[M.S.]{.cv-role} [2016]{.cv-date}
+:::
+[Mediterranean Agronomic Institute of Chania (CIHEAM), Greece]{.cv-where}
+:::
+
+::: {.cv-entry}
+::: {.cv-head}
+[Engineer in Agronomy]{.cv-role} [2013]{.cv-date}
+:::
+[École Nationale Supérieure Agronomique, Algiers, Algeria]{.cv-where}
+:::
+
+## Research experience
+
+::: {.cv-entry}
+::: {.cv-head}
+[Graduate Research Assistant]{.cv-role} [2023–2026]{.cv-date}
+:::
+[Department of Geographical Sciences, University of Maryland, College Park]{.cv-where}
+
+- Research on agricultural drought monitoring and forecasting, and early warning system design
+- Remote sensing of land cover and land-use change; cropland estimation
+- NASA HarvestStat: subnational crop production data; evolution, volatility and climate sensitivity of North African wheat systems
+- Coordinated international research projects on agriculture and climate change in North Africa; proposal writing
+- Developed and translated open climate computation curricula; organized and delivered workshops in North Africa
+:::
+
+::: {.cv-entry}
+::: {.cv-head}
+[Research and Teaching Assistant]{.cv-role} [2021–2023]{.cv-date}
+:::
+[Geospatial Analysis Center, Miami University, Ohio]{.cv-where}
+
+- Research on NASA ACCDAM and NASA IDS projects using GRACE, SMAP, MODIS, VIIRS, Planet, Sentinel, Landsat, WorldView, SPOT and Pléiades data
+:::
+
+::: {.cv-entry}
+::: {.cv-head}
+[Remote Sensing Specialist Intern]{.cv-role} [2021]{.cv-date}
+:::
+[Grasslands and Livestock Team, INRAE, Montpellier, France]{.cv-where}
+
+- Object-based image analysis in Python for landscape segmentation and land-cover classification (Sentinel, Landsat, SPOT, Pléiades and in-field data)
+:::
+
+::: {.cv-entry}
+::: {.cv-head}
+[Research Assistant]{.cv-role} [2018–2020]{.cv-date}
+:::
+[Landscape Modeling Team, INRAE, Montpellier, France]{.cv-where}
+
+- Crop allocation model for Tunisia's rainfed smallholder systems (Lebna watershed), based on farmer interviews, remote sensing and expert elicitation
+:::
+
+::: {.cv-entry}
+::: {.cv-head}
+[Research Assistant]{.cv-role} [2018]{.cv-date}
+:::
+[Plant Production Systems Group, Wageningen University, Netherlands]{.cv-where}
+
+- Database and trade-off analysis of liming in maize systems in western Kenya (yield, greenhouse gas emissions, farm income)
+:::
+
+::: {.cv-entry}
+::: {.cv-head}
+[Data Scientist Intern]{.cv-role} [2017]{.cv-date}
+:::
+[Global Agronomy Team, UMR Agronomie, INRAE, Paris, France]{.cv-where}
+
+- Global database and expert elicitation comparing organic and conventional crop yields
+:::
+
+::: {.cv-entry}
+::: {.cv-head}
+[Research Assistant]{.cv-role} [2015–2016]{.cv-date}
+:::
+[Mediterranean Agronomic Institute of Chania, Greece]{.cv-where}
+
+- Hydroponic experiments on plant nitrogen and sulfate assimilation; remote sensing for plant-level nutrition assessment
+:::
+
+## Other professional experience
+
+::: {.cv-entry}
+::: {.cv-head}
+[Co-Founder and CEO, Field Factory]{.cv-role} [2016–2020]{.cv-date}
+:::
+[Paris, France]{.cv-where}
+
+- Agricultural start-up developing an in-field biorefinery for 3D-printing bio-filaments; led fundraising and a team of 10
+:::
+
+::: {.cv-entry}
+::: {.cv-head}
+[Industrial Sales Account Manager]{.cv-role} [2014]{.cv-date}
+:::
+[IMC-BioMérieux, Algiers, Algeria]{.cv-where}
+:::
+
+## Teaching and mentoring
+
+- Co-Investigator and curriculum developer, [Open Climate Science for Agriculture](teaching.qmd) (NASA TOPS, 2023–2025): a five-module open curriculum in English, French and Arabic
+- Teaching Assistant, graduate and undergraduate Geo-Information Systems courses, Miami University (2021–2023)
+- Advised and managed undergraduate research projects, Miami University (2021–2023)
+- Certified through Carpentries Instructor Training (2023)
+- Workshops led: see [Talks & Activities](media.qmd#workshops-and-training-led)
+
+## Grants and fellowships
+
+- **2025–2026.** SEEDS: Satellite-Enabled Earth Observation & Digital Solutions for Agriculture. *Project Lead*, 6th Grain
+- **2024–2025.** Open Science Community Fellow, Earth Science Information Partners (ESIP)
+- **2023–2025.** NASA Transform to Open Science: *Satellite Observations and Models Informing Agriculture: Training for Open Science Under Climate Change*. *Co-Investigator* (PI: A. K. Endsley), $300,841
+- **2021–2023.** NASA Interdisciplinary Research in Earth Science: *The impact of urban expansion on peri-urban agriculture, hydrometeorology, food security, and human health*. *Graduate Research Assistant* (PI: C. Hain)
+- **2018–2020.** IRD-ARTS Research Grant for Students from the South (PI: J.-S. Bailly, AgroParisTech)
+- **2017–2018.** PSL-ITI Scientist and Entrepreneur Excellence Grant, €10,000 and start-up incubation
+- **2014–2016.** CIHEAM Graduate Study Scholarship (full scholarship), Mediterranean Agronomic Institute of Chania
+
+## Professional service
+
+- **2025.** Student/Early Career Convener, AGU Fall Meeting, sessions IN43B & IN52A: *Advancements in Earth Science Data Access and Visualization Through Emerging Technologies*, New Orleans
+- **2025.** Reviewer, Meta-Reviewer & Technical Program Committee Member, IEEE AIESRE 2025, Tizi-Ouzou, Algeria
+- **2024.** Session Chair, WE1.R1 Greenhouse Emissions, IEEE M2GARSS 2024, Oran, Algeria
+- **2024–2025.** Open Science Cluster Fellow, Earth Science Information Partners
+
+## Awards
+
+- **2017.** Climate-KIC Award: a better urban biking experience in Paris during heatwaves
+- **2016.** Climate-KIC Award: a framework for sustainable food waste management on university campuses
+
+## Training and summer schools
+
+- **2024.** 3rd Training School on the Statistical Modelling of Compound Events (SMCE), Como, Italy
+- **2023.** Embodying Climate Change, Warsaw, Poland
+- **2023.** National Soil Moisture Workshop, Maryland
+- **2023.** IEEE GRSS-USCMHI Remote Sensing Summer School, Los Angeles
+- **2023.** EarthCube Advancing the Analysis of High-Resolution Topography (A2HRT) Workshop, Tempe, Arizona
+- **2023.** Carpentries Instructor Training (online)
+- **2022.** IEEE-GRSS Soil Moisture School, UMass Amherst & Harvard Forest
+- **2020.** Interdisciplinary PhD Workshop in Sustainable Development (IPWSD), Columbia University
+- **2019.** International Summer School on Agent-Based Modelling & Simulation for Renewable Resources Management, Montpellier
+- **2018.** Summer School: Research Methods in Sustainable Development, Columbia University, Paris
+
+## Professional memberships
+
+American Geophysical Union (AGU) · American Association of Geographers (AAG) · American Meteorological Society (AMS) · IEEE Geoscience and Remote Sensing Society · International Society for Photogrammetry and Remote Sensing (ISPRS) · International Society of Precision Agriculture (ISPA) · Earth Science Information Partners (ESIP) · Society for Applied Anthropology · Ecological Society of America (ESA) · Algerian Association for Advancing Science, Technology and Entrepreneurship (AAASTE)
+
+## Publications and presentations
+
+See [Publications](publications.qmd) and [Talks & Activities](media.qmd).

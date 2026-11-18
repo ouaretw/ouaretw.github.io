@@ -1,0 +1,38 @@
+---
+title: "Agricultural and Environmental Modeling"
+subtitle: "Previous research · 2015–2023"
+categories: [Modeling, Agronomy, Food systems]
+---
+
+[Previous]{.wo-status .prev}
+
+Before my PhD I worked on a series of modeling and synthesis projects in agronomy and land systems.
+
+## Crop allocation in Tunisian rainfed smallholder systems
+*INRAE Landscape Modeling Team, Montpellier · 2018–2020 · IRD-ARTS grant (PI: Jean-Stéphane Bailly, AgroParisTech)*
+
+I collected data through farmer interviews and seasonal crop monitoring in the Lebna watershed using remote sensing. I combined these with expert elicitation to build and validate a crop allocation model for Tunisia's rainfed smallholder farming systems.
+
+## Liming trade-offs in western Kenya
+*Plant Production Systems Group, Wageningen University · 2018*
+
+I built a database of field experiments on lime use in maize across Sub-Saharan Africa and ran a trade-off analysis linking yield effects to greenhouse gas emissions and farm income.
+
+- Hijbeek, R., van Loon, M. P., **Ouaret, W.**, Boekelo, B., & van Ittersum, M. K. (2021). Liming agricultural soils in Western Kenya: Can long-term economic and environmental benefits pay off short term investments? *Agricultural Systems*, 190, 103095. [doi:10.1016/j.agsy.2021.103095](https://doi.org/10.1016/j.agsy.2021.103095)
+
+## Organic and conventional yield synthesis
+*Global Agronomy Team, UMR Agronomie, INRAE, Paris · 2017*
+
+I compiled a global database comparing organic and conventional yields across crop species. I also designed a protocol to elicit quantitative expert knowledge on organic yields.
+
+## Intercropping and nutrient modeling
+- Kherif, O., Keskes, M. I., Pansu, M., **Ouaret, W.**, et al. (2021). Agroecological modeling of nitrogen and carbon transfers between decomposer micro-organisms, plant symbionts, soil and atmosphere in an intercropping system. *Ecological Modelling*, 440, 109390. [doi:10.1016/j.ecolmodel.2020.109390](https://doi.org/10.1016/j.ecolmodel.2020.109390)
+- Kherif, O., Seghouani, M., Zemmouri, B., Bouhenache, A., Keskes, M. I., Yacer-Nazih, R., **Ouaret, W.**, & Latati, M. (2021). Understanding the response of wheat–chickpea intercropping to nitrogen fertilization using agro-ecological competitive indices under contrasting pedoclimatic conditions. *Agronomy*, 11(6), 1225. [doi:10.3390/agronomy11061225](https://doi.org/10.3390/agronomy11061225)
+- Kaci, G., **Ouaret, W.**, & Rahmoune, B. (2022). Wheat–Faba bean intercrops improve plant nutrition, yield, and availability of nitrogen (N) and phosphorus (P) in soil. *Agronomy Research*, 20(3), 603–616. [doi:10.15159/AR.22.047](https://doi.org/10.15159/AR.22.047)
+
+## Urban expansion and peri-urban agriculture
+*Geospatial Analysis Center, Miami University · 2021–2023 · NASA Interdisciplinary Research in Earth Science (PI: Christopher Hain, NASA Marshall Space Flight Center)*
+
+As a graduate research assistant, I worked on the impact of urban expansion on peri-urban agriculture, hydrometeorology, food security and human health. I used GRACE, SMAP, MODIS, VIIRS, Planet, Sentinel, Landsat and other satellite data.
+
+[← All research](index.qmd)
