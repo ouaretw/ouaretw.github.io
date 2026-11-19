@@ -7,11 +7,39 @@ subtitle: "Earth observation, climate risk and agricultural change"
 ![Cereal fields, Bizerte region, northern Tunisia · fieldwork, May 2024](../assets/images/hero-tunisia-cereal-fields.jpg){fig-alt="Rolling golden cereal fields in northern Tunisia"}
 :::
 
-::: {.wo-note}
-Status labels separate ongoing research from completed and published work.
+## Research themes
+
+::: {.wo-grid .wide}
+
+::: {.wo-card}
+#### [Drought, Agriculture & Land-Use Change](drought-landuse-north-africa.qmd){.stretched-link}
+Drought monitoring, cropland dynamics and satellite-based land-use assessment, validated with field surveys.
+:::
+
+::: {.wo-card}
+#### [Drought Governance & Society](rain-rituals.qmd){.stretched-link}
+How communities and states recognize and respond to drought, from rain rituals to early-warning programs, and how that knowledge can strengthen drought governance.
+:::
+
+::: {.wo-card}
+[Emerging]{.wo-status .dev}
+
+#### [Climate Risk & Infrastructure Resilience](../index.qmd#book-a-consultation){.stretched-link}
+Climate risks to energy and water systems, including drought-driven power-system vulnerability and the environmental footprint of data centers.
+:::
+
+::: {.wo-card}
+#### [Earth Observation & Open Science](../teaching.qmd){.stretched-link}
+Reproducible geospatial analysis, open climate-data tools, and remote-sensing training.
+:::
+
 :::
 
 ## Current research
+
+::: {.wo-note}
+Status labels separate ongoing research from completed and published work.
+:::
 
 ::: {.wo-grid .wide}
 
@@ -117,7 +145,15 @@ Crop allocation modeling in Tunisia, trade-offs of soil liming in Kenya, organic
 
 :::
 
-## Fieldwork across the Maghreb
+## Methods & tools
+
+::: {.wo-tools}
+[**Earth observation**: Sentinel · Landsat · MODIS · VIIRS · SMAP · GRACE · Planet · MERRA-2]{.wo-toolrow}
+[**Analysis**: design-based area estimation · stratified field sampling · deep learning · drought indices (SPEI) · time-series and statistical modeling]{.wo-toolrow}
+[**Open science**: Python · Jupyter · Git/GitHub · Pixi · Snakemake · NASA Earthdata · cloud-native climate data]{.wo-toolrow}
+:::
+
+## Fieldwork across the Maghreb {#fieldwork-across-the-maghreb}
 
 Field surveys in 2024 took me through the cereal belt and its margins in all three countries. The observations collected on these trips train and validate the maps and area estimates.
 

@@ -18,6 +18,8 @@ website:
     left:
       - href: index.qmd
         text: About
+      - href: phd.qmd
+        text: PhD
       - text: Research
         menu:
           - href: projects/index.qmd
@@ -59,6 +61,8 @@ website:
   page-footer:
     left: "© 2026 Walid Ouaret · The Earth Commons Institute, Georgetown University"
     center:
+      - text: PhD
+        href: phd.qmd
       - text: Research
         href: projects/index.qmd
       - text: Teaching
