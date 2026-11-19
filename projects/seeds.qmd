@@ -1,6 +1,7 @@
 ---
 title: "SEEDS: Satellite-Enabled Earth Observation & Digital Solutions for Agriculture"
 subtitle: "Capacity building · 2025–2026"
+description: "SEEDS Seminar Series (October 2025): 13 recorded talks on remote sensing and AI for agriculture and food security."
 categories: [Remote sensing, Training, Agriculture]
 ---
 
@@ -41,4 +42,4 @@ All 13 talks are available on YouTube. [Open the full playlist ↗](https://www.
 
 See also: [Teaching & Training: the Open Climate Science for Agriculture curriculum](../teaching.qmd)
 
-[← All research](index.qmd)
+[← Research agenda](index.qmd)

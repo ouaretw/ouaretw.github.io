@@ -2,35 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://ouaretw.github.io/teaching.html</loc>
-    <lastmod>2026-11-18T22:38:55.998Z</lastmod>
+    <lastmod>2026-11-19T17:36:59.279Z</lastmod>
   </url>
   <url>
     <loc>https://ouaretw.github.io/projects/winter-cereal-mapping.html</loc>
-    <lastmod>2026-11-18T22:01:54.561Z</lastmod>
+    <lastmod>2026-11-19T17:39:05.505Z</lastmod>
   </url>
   <url>
     <loc>https://ouaretw.github.io/projects/rain-rituals.html</loc>
-    <lastmod>2026-11-18T22:55:03.925Z</lastmod>
+    <lastmod>2026-11-19T17:33:58.123Z</lastmod>
   </url>
   <url>
-    <loc>https://ouaretw.github.io/projects/harveststat.html</loc>
-    <lastmod>2026-11-18T22:01:54.656Z</lastmod>
+    <loc>https://ouaretw.github.io/projects/index.html</loc>
+    <lastmod>2026-11-19T17:37:51.213Z</lastmod>
   </url>
   <url>
-    <loc>https://ouaretw.github.io/projects/drought-landuse-north-africa.html</loc>
-    <lastmod>2026-11-18T22:02:20.534Z</lastmod>
+    <loc>https://ouaretw.github.io/projects/greenhouse-mapping.html</loc>
+    <lastmod>2026-11-19T17:34:23.035Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ouaretw.github.io/projects/data-centers.html</loc>
+    <lastmod>2026-11-19T17:34:12.248Z</lastmod>
   </url>
   <url>
     <loc>https://ouaretw.github.io/phd.html</loc>
-    <lastmod>2026-11-19T17:21:35.497Z</lastmod>
+    <lastmod>2026-11-19T17:34:48.744Z</lastmod>
   </url>
   <url>
     <loc>https://ouaretw.github.io/index.html</loc>
-    <lastmod>2026-11-19T17:21:35.566Z</lastmod>
+    <lastmod>2026-11-19T17:32:21.977Z</lastmod>
   </url>
   <url>
     <loc>https://ouaretw.github.io/blog/posts/2026-11-18-welcome/index.html</loc>
     <lastmod>2026-11-18T21:25:11.167Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ouaretw.github.io/about.html</loc>
+    <lastmod>2026-11-19T17:35:21.372Z</lastmod>
   </url>
   <url>
     <loc>https://ouaretw.github.io/blog/index.html</loc>
@@ -38,30 +46,34 @@
   </url>
   <url>
     <loc>https://ouaretw.github.io/cv.html</loc>
-    <lastmod>2026-11-18T22:39:54.838Z</lastmod>
+    <lastmod>2026-11-19T17:35:55.821Z</lastmod>
   </url>
   <url>
     <loc>https://ouaretw.github.io/media.html</loc>
-    <lastmod>2026-11-18T22:34:05.013Z</lastmod>
+    <lastmod>2026-11-19T17:35:37.865Z</lastmod>
   </url>
   <url>
     <loc>https://ouaretw.github.io/projects/ag-env-modeling.html</loc>
-    <lastmod>2026-11-18T21:39:10.961Z</lastmod>
+    <lastmod>2026-11-19T17:35:55.823Z</lastmod>
   </url>
   <url>
-    <loc>https://ouaretw.github.io/projects/greenhouse-mapping.html</loc>
-    <lastmod>2026-11-18T22:01:54.614Z</lastmod>
+    <loc>https://ouaretw.github.io/projects/drought-landuse-north-africa.html</loc>
+    <lastmod>2026-11-19T17:33:58.043Z</lastmod>
   </url>
   <url>
-    <loc>https://ouaretw.github.io/projects/index.html</loc>
-    <lastmod>2026-11-19T17:21:46.582Z</lastmod>
+    <loc>https://ouaretw.github.io/projects/harveststat.html</loc>
+    <lastmod>2026-11-19T17:34:22.979Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ouaretw.github.io/projects/infrastructure-resilience.html</loc>
+    <lastmod>2026-11-19T17:34:12.196Z</lastmod>
   </url>
   <url>
     <loc>https://ouaretw.github.io/projects/seeds.html</loc>
-    <lastmod>2026-11-18T22:39:07.022Z</lastmod>
+    <lastmod>2026-11-19T17:35:37.876Z</lastmod>
   </url>
   <url>
     <loc>https://ouaretw.github.io/publications.html</loc>
-    <lastmod>2026-11-18T22:02:20.404Z</lastmod>
+    <lastmod>2026-11-19T17:35:08.506Z</lastmod>
   </url>
 </urlset>

@@ -1,6 +1,7 @@
 ---
-title: "PhD"
-subtitle: "Drought and Agricultural Land-Use Change in North Africa · University of Maryland, 2026"
+title: "Doctoral research"
+subtitle: "Drought and Agricultural Land-Use Change in North Africa · Ph.D., Geographical Sciences, University of Maryland, 2026"
+description: "Doctoral research on drought and agricultural land-use change in Algeria, Morocco and Tunisia: a 1,350-site field survey, 63 state-organized rain rituals, and 25 years of cropland change."
 ---
 
 ::: {.wo-story}
@@ -14,19 +15,19 @@ The work also meant going to the fields. Over the 2023–2024 season I drove tho
 ::: {.wo-stats}
 ::: {.wo-stat}
 [1,350]{.wo-stat-num}
-[field observations]{.wo-stat-label}
+[probability-sampled field observations (45 sampling units × 10 sites × 3 countries)]{.wo-stat-label}
 :::
 ::: {.wo-stat}
-[3]{.wo-stat-num}
-[countries surveyed]{.wo-stat-label}
+[18]{.wo-stat-num}
+[agricultural and land-cover classes recorded in the field]{.wo-stat-label}
 :::
 ::: {.wo-stat}
 [63]{.wo-stat-num}
-[rain-ritual events recorded]{.wo-stat-label}
+[state-organized rain rituals documented, 2000–2024]{.wo-stat-label}
 :::
 ::: {.wo-stat}
-[25 yrs]{.wo-stat-num}
-[of cropland change analysed]{.wo-stat-label}
+[11,100]{.wo-stat-num}
+[0.05° grid cells with 25 years of annual cropland observations]{.wo-stat-label}
 :::
 :::
 
@@ -37,7 +38,7 @@ The work also meant going to the fields. Over the 2023–2024 season I drove tho
 ::: {.wo-finding}
 [01]{.wo-find-num}
 
-**People recognize drought where it hits farming.** State-organized rain rituals (2000–2024) became more likely as drought intensified. All fell within the growing season, and drought over rainfed cropland predicted them better than national averages.
+**Institutional recognition follows agricultural drought.** The odds of a state-organized rain ritual rose as drought over cropland intensified. All rituals fell within the rainfed cropping season, and drought in northern and central rainfed clusters was more strongly associated with them than nationally averaged drought. Rituals mark institutional recognition; they do not measure drought impacts.
 
 [Accepted · *Environmental Research: Climate*]{.wo-status .accepted}
 :::
@@ -45,17 +46,17 @@ The work also meant going to the fields. Over the 2023–2024 season I drove tho
 ::: {.wo-finding}
 [02]{.wo-find-num}
 
-**Fallow is where satellite maps disagree.** Field-based estimates put cropland at 7.0 Mha in Morocco, 6.8 Mha in Algeria and 2.0 Mha in Tunisia. Fallow, nearly a third of all cropland, drives most of the disagreement among satellite products, and the cropland definition alone can flip the sign of the error.
+**Fallow is where satellite maps disagree.** Design-based estimates put cropland at 7.015 Mha in Morocco, 6.786 Mha in Algeria and 2.028 Mha in Tunisia. Fallow, 31.7% of cropland, was where disagreement among the three satellite products concentrated. Adding woody agriculture to the definition reversed the direction of one product's area difference in all three countries.
 
-[In preparation for publication]{.wo-status .prev}
+[Manuscript in preparation]{.wo-status .current}
 :::
 
 ::: {.wo-finding}
 [03]{.wo-find-num}
 
-**When drought strikes matters most.** Across 11,100 grid cells, persistent cropland change since 2000 occurred in 61% of analysed cells: expansion in Algeria, contraction in Morocco, both in Tunisia. Drought explained about half of that pattern, and seasonal timing was its strongest signal.
+**When drought strikes matters most.** Persistent cropland change occurred in 61.3% of grid cells (2000–2024): mostly expansion in Algeria, mostly contraction in Morocco and Tunisia. Drought characteristics accounted for 47–57% of out-of-fold spatial variation in change rates, and seasonal timing carried the most information. These are predictive associations, not causal attribution.
 
-[In preparation for publication]{.wo-status .prev}
+[Manuscript in preparation]{.wo-status .current}
 :::
 
 :::
@@ -67,9 +68,9 @@ The work also meant going to the fields. Over the 2023–2024 season I drove tho
 ## Chapters
 
 ::: {.wo-dated}
-- **Chapter 2.** Rain Rituals Signal Climate Risk in Drylands. [Project page →](projects/rain-rituals.qmd)
-- **Chapter 3.** Assessment of Satellite-Derived Cropland Mapping in the Dryland Agricultural Systems of North Africa. [Project page →](projects/winter-cereal-mapping.qmd)
-- **Chapter 4.** Drought and Long-Term Cropland Change Across North Africa. [Project page →](projects/drought-landuse-north-africa.qmd)
+- **Chapter 2.** Rain Rituals Signal Climate Risk in Drylands. Accepted in *Environmental Research: Climate*. [Project page →](projects/rain-rituals.qmd)
+- **Chapter 3.** Assessment of Satellite-Derived Cropland Mapping in the Dryland Agricultural Systems of North Africa. Manuscript in preparation. [Project page →](projects/winter-cereal-mapping.qmd)
+- **Chapter 4.** Drought and Long-Term Cropland Change Across North Africa. Manuscript in preparation. [Project page →](projects/drought-landuse-north-africa.qmd)
 :::
 
 **Advisory committee:** Tatiana V. Loboda (Chair), Weston Anderson, Molly E. Brown, Arthur K. Endsley, Michael Humber, Sergii Skakun, and Barnet Pavão-Zuckerman (Dean's Representative).

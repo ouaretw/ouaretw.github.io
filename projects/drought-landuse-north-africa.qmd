@@ -1,38 +1,61 @@
 ---
-title: "Drought and Agricultural Land-Use Change in North Africa"
-subtitle: "Current research · doctoral dissertation line"
+title: "Drought and Long-Term Cropland Change Across North Africa"
+subtitle: "Drought & agricultural land-use change · Doctoral research, Chapter 4"
+description: "Persistent cropland change in Algeria, Morocco and Tunisia from 2000 to 2024, and its association with the frequency, severity, persistence and seasonal timing of drought."
 categories: [Drought, Land-use change, Remote sensing, North Africa]
 ---
 
-[Current]{.wo-status .current}
+[Completed · manuscript in preparation]{.wo-status .current}
 
-This research asks how drought shapes agricultural land use in the drylands of **Algeria, Morocco and Tunisia**: where cereals and other crops are grown, how cropland expands, contracts or intensifies, and how reliably this can be measured from space. It was the subject of my PhD dissertation, *Drought and Agricultural Land-Use Change in North Africa* (University of Maryland, 2026), and I am continuing it.
+## Research question
 
-**Region:** Algeria, Morocco, Tunisia · **Collaborators:** M. E. Brown, T. V. Loboda
+Which characteristics of drought (frequency, severity, persistence or seasonal timing) are most closely associated with persistent cropland expansion and contraction in North Africa?
 
-::: {.wo-gallery}
-![Rangeland at the dry margin of the cereal belt, Tiaret region, Algeria, April 2024](../assets/images/field-algeria-tiaret.jpg){fig-alt="Dry rangeland with a lone tree in western Algeria"}
+## Scientific motivation
 
-![Cereal hills, Bordj Bou Arréridj region, Algeria, June 2024](../assets/images/field-algeria-hills.jpg){fig-alt="Hills with cereal fields in Algeria"}
+Most climate–agriculture research focuses on crop yield or production. Yet drought can also change whether land is planted, kept in cultivation, left fallow or withdrawn from cropping. The effects of drought on the long-term spatial extent of cultivation in North Africa remain poorly understood.
 
-![Cropland and hillslopes, Taza region, Morocco, February 2024](../assets/images/field-morocco-taza.jpg){fig-alt="Hillside above green fields in northern Morocco"}
+## Geographic scope
+
+Algeria, Morocco and Tunisia, 2000–2024, analysed on a 0.05° grid (cells of roughly 5 × 5 km).
+
+## Data and methods
+
+- **Cropland change.** Annual 30 m cropland observations from GACED30 were aggregated to 0.05° cells. Trends were estimated with the Theil–Sen estimator, and change was treated as persistent where the 95% confidence interval excluded zero.
+- **Drought.** Monthly SPEI-1, with a drought month defined as SPEI-1 ≤ −0.5. Drought was characterized along four dimensions: frequency and exposure, severity and intensity, duration and persistence, and seasonal timing (three-month windows of the September–August agricultural year).
+- **Models.** Country-specific random forest regression evaluated by repeated 10-fold cross-validation, with leave-one-dimension-out analysis, held-out permutation importance and spatially blocked classification. Comparison of 2000–2014 with 2015–2024.
+
+## Principal findings
+
+- **Persistent change.** Persistent change occurred in 6,799 of 11,100 cells (61.3%). Expansion made up 61.3% of significantly changing cells in Algeria. Contraction made up 90.3% in Morocco and 63.4% in Tunisia.
+- **Association with drought.** Drought characteristics accounted for **47–57% of out-of-fold spatial variation** in cropland-change rates (cross-validated R² 0.473, 0.516 and 0.573 in Algeria, Morocco and Tunisia).
+- **Seasonal timing.** Timing was the most informative dimension everywhere. Removing it lowered R² by 0.222, 0.174 and 0.153, against at most 0.018 for any other dimension. The most informative season differed: early season in Algeria, early and mid-season in Morocco, late and hot-dry seasons in Tunisia.
+- **Direction of change.** Drought characteristics separated contraction from expansion more clearly in Algeria (AUC 0.820) and Tunisia (AUC 0.845) than in Morocco (AUC 0.665).
+- **Later period.** After 2015, median change rates moved toward contraction in Algeria and Morocco. Drought characteristics did not explain the later trajectories consistently better, which is consistent with water access, investment and other factors shaping post-2015 change.
+
+::: {.wo-why}
+**Interpretation.** These are predictive associations. Model performance should not be read as a causal estimate of the share of agricultural change attributable to drought. Irrigation, groundwater access, policy and socioeconomic conditions were not modeled directly.
 :::
 
-## Approach
+## Scientific significance
 
-- High-resolution mapping of winter cereals from satellite imagery, trained and validated with field data collected for the project
-- Design-based estimates of cropland area built on probability sampling and field surveys
-- Long-term reconstruction of cropland area and yield, and comparison with agricultural statistics
-- Drought indices and satellite records of vegetation and soil moisture, linked to cropland dynamics
+The relationship between drought and cropland change depends on *when* drought occurs within the agricultural year and on the crops and water systems exposed to it. Drought monitoring for agriculture therefore benefits from seasonally and spatially resolved indicators, rather than whole-period summaries alone.
 
-## Outputs to date
+## Publications and outputs
 
-- Ouaret, W., Loboda, T. V., Skakun, S., Endsley, A., & Brown, M. E. (2024). *High-Resolution Winter Cereal Mapping in North Africa for the 2023–2024 Cropping Season Using Collected Field Data.* AGU Fall Meeting, GC13O-0385 (poster).
-- Ouaret, W., Brown, M. E., & Shumilo, L. (2024). *Mapping Agricultural Greenhouses in Algeria: A Deep Learning Approach.* IEEE M2GARSS, 103–107. [doi:10.1109/M2GARSS57310.2024.10537540](https://doi.org/10.1109/M2GARSS57310.2024.10537540)
-- Ouaret, W., Brown, M. E. (2023). *Enhancing Early Warning Systems for Drought Resilience in Agriculture: The Case of Algeria's Drought Shield Program.* AGU Fall Meeting, GC13F-0982 (poster).
+- Ouaret, W. *Drought and Long-Term Cropland Change Across North Africa.* Doctoral dissertation chapter, University of Maryland (2026); manuscript in preparation.
+- Ouaret, W., & Brown, M. E. (2023). *Enhancing Early Warning Systems for Drought Resilience in Agriculture: The Case of Algeria's Drought Shield Program.* AGU Fall Meeting, GC13F-0982 (poster).
 - Ouaret, W., Kaci, G., & Brown, M. E. (2023). *Charting Two Decades of Algerian Agriculture: Cropland Area and Yield Estimation (1998–2021).* AgMIP9, New York (poster).
 - Ouaret, W., Endsley, K. A., Brown, M. E., & McCarty, J. L. (2022). *Spatiotemporal Climatic and Hydrological Trends for Algerian Smallholder Agriculture Using Remotely Sensed Data.* AGU Fall Meeting, H12N-0862 (poster).
 
-Related pages: [cereal mapping and area estimation](winter-cereal-mapping.qmd) · [greenhouse mapping](greenhouse-mapping.qmd)
+## In the field
 
-[← All research](index.qmd)
+::: {.wo-gallery}
+![Rangeland at the dry margin of the cereal belt, Tiaret region, Algeria, April 2024](../assets/images/field-algeria-tiaret.jpg){fig-alt="Dry rangeland with a lone tree in western Algeria" loading="lazy"}
+
+![Cereal hills, Bordj Bou Arréridj region, Algeria, June 2024](../assets/images/field-algeria-hills.jpg){fig-alt="Hills with cereal fields in Algeria" loading="lazy"}
+
+![Cropland and hillslopes, Taza region, Morocco, February 2024](../assets/images/field-morocco-taza.jpg){fig-alt="Hillside above green fields in northern Morocco" loading="lazy"}
+:::
+
+[← Research agenda](index.qmd)

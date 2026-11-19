@@ -1,31 +1,31 @@
 ---
-pagetitle: "Walid Ouaret, Ph.D."
-description: "Earth observation scientist and Postdoctoral Fellow at The Earth Commons Institute, Georgetown University."
+pagetitle: "Walid Ouaret, Ph.D. · Climate Extremes, Earth Observation & Societal Resilience"
+description: "Walid Ouaret studies how climate extremes affect agricultural landscapes, critical infrastructure and the institutions that manage environmental risk. Postdoctoral Fellow, The Earth Commons Institute, Georgetown University."
 image: assets/images/profile.jpg
 ---
 
-::: {.wo-intro}
+::: {.wo-hero}
 
 ::: {.wo-portrait}
 ![](assets/images/profile.jpg){fig-alt="Portrait of Walid Ouaret"}
 :::
 
-::: {.wo-bio}
-[Walid Ouaret, Ph.D.]{.wo-name}
+::: {.wo-hero-text}
+```{=html}
+<h1 class="wo-headline">Climate Extremes, Earth Observation &amp; Societal Resilience</h1>
+```
 
-[Postdoctoral Fellow · The Earth Commons Institute · Georgetown University]{.wo-role}
-
-::: {.wo-line}
-I study how climate extremes reshape agriculture, land use and critical infrastructure, and how people and institutions respond. I combine satellite observations, climate data and fieldwork to inform drought governance and resilience decisions.
+::: {.wo-identity}
+**Walid Ouaret, Ph.D.**\
+Postdoctoral Fellow\
+The Earth Commons Institute\
+Georgetown University
 :::
-
-I work with Roshanak (Roshi) Nateghi in the [SuRGE Lab](https://earthcommons.georgetown.edu/research/surge-lab/). I hold a PhD in Geographical Sciences from the University of Maryland.
 
 ::: {.wo-links}
 [<i class="bi bi-envelope" aria-hidden="true"></i> Email](mailto:wo140@georgetown.edu)
 [<i class="bi bi-mortarboard" aria-hidden="true"></i> Google Scholar](https://scholar.google.com/citations?user=p7yIdHgAAAAJ)
 [<i class="bi bi-github" aria-hidden="true"></i> GitHub](https://github.com/ouaretw)
-[<i class="bi bi-linkedin" aria-hidden="true"></i> LinkedIn](https://www.linkedin.com/in/walid-ouaret/)
 [<i class="bi bi-person-vcard" aria-hidden="true"></i> ORCID](https://orcid.org/0000-0002-2615-1451)
 [<i class="bi bi-file-earmark-text" aria-hidden="true"></i> CV](cv.qmd)
 :::
@@ -33,46 +33,139 @@ I work with Roshanak (Roshi) Nateghi in the [SuRGE Lab](https://earthcommons.geo
 
 :::
 
-## Explore
+::: {.wo-intro-text}
+My research investigates how climate extremes affect agricultural landscapes, critical infrastructure, and the institutions responsible for managing environmental risk. I integrate satellite observations, climate records, field surveys, and quantitative modeling to understand environmental change, identify emerging risks, and support resilience decisions.
+
+At Georgetown University's Earth Commons Institute, I am extending this work toward interconnected climate, water, and energy risks, including infrastructure vulnerability and the environmental consequences of data-center expansion.
+:::
+
+## Research vision
+
+::: {.wo-question}
+How do climate extremes generate environmental, infrastructure, and institutional risks, and how can Earth observation and quantitative evidence support more resilient decisions?
+:::
+
+## Research directions
 
 ::: {.wo-grid .wide}
 
 ::: {.wo-card}
-#### [PhD](phd.qmd){.stretched-link}
-Drought and agricultural land-use change across Algeria, Morocco and Tunisia: the story, fieldwork and findings.
+[Established]{.wo-status .published}
+
+### [Drought & Agricultural Land-Use Change](projects/index.qmd#drought-agricultural-land-use-change){.stretched-link}
+How drought variability and persistence relate to cropland extent and intensification in drylands, using field surveys, reference datasets and satellite cropland products. Algeria, Morocco and Tunisia.
 :::
 
 ::: {.wo-card}
-#### [Research](projects/index.qmd){.stretched-link}
-Cereal mapping, drought and land-use change, rain rituals and drought governance, NASA HarvestStat.
+[Established · expanding]{.wo-status .published}
+
+### [Climate Signals & Environmental Governance](projects/index.qmd#climate-signals-environmental-governance){.stretched-link}
+When environmental stress becomes institutionally recognized. State-organized rain rituals are studied as observable institutional responses to drought, not as measurements of it.
 :::
 
 ::: {.wo-card}
-#### [Teaching](teaching.qmd){.stretched-link}
-Open Climate Science for Agriculture: a five-module NASA-funded curriculum in English, French and Arabic.
+[Emerging]{.wo-status .dev}
+
+### [Climate & Energy Infrastructure Resilience](projects/infrastructure-resilience.qmd){.stretched-link}
+Drought-related electricity-system vulnerability, climate–grid interactions and multi-hazard exposure of energy infrastructure. Includes DROUGHT-GRID, a proposed research framework.
 :::
 
 ::: {.wo-card}
-#### [Publications](publications.qmd){.stretched-link}
-Peer-reviewed articles and conference papers, including new work in *Environmental Research: Climate*.
+[Emerging]{.wo-status .dev}
+
+### [Data Centers & Environmental Risk](projects/data-centers.qmd){.stretched-link}
+The electricity, water, cooling and air-quality footprint of data-center expansion, and how grid connectivity and environmental equity shape its risks.
 :::
 
 :::
 
-## News
+## Selected research projects
 
-::: {.wo-dated}
-- **2026.** Paper accepted in *Environmental Research: Climate*
-- **2026.** Joined The Earth Commons Institute, Georgetown University, as a Postdoctoral Fellow
-- **2026.** PhD in Geographical Sciences, University of Maryland. [Read the story →](phd.qmd)
-- **2025.** Research featured in *Eos*: [When a Prayer Is Also a Climate Signal](https://eos.org/articles/when-a-prayer-is-also-a-climate-signal)
-- **2025.** Organized the SEEDS Seminar Series. [Watch the 13 talks](https://www.youtube.com/playlist?list=PLaqba-tnL7HIkkqRrp4iQiub09L-CFCI8)
+::: {.wo-grid .wide}
+
+::: {.wo-card}
+![](assets/images/card-cereal-belt.jpg){.wo-card-img fig-alt="Map of winter cereal density across the North African cereal belt" loading="lazy"}
+
+[Completed · manuscript in preparation]{.wo-status .current}
+
+### [Cropland Mapping and Area Estimation](projects/winter-cereal-mapping.qmd){.stretched-link}
+A 1,350-site probability survey across three countries, used to estimate cropland area and assess three satellite cropland products.
 :::
 
-## Book a consultation {#book-a-consultation}
+::: {.wo-card}
+![](assets/images/card-drought-landuse.jpg){.wo-card-img fig-alt="Dry steppe landscape with a lone tree, western Algeria" loading="lazy"}
+
+[Completed · manuscript in preparation]{.wo-status .current}
+
+### [Drought and Long-Term Cropland Change](projects/drought-landuse-north-africa.qmd){.stretched-link}
+Persistent cropland change across Algeria, Morocco and Tunisia (2000–2024), and its association with the timing, severity and persistence of drought.
+:::
+
+::: {.wo-card}
+![](assets/images/card-newspaper-archive.jpg){.wo-card-img fig-alt="Boxes of newspaper archives on a library cart" loading="lazy"}
+
+[Accepted]{.wo-status .accepted}
+
+### [Rain Rituals and Drought Governance](projects/rain-rituals.qmd){.stretched-link}
+A 25-year record of 63 state-organized rain rituals, linked to drought over cropland to study when drought becomes institutionally recognized.
+:::
+
+::: {.wo-card}
+![](assets/images/card-harveststat-wheat.jpg){.wo-card-img fig-alt="Ripening wheat field in eastern Algeria" loading="lazy"}
+
+[In progress]{.wo-status .current}
+
+### [NASA HarvestStat](projects/harveststat.qmd){.stretched-link}
+Subnational crop production statistics for North Africa, and the climate sensitivity of wheat systems.
+:::
+
+:::
+
+[Full research agenda →](projects/index.qmd){.wo-more}
+
+## Selected publications and outputs
+
+::: {.wo-pub}
+[Rain rituals signal climate risk in drylands]{.wo-pub-title}
+[**Ouaret, W.**, Brown, M. E., Endsley, A., Enenkel, M., Anderson, W., Hadjout, S., & Loboda, T. V.]{.wo-pub-authors}
+[*Environmental Research: Climate* [Accepted]{.wo-status .accepted}]{.wo-pub-venue}
+:::
+
+::: {.wo-pub}
+[Mapping Agricultural Greenhouses in Algeria: A Deep Learning Approach](https://doi.org/10.1109/M2GARSS57310.2024.10537540){.wo-pub-title}
+[**Ouaret, W.**, Brown, M. E., & Shumilo, L. (2024)]{.wo-pub-authors}
+[*IEEE M2GARSS 2024*, 103–107 · [doi:10.1109/M2GARSS57310.2024.10537540](https://doi.org/10.1109/M2GARSS57310.2024.10537540)]{.wo-pub-venue}
+:::
+
+::: {.wo-pub}
+[Liming agricultural soils in Western Kenya: Can long-term economic and environmental benefits pay off short term investments?](https://doi.org/10.1016/j.agsy.2021.103095){.wo-pub-title}
+[Hijbeek, R., van Loon, M. P., **Ouaret, W.**, Boekelo, B., & van Ittersum, M. K. (2021)]{.wo-pub-authors}
+[*Agricultural Systems*, 190, 103095 · [doi:10.1016/j.agsy.2021.103095](https://doi.org/10.1016/j.agsy.2021.103095)]{.wo-pub-venue}
+:::
+
+::: {.wo-outputs}
+- **Media.** Rain-ritual research featured in *Eos* (AGU): [When a Prayer Is Also a Climate Signal](https://eos.org/articles/when-a-prayer-is-also-a-climate-signal) (2025)
+- **Open curriculum.** [Open Climate Science for Agriculture](teaching.qmd): five modules in English, French and Arabic
+- **Recorded seminars.** [SEEDS Seminar Series](projects/seeds.qmd): 13 talks on remote sensing and AI for agriculture (2025)
+:::
+
+[All publications →](publications.qmd){.wo-more}
+
+## Teaching, mentoring & collaboration
+
+I co-developed **[Open Climate Science for Agriculture](teaching.qmd)**, a NASA-funded open curriculum in English, French and Arabic, and taught its workshops in Algeria. I also organized the **[SEEDS Seminar Series](projects/seeds.qmd)**. Earlier, I advised undergraduate researchers and served as a teaching assistant for GIS courses at Miami University. My collaborations span the University of Maryland, the University of Montana, NASA HarvestStat and research institutions in Algeria.
+
+## Contact {#contact}
+
+```{=html}
+<span id="book-a-consultation" aria-hidden="true"></span>
+```
 
 ::: {.wo-consult}
-Open to conversations on Earth observation, drought, climate risk and collaboration. Email me your topic and a few times that work for you.
+I welcome inquiries about research collaboration, student mentoring and invited talks.
 
-[Request a consultation](mailto:wo140@georgetown.edu?subject=Consultation%20request&body=Hello%20Walid%2C%0A%0ATopic%3A%20%0AAffiliation%3A%20%0AA%20few%20times%20that%20work%20for%20me%20(with%20time%20zone)%3A%20%0A%0AThank%20you%2C%0A){.wo-btn-consult}
+**The Earth Commons Institute, Georgetown University, Washington, DC**\
+[wo140@georgetown.edu](mailto:wo140@georgetown.edu) · [Georgetown profile](https://earthcommons.georgetown.edu/research/eco-fellows/) · [Google Scholar](https://scholar.google.com/citations?user=p7yIdHgAAAAJ) · [GitHub](https://github.com/ouaretw) · [LinkedIn](https://www.linkedin.com/in/walid-ouaret/) · [ORCID](https://orcid.org/0000-0002-2615-1451)
+
+[Email me](mailto:wo140@georgetown.edu?subject=Inquiry){.wo-btn-consult}
 :::

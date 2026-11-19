@@ -8,42 +8,59 @@ project:
 website:
   title: "Walid Ouaret"
   site-url: "https://ouaretw.github.io"
-  description: "Walid Ouaret, Ph.D. — Earth observation scientist and Postdoctoral Fellow at The Earth Commons Institute, Georgetown University."
+  description: "Walid Ouaret, Ph.D. Climate extremes, Earth observation and societal resilience. Postdoctoral Fellow, The Earth Commons Institute, Georgetown University."
   favicon: assets/images/amazigh-sign.png
+  image: assets/images/profile.jpg
   open-graph: true
+  twitter-card: true
   page-navigation: false
   navbar:
     logo: assets/images/amazigh-sign.png
-    logo-alt: "Amazigh motif"
+    logo-alt: "Walid Ouaret, home"
     left:
       - href: index.qmd
-        text: About
-      - href: phd.qmd
-        text: PhD
+        text: Home
       - text: Research
         menu:
           - href: projects/index.qmd
-            text: Overview & fieldwork
+            text: Research agenda
           - text: "---"
+          - text: "Drought & agricultural land use"
           - href: projects/winter-cereal-mapping.qmd
-            text: Cereal mapping & area estimation
+            text: Cropland mapping & area estimation
           - href: projects/drought-landuse-north-africa.qmd
-            text: Drought & land-use change
-          - href: projects/rain-rituals.qmd
-            text: Rain rituals & drought governance
+            text: Drought & long-term cropland change
           - href: projects/harveststat.qmd
             text: NASA HarvestStat
           - href: projects/greenhouse-mapping.qmd
             text: Greenhouse mapping
-      - href: teaching.qmd
-        text: Teaching
+          - text: "---"
+          - text: "Climate signals & governance"
+          - href: projects/rain-rituals.qmd
+            text: Rain rituals & drought governance
+          - text: "---"
+          - text: "Emerging research"
+          - href: projects/infrastructure-resilience.qmd
+            text: Climate & energy infrastructure
+          - href: projects/data-centers.qmd
+            text: Data centers & environmental risk
       - href: publications.qmd
         text: Publications
-      - href: media.qmd
-        text: Talks & Media
+      - href: teaching.qmd
+        text: Teaching
+      - text: About
+        menu:
+          - href: about.qmd
+            text: Biography
+          - href: phd.qmd
+            text: Doctoral research
+          - href: media.qmd
+            text: Talks & media
+          - href: blog/index.qmd
+            text: Blog
       - href: cv.qmd
         text: CV
-      - href: index.qmd#book-a-consultation
+      - href: index.qmd#contact
         text: Contact
     right:
       - icon: mortarboard
@@ -61,18 +78,16 @@ website:
   page-footer:
     left: "© 2026 Walid Ouaret · The Earth Commons Institute, Georgetown University"
     center:
-      - text: PhD
-        href: phd.qmd
       - text: Research
         href: projects/index.qmd
-      - text: Teaching
-        href: teaching.qmd
       - text: Publications
         href: publications.qmd
-      - text: Blog
-        href: blog/index.qmd
+      - text: Teaching
+        href: teaching.qmd
+      - text: About
+        href: about.qmd
       - text: Contact
-        href: index.qmd#book-a-consultation
+        href: index.qmd#contact
     right: "Built with [Quarto](https://quarto.org)"
 
 format:
@@ -83,3 +98,5 @@ format:
     toc: false
     smooth-scroll: true
     link-external-newwindow: true
+    canonical-url: true
+    lang: en

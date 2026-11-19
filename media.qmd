@@ -1,5 +1,6 @@
 ---
-title: "Talks & Activities"
+title: "Talks & media"
+description: "Talks, posters, workshops, videos and media coverage of Walid Ouaret's research."
 subtitle: "Talks, posters, workshops and public engagement"
 ---
 
@@ -23,7 +24,7 @@ subtitle: "Talks, posters, workshops and public engagement"
 ### 2025 {.media-year}
 
 ::: {.wo-dated}
-- **Presentation.** Rain prayer announcements as a drought signal in Algeria, Morocco and Tunisia. AGU Annual Meeting 2025, New Orleans, 18 December 2025. [Abstract](https://agu.confex.com/agu/agu25/meetingapp.cgi/Paper/1970135)
+- **Presentation.** Rain-ritual research (covered by *Eos*). AGU Annual Meeting 2025, New Orleans, 18 December 2025. [Abstract](https://agu.confex.com/agu/agu25/meetingapp.cgi/Paper/1970135)
 :::
 
 ### 2024 {.media-year}

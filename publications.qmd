@@ -1,20 +1,22 @@
 ---
 title: "Publications"
-subtitle: "Peer-reviewed journal articles and conference papers"
+subtitle: "Peer-reviewed articles, conference papers, manuscripts and open resources"
+description: "Publications by Walid Ouaret: accepted and published peer-reviewed articles, conference papers, manuscripts in preparation and open educational resources."
 ---
 
 ::: {.wo-note}
-For citation metrics, see my [Google Scholar profile](https://scholar.google.com/citations?user=p7yIdHgAAAAJ). Conference abstracts, posters and talks are listed under [Talks & Activities](media.qmd).
+Citation metrics: [Google Scholar](https://scholar.google.com/citations?user=p7yIdHgAAAAJ). Conference abstracts, posters and talks are listed under [Talks & media](media.qmd). DOIs are shown only where verified.
+:::
+
+## Accepted
+
+::: {.wo-pub}
+[Rain rituals signal climate risk in drylands]{.wo-pub-title}
+[**Ouaret, W.**, Brown, M. E., Endsley, A., Enenkel, M., Anderson, W., Hadjout, S., & Loboda, T. V.]{.wo-pub-authors}
+[*Environmental Research: Climate* · DOI pending [Accepted]{.wo-status .accepted}]{.wo-pub-venue}
 :::
 
 ## Peer-reviewed journal articles
-
-::: {.wo-pub}
-[Rain Rituals Signal the Impact of Climate and Conflict Shocks in Drylands]{.wo-pub-title}
-[**Ouaret, W.**, Brown, M. E., Endsley, A., Anderson, W., Enenkel, M., & Loboda, T. V.]{.wo-pub-authors}
-[*Environmental Research: Climate*, accepted [Accepted]{.wo-status .accepted}]{.wo-pub-venue}
-:::
-
 ::: {.wo-pub}
 [Investigating the Potassium Fertilization Effect on Morphological and Agrophysiological Indicators of Durum Wheat under Mediterranean Rain-Fed Conditions](https://doi.org/10.3390/agriculture13061142){.wo-pub-title}
 [Messaoudi, A., Labdelli, F., Rebouh, N. Y., Djerbaoui, M., Kucher, D. E., Hadjout, S., **Ouaret, W.**, Zakharova, O. A., & Latati, M. (2023)]{.wo-pub-authors}
@@ -57,4 +59,34 @@ For citation metrics, see my [Google Scholar profile](https://scholar.google.com
 [Mapping Agricultural Greenhouses in Algeria: A Deep Learning Approach](https://doi.org/10.1109/M2GARSS57310.2024.10537540){.wo-pub-title}
 [**Ouaret, W.**, Brown, M. E., & Shumilo, L. (2024)]{.wo-pub-authors}
 [*2024 IEEE Mediterranean and Middle-East Geoscience and Remote Sensing Symposium (M2GARSS)*, Oran, Algeria, 103–107 · [doi:10.1109/M2GARSS57310.2024.10537540](https://doi.org/10.1109/M2GARSS57310.2024.10537540)]{.wo-pub-venue}
+:::
+
+## Manuscripts in preparation
+
+::: {.wo-pub}
+[Assessment of satellite-derived cropland mapping in the dryland agricultural systems of North Africa]{.wo-pub-title}
+[**Ouaret, W.** (lead author)]{.wo-pub-authors}
+[Doctoral dissertation chapter (University of Maryland, 2026) · [Project page](projects/winter-cereal-mapping.qmd) [In preparation]{.wo-status .current}]{.wo-pub-venue}
+:::
+
+::: {.wo-pub}
+[Drought and long-term cropland change across North Africa]{.wo-pub-title}
+[**Ouaret, W.** (lead author)]{.wo-pub-authors}
+[Doctoral dissertation chapter (University of Maryland, 2026) · [Project page](projects/drought-landuse-north-africa.qmd) [In preparation]{.wo-status .current}]{.wo-pub-venue}
+:::
+
+## Dissertation
+
+::: {.wo-pub}
+[Drought and Agricultural Land-Use Change in North Africa]{.wo-pub-title}
+[**Ouaret, W.** (2026)]{.wo-pub-authors}
+[Ph.D. dissertation, Department of Geographical Sciences, University of Maryland, College Park · [Summary](phd.qmd)]{.wo-pub-venue}
+:::
+
+## Open educational resources
+
+::: {.wo-pub}
+[Open Climate Science for Agriculture: Module 1, Open Climate Data](https://github.com/OpenClimateScience/M1-Open-Climate-Data){.wo-pub-title}
+[OpenClimateScience team (PI: A. Endsley; Co-I: W. Ouaret)]{.wo-pub-authors}
+[Lesson materials in English, French and Arabic · [doi:10.5281/zenodo.11204778](https://doi.org/10.5281/zenodo.11204778) · [All modules](teaching.qmd)]{.wo-pub-venue}
 :::

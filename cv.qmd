@@ -1,6 +1,7 @@
 ---
 title: "Curriculum Vitae"
 subtitle: "Walid Ouaret, Ph.D."
+description: "Curriculum vitae of Walid Ouaret, Ph.D.: appointments, education, research experience, grants, service and teaching."
 ---
 
 ::: {.cv-contact}
@@ -167,7 +168,7 @@ Postdoctoral Fellow, The Earth Commons Institute, Georgetown University, Washing
 - Teaching Assistant, graduate and undergraduate Geo-Information Systems courses, Miami University (2021–2023)
 - Advised and managed undergraduate research projects, Miami University (2021–2023)
 - Certified through Carpentries Instructor Training (2023)
-- Workshops led: see [Talks & Activities](media.qmd#workshops-and-training-led)
+- Workshops led: see [Talks & media](media.qmd#workshops-and-training-led)
 
 ## Grants and fellowships
 
@@ -210,4 +211,4 @@ American Geophysical Union (AGU) · American Association of Geographers (AAG) ·
 
 ## Publications and presentations
 
-See [Publications](publications.qmd) and [Talks & Activities](media.qmd).
+See [Publications](publications.qmd) and [Talks & media](media.qmd).

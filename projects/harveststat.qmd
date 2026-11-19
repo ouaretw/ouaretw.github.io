@@ -1,15 +1,36 @@
 ---
 title: "NASA HarvestStat"
-subtitle: "Current research · subnational crop statistics"
+subtitle: "Drought & agricultural land-use change · Subnational crop statistics"
+description: "Contributions to NASA HarvestStat, a global database of subnational crop production statistics, with analysis of North African wheat systems."
 categories: [Food security, Crop statistics, NASA]
 ---
 
-[Current]{.wo-status .current}
+[In progress]{.wo-status .current}
 
-NASA HarvestStat is building the world's most comprehensive global database of subnational crop production statistics. My work contributes data and quality control for North Africa. I also analyze how the region's wheat systems have evolved, how volatile they are, and how sensitive they are to climate.
+## Research question
 
-**Region:** global database; my analysis focuses on North Africa · **Methods:** compiling and quality-controlling subnational statistics, time-series and volatility analysis
+How have North African wheat systems evolved, how volatile are they, and how sensitive are they to climate?
 
-![Ripening wheat in eastern Algeria, June 2024. Wheat is the staple crop at the center of the North African analysis.](../assets/images/field-algeria-wheat.jpg){.wo-figure fig-alt="Ripening wheat with wildflowers in eastern Algeria"}
+## Scientific motivation
 
-[← All research](index.qmd)
+Subnational crop statistics are essential for food-security monitoring and for linking climate to agricultural outcomes, but they are scattered and inconsistent. NASA HarvestStat is building the most comprehensive global database of subnational crop production data.
+
+## Geographic scope
+
+Global database. My contributions and analysis focus on North Africa.
+
+## Data and methods
+
+Compilation and quality control of subnational production, area and yield statistics; time-series and volatility analysis of wheat systems.
+
+## Principal findings
+
+Analysis in progress; no results reported here yet.
+
+## Publications and outputs
+
+None yet.
+
+![Ripening wheat in eastern Algeria, June 2024.](../assets/images/field-algeria-wheat.jpg){.wo-figure fig-alt="Ripening wheat with wildflowers in eastern Algeria" loading="lazy"}
+
+[← Research agenda](index.qmd)

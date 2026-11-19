@@ -1,19 +1,36 @@
 ---
 title: "Mapping Agricultural Greenhouses in Algeria"
-subtitle: "Current research · agricultural mapping"
+subtitle: "Drought & agricultural land-use change · Agricultural intensification"
+description: "Deep learning on satellite imagery to map agricultural greenhouses in Algeria (IEEE M2GARSS 2024)."
 categories: [Deep learning, Remote sensing, Algeria]
 ---
 
-[Current]{.wo-status .current}
+[Published · ongoing]{.wo-status .accepted}
 
-Agricultural greenhouses are spreading quickly across Algeria, especially in the southern wilayas, but they are poorly documented. This project uses deep learning on satellite imagery to map them, and tracks how greenhouse agriculture has grown.
+## Research question
 
-![Greenhouse area in the leading wilayas, 2000 and 2021.](../assets/images/proj-greenhouse-area.jpg){.wo-figure fig-alt="Bar chart comparing greenhouse area by wilaya in 2000 and 2021, with the largest increase in Biskra"}
+Where, and how fast, is greenhouse agriculture expanding in Algeria, and can it be mapped reliably from satellite imagery?
 
-## Publication
+## Scientific motivation
+
+Greenhouse agriculture is a form of intensification that is spreading quickly in Algeria, especially in the southern wilayas. It is poorly documented in agricultural statistics and land-cover products.
+
+## Geographic scope
+
+Algeria.
+
+## Data and methods
+
+Deep learning applied to satellite imagery to detect agricultural greenhouses.
+
+![Greenhouse area in the leading wilayas, 2000 and 2021.](../assets/images/proj-greenhouse-area.jpg){.wo-figure fig-alt="Bar chart comparing greenhouse area by wilaya in 2000 and 2021, with the largest increase in Biskra" loading="lazy"}
+
+## Publications and outputs
 
 - Ouaret, W., Brown, M. E., & Shumilo, L. (2024). Mapping Agricultural Greenhouses in Algeria: A Deep Learning Approach. *2024 IEEE Mediterranean and Middle-East Geoscience and Remote Sensing Symposium (M2GARSS)*, Oran, Algeria, 103–107. [doi:10.1109/M2GARSS57310.2024.10537540](https://doi.org/10.1109/M2GARSS57310.2024.10537540)
 
-Related: [Cereal mapping and area estimation in Algeria, Morocco and Tunisia](winter-cereal-mapping.qmd)
+## Collaborators
 
-[← All research](index.qmd)
+M. E. Brown, L. Shumilo.
+
+[← Research agenda](index.qmd)

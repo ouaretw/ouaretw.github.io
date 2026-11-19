@@ -1,6 +1,7 @@
 ---
 title: "Teaching & Training"
 subtitle: "Open, reproducible climate science for agriculture"
+description: "Open Climate Science for Agriculture: a NASA-funded, five-module curriculum in English, French and Arabic, with workshops in Algeria and Montana; mentoring and teaching."
 aliases:
   - projects/open-science-training.html
 ---
@@ -27,7 +28,7 @@ Five modules of about four hours each. Every module is a set of Jupyter notebook
 ::: {.wo-card .wo-module}
 [M1]{.wo-mod-num}
 
-#### Open Climate Data
+### Open Climate Data
 1. Sources of climate data
 2. NASA Earthdata Search and re-analysis data
 3. Reading MERRA-2 gridded climate data
@@ -45,7 +46,7 @@ Five modules of about four hours each. Every module is a set of Jupyter notebook
 ::: {.wo-card .wo-module}
 [M2]{.wo-mod-num}
 
-#### Computational Climate Science
+### Computational Climate Science
 1. Managing software dependencies
 2. Working with gridded climate data
 3. Climate and drought indices
@@ -60,7 +61,7 @@ Five modules of about four hours each. Every module is a set of Jupyter notebook
 ::: {.wo-card .wo-module}
 [M3]{.wo-mod-num}
 
-#### Open Science for Water Resources
+### Open Science for Water Resources
 1. Creating a research software environment
 2. Analyzing a global precipitation data cube
 3. Tracking changes to research code
@@ -75,7 +76,7 @@ Five modules of about four hours each. Every module is a set of Jupyter notebook
 ::: {.wo-card .wo-module}
 [M4]{.wo-mod-num}
 
-#### Open Science for Soil Health
+### Open Science for Soil Health
 A guided project: high-resolution (30 m) soil organic carbon mapping in Algeria's Tell Atlas, built as a reproducible notebook workflow. Led by Ghiles Kaci.
 
 ::: {.wo-langs}
@@ -86,7 +87,7 @@ A guided project: high-resolution (30 m) soil organic carbon mapping in Algeria'
 ::: {.wo-card .wo-module}
 [M5]{.wo-mod-num}
 
-#### Open Science for Crop Conditions and Crop Production
+### Open Science for Crop Conditions and Crop Production
 1. Creating a project plan
 2. Creating a reproducible research environment (Pixi)
 3. Setting up data-processing workflows (Snakemake)
@@ -100,7 +101,7 @@ A guided project: high-resolution (30 m) soil organic carbon mapping in Algeria'
 ::: {.wo-card .wo-module}
 [+]{.wo-mod-num}
 
-#### Foundations
+### Foundations
 Introductory lessons on Python fundamentals, sequences and NumPy, and core computational data-science skills.
 
 ::: {.wo-langs}
@@ -149,6 +150,12 @@ Hands-on training in sampling design and field data collection for cropland mapp
 
 ![Participants working through open climate-data notebooks](assets/images/proj-tops-classroom.jpg){fig-alt="Workshop participants working on laptops in a training room"}
 :::
+
+## Mentoring and teaching experience
+
+- Advised and managed undergraduate research projects, Geospatial Analysis Center, Miami University (2021–2023)
+- Teaching assistant, graduate and undergraduate Geo-Information Systems courses, Miami University (2021–2023)
+- Carpentries Instructor Training (2023)
 
 ## Team
 

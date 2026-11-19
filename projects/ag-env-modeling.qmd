@@ -1,10 +1,11 @@
 ---
 title: "Agricultural and Environmental Modeling"
 subtitle: "Previous research · 2015–2023"
+description: "Earlier agricultural and environmental modeling: crop allocation in Tunisia, liming trade-offs in Kenya, yield synthesis, intercropping and peri-urban agriculture."
 categories: [Modeling, Agronomy, Food systems]
 ---
 
-[Previous]{.wo-status .prev}
+[Completed]{.wo-status .prev}
 
 Before my PhD I worked on a series of modeling and synthesis projects in agronomy and land systems.
 
@@ -35,4 +36,4 @@ I compiled a global database comparing organic and conventional yields across cr
 
 As a graduate research assistant, I worked on the impact of urban expansion on peri-urban agriculture, hydrometeorology, food security and human health. I used GRACE, SMAP, MODIS, VIIRS, Planet, Sentinel, Landsat and other satellite data.
 
-[← All research](index.qmd)
+[← Research agenda](index.qmd)
