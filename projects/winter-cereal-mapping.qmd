@@ -1,37 +1,51 @@
 ---
 title: "Cropland Mapping and Area Estimation in Algeria, Morocco and Tunisia"
-subtitle: "Drought & agricultural land-use change · Doctoral research"
-description: "Field-based cropland area estimation and an independent assessment of satellite cropland maps across North Africa's cereal-producing regions."
+subtitle: "Earth observation & agricultural change · Doctoral research"
+description: "A probability-based field survey, design-based cropland area estimation and an independent assessment of satellite cropland maps across North Africa's cereal-producing regions."
 categories: [Remote sensing, Cropland mapping, Field surveys, North Africa]
 ---
 
+::: {.wo-projmeta}
+::: {.wo-m}
+[Status]{.wo-k}
 [Completed · manuscript in preparation]{.wo-status .current}
+:::
+::: {.wo-m}
+[Region]{.wo-k}
+Cereal-producing regions of Algeria, Morocco and Tunisia
+:::
+::: {.wo-m}
+[Season]{.wo-k}
+2023–2024 agricultural season
+:::
+::: {.wo-m}
+[Data]{.wo-k}
+1,350 field observations · satellite cropland products
+:::
+:::
 
-![The North African cereal belt, 2023–2024 season. Map-derived pattern for illustration; not an area estimate.](../assets/images/proj-cereal-belt-map.jpg){.wo-figure fig-alt="Map of winter cereal density across Morocco, Algeria and Tunisia"}
+![The North African cereal belt, 2023–2024 season. Map-derived pattern for illustration; not an area estimate.](../assets/images/proj-cereal-belt-map.jpg){.wo-figure fig-alt="Map of winter cereal density across Morocco, Algeria and Tunisia, concentrated in a narrow northern band between the Mediterranean and the Sahara"}
 
-## Research question
+## Overview
 
-How much cropland is there in North Africa's main cereal-producing regions, and how well do satellite cropland products represent it?
-
-## Motivation
-
-Satellite cropland maps differ in how much cropland they show and in what they count as cropland. In North Africa, independent field-based reference data to test them are scarce.
-
-## Geographic scope
-
-The principal cereal-producing regions of Algeria, Morocco and Tunisia, 2023–2024 agricultural season.
+Satellite cropland maps differ in how much cropland they show and in what they count as cropland. In North Africa, independent field-based reference data to evaluate them are scarce. This project builds a field-based reference for the principal cereal-producing regions of Algeria, Morocco and Tunisia and uses it to estimate cropland area and to assess satellite cropland products.
 
 ## Approach
 
-A probability-based field survey across all three countries, combined with design-based area estimation and an assessment of publicly available satellite cropland products.
+A probability-based field survey across all three countries, with 1,350 field observations collected during the 2023–2024 season. Design-based estimators provide cropland area estimates with quantified uncertainty, and the same reference sample supports an independent accuracy assessment of publicly available satellite cropland products.
 
-## Results
+## Research contributions
 
-Forthcoming in a manuscript currently in preparation.
+- A probability-sampled, field-based reference dataset for dryland cereal systems in a region where such data are scarce.
+- An independent evaluation of how publicly available satellite cropland products represent North African dryland agriculture.
 
-## Outputs
+Quantitative results will appear in a manuscript currently in preparation.
+
+## Publications & resources
 
 - Doctoral dissertation chapter, University of Maryland (2026); manuscript in preparation.
 - Ouaret, W., Loboda, T. V., Skakun, S., Endsley, A., & Brown, M. E. (2024). *High-Resolution Winter Cereal Mapping in North Africa for the 2023–2024 Cropping Season Using Collected Field Data.* AGU Fall Meeting, GC13O-0385 (poster).
 
-[← Research](index.qmd)
+**Collaborators:** T. V. Loboda, S. Skakun, A. Endsley, M. E. Brown.
+
+{{< include _projnav.qmd >}}

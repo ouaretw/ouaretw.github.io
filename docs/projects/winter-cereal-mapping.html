@@ -6,7 +6,7 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="description" content="Field-based cropland area estimation and an independent assessment of satellite cropland maps across North Africa’s cereal-producing regions.">
+<meta name="description" content="A probability-based field survey, design-based cropland area estimation and an independent assessment of satellite cropland maps across North Africa’s cereal-producing regions.">
 
 <title>Cropland Mapping and Area Estimation in Algeria, Morocco and Tunisia – Walid Ouaret</title>
 <style>
@@ -41,8 +41,8 @@ ul.task-list li input[type="checkbox"] {
 <link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark-1d19c7d0460c7c9837a31f1c44df303d.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-b43dfe4f7a536a7cef5e7438c18b6a93.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="../site_libs/bootstrap/bootstrap-dark-aa8398f5e86cfd6518b66b85d07b6a8c.min.css" rel="prefetch" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="../site_libs/bootstrap/bootstrap-07eaad1d7a938d08e728a2913d781529.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-dark-05036f24e48cb4f165b229a493d9e330.min.css" rel="prefetch" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -74,14 +74,14 @@ ul.task-list li input[type="checkbox"] {
 
 
 <meta property="og:title" content="Cropland Mapping and Area Estimation in Algeria, Morocco and Tunisia – Walid Ouaret">
-<meta property="og:description" content="Field-based cropland area estimation and an independent assessment of satellite cropland maps across North Africa’s cereal-producing regions.">
+<meta property="og:description" content="A probability-based field survey, design-based cropland area estimation and an independent assessment of satellite cropland maps across North Africa’s cereal-producing regions.">
 <meta property="og:image" content="https://ouaretw.github.io/assets/images/proj-cereal-belt-map.jpg">
 <meta property="og:site_name" content="Walid Ouaret">
-<meta property="og:image:alt" content="Map of winter cereal density across Morocco, Algeria and Tunisia">
+<meta property="og:image:alt" content="Map of winter cereal density across Morocco, Algeria and Tunisia, concentrated in a narrow northern band between the Mediterranean and the Sahara">
 <meta name="twitter:title" content="Cropland Mapping and Area Estimation in Algeria, Morocco and Tunisia – Walid Ouaret">
-<meta name="twitter:description" content="Field-based cropland area estimation and an independent assessment of satellite cropland maps across North Africa’s cereal-producing regions.">
+<meta name="twitter:description" content="A probability-based field survey, design-based cropland area estimation and an independent assessment of satellite cropland maps across North Africa’s cereal-producing regions.">
 <meta name="twitter:image" content="https://ouaretw.github.io/assets/images/proj-cereal-belt-map.jpg">
-<meta name="twitter:image:alt" content="Map of winter cereal density across Morocco, Algeria and Tunisia">
+<meta name="twitter:image:alt" content="Map of winter cereal density across Morocco, Algeria and Tunisia, concentrated in a narrow northern band between the Mediterranean and the Sahara">
 <meta name="twitter:card" content="summary_large_image">
 <link rel="canonical" href="https://ouaretw.github.io/projects/winter-cereal-mapping.html">
 </head>
@@ -106,10 +106,6 @@ ul.task-list li input[type="checkbox"] {
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
-  <li class="nav-item">
-    <a class="nav-link" href="../index.html"> 
-<span class="menu-text">Home</span></a>
-  </li>  
   <li class="nav-item dropdown ">
     <a class="nav-link dropdown-toggle" href="#" id="nav-menu-research" role="link" data-bs-toggle="dropdown" aria-expanded="false">
  <span class="menu-text">Research</span>
@@ -117,31 +113,37 @@ ul.task-list li input[type="checkbox"] {
     <ul class="dropdown-menu" aria-labelledby="nav-menu-research">    
         <li>
     <a class="dropdown-item" href="../projects/index.html">
- <span class="dropdown-text">Research agenda</span></a>
+ <span class="dropdown-text">Research overview</span></a>
   </li>  
         <li><hr class="dropdown-divider"></li>
-        <li class="dropdown-header">Drought &amp; agricultural land use</li>
+        <li class="dropdown-header">01 · Earth observation &amp; agricultural change</li>
         <li>
     <a class="dropdown-item" href="../projects/winter-cereal-mapping.html">
  <span class="dropdown-text">Cropland mapping &amp; area estimation</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="../projects/drought-landuse-north-africa.html">
- <span class="dropdown-text">Drought &amp; long-term cropland change</span></a>
+ <span class="dropdown-text">Drought &amp; long-term land-use change</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../projects/greenhouse-mapping.html">
+ <span class="dropdown-text">Agricultural greenhouse mapping</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="../projects/harveststat.html">
  <span class="dropdown-text">NASA HarvestStat</span></a>
   </li>  
-        <li>
-    <a class="dropdown-item" href="../projects/greenhouse-mapping.html">
- <span class="dropdown-text">Greenhouse mapping</span></a>
-  </li>  
         <li><hr class="dropdown-divider"></li>
-        <li class="dropdown-header">Climate signals &amp; governance</li>
+        <li class="dropdown-header">02 · Climate signals &amp; societal response</li>
         <li>
     <a class="dropdown-item" href="../projects/rain-rituals.html">
  <span class="dropdown-text">Rain rituals &amp; drought governance</span></a>
+  </li>  
+        <li><hr class="dropdown-divider"></li>
+        <li class="dropdown-header">03 · Climate risk &amp; critical infrastructure</li>
+        <li>
+    <a class="dropdown-item" href="../projects/index.html#emerging-research">
+ <span class="dropdown-text">Emerging research</span></a>
   </li>  
     </ul>
   </li>
@@ -225,7 +227,7 @@ ul.task-list li input[type="checkbox"] {
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <h1 class="title">Cropland Mapping and Area Estimation in Algeria, Morocco and Tunisia</h1>
-<p class="subtitle lead">Drought &amp; agricultural land-use change · Doctoral research</p>
+<p class="subtitle lead">Earth observation &amp; agricultural change · Doctoral research</p>
   <div class="quarto-categories">
     <div class="quarto-category">Remote sensing</div>
     <div class="quarto-category">Cropland mapping</div>
@@ -236,7 +238,7 @@ ul.task-list li input[type="checkbox"] {
 
 <div>
   <div class="description">
-    Field-based cropland area estimation and an independent assessment of satellite cropland maps across North Africa’s cereal-producing regions.
+    A probability-based field survey, design-based cropland area estimation and an independent assessment of satellite cropland maps across North Africa’s cereal-producing regions.
   </div>
 </div>
 
@@ -253,40 +255,62 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p><span class="wo-status current">Completed · manuscript in preparation</span></p>
+<div class="wo-projmeta">
+<div class="wo-m">
+<p><span class="wo-k">Status</span> <span class="wo-status current">Completed · manuscript in preparation</span></p>
+</div>
+<div class="wo-m">
+<p><span class="wo-k">Region</span> Cereal-producing regions of Algeria, Morocco and Tunisia</p>
+</div>
+<div class="wo-m">
+<p><span class="wo-k">Season</span> 2023–2024 agricultural season</p>
+</div>
+<div class="wo-m">
+<p><span class="wo-k">Data</span> 1,350 field observations · satellite cropland products</p>
+</div>
+</div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="../assets/images/proj-cereal-belt-map.jpg" class="wo-figure img-fluid figure-img" alt="Map of winter cereal density across Morocco, Algeria and Tunisia"></p>
+<p><img src="../assets/images/proj-cereal-belt-map.jpg" class="wo-figure img-fluid figure-img" alt="Map of winter cereal density across Morocco, Algeria and Tunisia, concentrated in a narrow northern band between the Mediterranean and the Sahara"></p>
 <figcaption>The North African cereal belt, 2023–2024 season. Map-derived pattern for illustration; not an area estimate.</figcaption>
 </figure>
 </div>
-<section id="research-question" class="level2">
-<h2 class="anchored" data-anchor-id="research-question">Research question</h2>
-<p>How much cropland is there in North Africa’s main cereal-producing regions, and how well do satellite cropland products represent it?</p>
-</section>
-<section id="motivation" class="level2">
-<h2 class="anchored" data-anchor-id="motivation">Motivation</h2>
-<p>Satellite cropland maps differ in how much cropland they show and in what they count as cropland. In North Africa, independent field-based reference data to test them are scarce.</p>
-</section>
-<section id="geographic-scope" class="level2">
-<h2 class="anchored" data-anchor-id="geographic-scope">Geographic scope</h2>
-<p>The principal cereal-producing regions of Algeria, Morocco and Tunisia, 2023–2024 agricultural season.</p>
+<section id="overview" class="level2">
+<h2 class="anchored" data-anchor-id="overview">Overview</h2>
+<p>Satellite cropland maps differ in how much cropland they show and in what they count as cropland. In North Africa, independent field-based reference data to evaluate them are scarce. This project builds a field-based reference for the principal cereal-producing regions of Algeria, Morocco and Tunisia and uses it to estimate cropland area and to assess satellite cropland products.</p>
 </section>
 <section id="approach" class="level2">
 <h2 class="anchored" data-anchor-id="approach">Approach</h2>
-<p>A probability-based field survey across all three countries, combined with design-based area estimation and an assessment of publicly available satellite cropland products.</p>
+<p>A probability-based field survey across all three countries, with 1,350 field observations collected during the 2023–2024 season. Design-based estimators provide cropland area estimates with quantified uncertainty, and the same reference sample supports an independent accuracy assessment of publicly available satellite cropland products.</p>
 </section>
-<section id="results" class="level2">
-<h2 class="anchored" data-anchor-id="results">Results</h2>
-<p>Forthcoming in a manuscript currently in preparation.</p>
+<section id="research-contributions" class="level2">
+<h2 class="anchored" data-anchor-id="research-contributions">Research contributions</h2>
+<ul>
+<li>A probability-sampled, field-based reference dataset for dryland cereal systems in a region where such data are scarce.</li>
+<li>An independent evaluation of how publicly available satellite cropland products represent North African dryland agriculture.</li>
+</ul>
+<p>Quantitative results will appear in a manuscript currently in preparation.</p>
 </section>
-<section id="outputs" class="level2">
-<h2 class="anchored" data-anchor-id="outputs">Outputs</h2>
+<section id="publications-resources" class="level2">
+<h2 class="anchored" data-anchor-id="publications-resources">Publications &amp; resources</h2>
 <ul>
 <li>Doctoral dissertation chapter, University of Maryland (2026); manuscript in preparation.</li>
 <li>Ouaret, W., Loboda, T. V., Skakun, S., Endsley, A., &amp; Brown, M. E. (2024). <em>High-Resolution Winter Cereal Mapping in North Africa for the 2023–2024 Cropping Season Using Collected Field Data.</em> AGU Fall Meeting, GC13O-0385 (poster).</li>
 </ul>
-<p><a href="../projects/index.html">← Research</a></p>
+<p><strong>Collaborators:</strong> T. V. Loboda, S. Skakun, A. Endsley, M. E. Brown.</p>
+<div class="wo-projnav">
+<p><span class="wo-label">Research projects</span></p>
+<ul>
+<li><a href="../projects/rain-rituals.html">Rain Rituals and Drought Governance</a></li>
+<li><a href="../projects/winter-cereal-mapping.html">Cropland Mapping and Area Estimation</a></li>
+<li><a href="../projects/drought-landuse-north-africa.html">Drought and Long-Term Land-Use Change</a></li>
+<li><a href="../projects/greenhouse-mapping.html">Agricultural Greenhouse Mapping</a></li>
+<li><a href="../projects/harveststat.html">NASA HarvestStat</a></li>
+<li><a href="../projects/seeds.html">SEEDS Seminar Series</a></li>
+<li><a href="../projects/ag-env-modeling.html">Agricultural &amp; Environmental Modeling</a></li>
+<li><a href="../projects/index.html">Research agenda →</a></li>
+</ul>
+</div>
 
 
 </section>

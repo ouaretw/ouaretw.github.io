@@ -11,6 +11,7 @@ Citation metrics: [Google Scholar](https://scholar.google.com/citations?user=p7y
 ## Accepted
 
 ::: {.wo-pub}
+[2026]{.wo-pub-year}
 [Rain rituals signal climate risk in drylands]{.wo-pub-title}
 [**Ouaret, W.**, Brown, M. E., Endsley, A., Enenkel, M., Anderson, W., Hadjout, S., & Loboda, T. V.]{.wo-pub-authors}
 [*Environmental Research: Climate* · DOI pending [Accepted]{.wo-status .accepted}]{.wo-pub-venue}
@@ -18,36 +19,42 @@ Citation metrics: [Google Scholar](https://scholar.google.com/citations?user=p7y
 
 ## Peer-reviewed journal articles
 ::: {.wo-pub}
+[2023]{.wo-pub-year}
 [Investigating the Potassium Fertilization Effect on Morphological and Agrophysiological Indicators of Durum Wheat under Mediterranean Rain-Fed Conditions](https://doi.org/10.3390/agriculture13061142){.wo-pub-title}
 [Messaoudi, A., Labdelli, F., Rebouh, N. Y., Djerbaoui, M., Kucher, D. E., Hadjout, S., **Ouaret, W.**, Zakharova, O. A., & Latati, M. (2023)]{.wo-pub-authors}
 [*Agriculture*, 13(6), 1142 · [doi:10.3390/agriculture13061142](https://doi.org/10.3390/agriculture13061142)]{.wo-pub-venue}
 :::
 
 ::: {.wo-pub}
+[2022]{.wo-pub-year}
 [Wheat–Faba bean intercrops improve plant nutrition, yield, and availability of nitrogen (N) and phosphorus (P) in soil](https://doi.org/10.15159/AR.22.047){.wo-pub-title}
 [Kaci, G., **Ouaret, W.**, & Rahmoune, B. (2022)]{.wo-pub-authors}
 [*Agronomy Research*, 20(3), 603–616 · [doi:10.15159/AR.22.047](https://doi.org/10.15159/AR.22.047)]{.wo-pub-venue}
 :::
 
 ::: {.wo-pub}
+[2021]{.wo-pub-year}
 [Understanding the response of wheat–chickpea intercropping to nitrogen fertilization using agro-ecological competitive indices under contrasting pedoclimatic conditions](https://doi.org/10.3390/agronomy11061225){.wo-pub-title}
 [Kherif, O., Seghouani, M., Zemmouri, B., Bouhenache, A., Keskes, M. I., Yacer-Nazih, R., **Ouaret, W.**, & Latati, M. (2021)]{.wo-pub-authors}
 [*Agronomy*, 11(6), 1225 · [doi:10.3390/agronomy11061225](https://doi.org/10.3390/agronomy11061225)]{.wo-pub-venue}
 :::
 
 ::: {.wo-pub}
+[2021]{.wo-pub-year}
 [Liming agricultural soils in Western Kenya: Can long-term economic and environmental benefits pay off short term investments?](https://doi.org/10.1016/j.agsy.2021.103095){.wo-pub-title}
 [Hijbeek, R., van Loon, M. P., **Ouaret, W.**, Boekelo, B., & van Ittersum, M. K. (2021)]{.wo-pub-authors}
 [*Agricultural Systems*, 190, 103095 · [doi:10.1016/j.agsy.2021.103095](https://doi.org/10.1016/j.agsy.2021.103095)]{.wo-pub-venue}
 :::
 
 ::: {.wo-pub}
+[2021]{.wo-pub-year}
 [Agroecological modeling of nitrogen and carbon transfers between decomposer micro-organisms, plant symbionts, soil and atmosphere in an intercropping system](https://doi.org/10.1016/j.ecolmodel.2020.109390){.wo-pub-title}
 [Kherif, O., Keskes, M. I., Pansu, M., **Ouaret, W.**, Rebouh, Y. N., Dokukin, P., Kucher, D., & Latati, M. (2021)]{.wo-pub-authors}
 [*Ecological Modelling*, 440, 109390 · [doi:10.1016/j.ecolmodel.2020.109390](https://doi.org/10.1016/j.ecolmodel.2020.109390)]{.wo-pub-venue}
 :::
 
 ::: {.wo-pub}
+[2018]{.wo-pub-year}
 [Ecological foliar fertilization effects on essential oil composition of sweet basil (*Ocimum basilicum* L.) cultivated in a field system](https://doi.org/10.1016/j.scienta.2018.05.021){.wo-pub-title}
 [Onofrei, V., Benchennouf, A., Jancheva, M., Loupassaki, S., **Ouaret, W.**, Burducea, M., Lobiuc, A., Teliban, G. C., & Robu, T. (2018)]{.wo-pub-authors}
 [*Scientia Horticulturae*, 239, 104–113 · [doi:10.1016/j.scienta.2018.05.021](https://doi.org/10.1016/j.scienta.2018.05.021)]{.wo-pub-venue}
@@ -56,6 +63,7 @@ Citation metrics: [Google Scholar](https://scholar.google.com/citations?user=p7y
 ## Conference papers
 
 ::: {.wo-pub}
+[2024]{.wo-pub-year}
 [Mapping Agricultural Greenhouses in Algeria: A Deep Learning Approach](https://doi.org/10.1109/M2GARSS57310.2024.10537540){.wo-pub-title}
 [**Ouaret, W.**, Brown, M. E., & Shumilo, L. (2024)]{.wo-pub-authors}
 [*2024 IEEE Mediterranean and Middle-East Geoscience and Remote Sensing Symposium (M2GARSS)*, Oran, Algeria, 103–107 · [doi:10.1109/M2GARSS57310.2024.10537540](https://doi.org/10.1109/M2GARSS57310.2024.10537540)]{.wo-pub-venue}
@@ -64,12 +72,14 @@ Citation metrics: [Google Scholar](https://scholar.google.com/citations?user=p7y
 ## Manuscripts in preparation
 
 ::: {.wo-pub}
+[In prep.]{.wo-pub-year}
 [Assessment of satellite-derived cropland mapping in the dryland agricultural systems of North Africa]{.wo-pub-title}
 [**Ouaret, W.** (lead author)]{.wo-pub-authors}
 [Doctoral dissertation chapter (University of Maryland, 2026) · [Project page](projects/winter-cereal-mapping.qmd) [In preparation]{.wo-status .current}]{.wo-pub-venue}
 :::
 
 ::: {.wo-pub}
+[In prep.]{.wo-pub-year}
 [Drought and long-term cropland change across North Africa]{.wo-pub-title}
 [**Ouaret, W.** (lead author)]{.wo-pub-authors}
 [Doctoral dissertation chapter (University of Maryland, 2026) · [Project page](projects/drought-landuse-north-africa.qmd) [In preparation]{.wo-status .current}]{.wo-pub-venue}
@@ -78,6 +88,7 @@ Citation metrics: [Google Scholar](https://scholar.google.com/citations?user=p7y
 ## Dissertation
 
 ::: {.wo-pub}
+[2026]{.wo-pub-year}
 [Drought and Agricultural Land-Use Change in North Africa]{.wo-pub-title}
 [**Ouaret, W.** (2026)]{.wo-pub-authors}
 [Ph.D. dissertation, Department of Geographical Sciences, University of Maryland, College Park · [Summary](phd.qmd)]{.wo-pub-venue}
@@ -86,6 +97,7 @@ Citation metrics: [Google Scholar](https://scholar.google.com/citations?user=p7y
 ## Open educational resources
 
 ::: {.wo-pub}
+[OER]{.wo-pub-year}
 [Open Climate Science for Agriculture: Module 1, Open Climate Data](https://github.com/OpenClimateScience/M1-Open-Climate-Data){.wo-pub-title}
 [OpenClimateScience team (PI: A. Endsley; Co-I: W. Ouaret)]{.wo-pub-authors}
 [Lesson materials in English, French and Arabic · [doi:10.5281/zenodo.11204778](https://doi.org/10.5281/zenodo.11204778) · [All modules](teaching.qmd)]{.wo-pub-venue}

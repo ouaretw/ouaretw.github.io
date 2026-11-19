@@ -5,9 +5,26 @@ description: "Earlier agricultural and environmental modeling: crop allocation i
 categories: [Modeling, Agronomy, Food systems]
 ---
 
+::: {.wo-projmeta}
+::: {.wo-m}
+[Status]{.wo-k}
 [Completed]{.wo-status .prev}
+:::
+::: {.wo-m}
+[Period]{.wo-k}
+2015–2023
+:::
+::: {.wo-m}
+[Institutions]{.wo-k}
+INRAE · Wageningen University · Miami University
+:::
+::: {.wo-m}
+[Methods]{.wo-k}
+Crop and nutrient modeling · data synthesis · remote sensing
+:::
+:::
 
-Before my PhD I worked on a series of modeling and synthesis projects in agronomy and land systems.
+Before the doctorate, a series of modeling and synthesis projects in agronomy and land systems, from smallholder crop allocation in Tunisia to peri-urban agriculture in the United States.
 
 ## Crop allocation in Tunisian rainfed smallholder systems
 *INRAE Landscape Modeling Team, Montpellier · 2018–2020 · IRD-ARTS grant (PI: Jean-Stéphane Bailly, AgroParisTech)*
@@ -36,4 +53,4 @@ I compiled a global database comparing organic and conventional yields across cr
 
 As a graduate research assistant, I worked on the impact of urban expansion on peri-urban agriculture, hydrometeorology, food security and human health. I used GRACE, SMAP, MODIS, VIIRS, Planet, Sentinel, Landsat and other satellite data.
 
-[← Research agenda](index.qmd)
+{{< include _projnav.qmd >}}

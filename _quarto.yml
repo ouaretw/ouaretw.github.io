@@ -8,7 +8,7 @@ project:
 website:
   title: "Walid Ouaret"
   site-url: "https://ouaretw.github.io"
-  description: "Walid Ouaret, Ph.D. Climate extremes, environmental change and societal response. Postdoctoral Fellow, The Earth Commons Institute, Georgetown University."
+  description: "Walid Ouaret, Ph.D. Earth observation scientist working on climate extremes, environmental change and societal response. Postdoctoral Fellow, The Earth Commons Institute, Georgetown University."
   favicon: assets/images/amazigh-sign.png
   image: assets/images/profile.jpg
   open-graph: true
@@ -18,26 +18,28 @@ website:
     logo: assets/images/amazigh-sign.png
     logo-alt: "Walid Ouaret, home"
     left:
-      - href: index.qmd
-        text: Home
       - text: Research
         menu:
           - href: projects/index.qmd
-            text: Research agenda
+            text: Research overview
           - text: "---"
-          - text: "Drought & agricultural land use"
+          - text: "01 · Earth observation & agricultural change"
           - href: projects/winter-cereal-mapping.qmd
             text: Cropland mapping & area estimation
           - href: projects/drought-landuse-north-africa.qmd
-            text: Drought & long-term cropland change
+            text: Drought & long-term land-use change
+          - href: projects/greenhouse-mapping.qmd
+            text: Agricultural greenhouse mapping
           - href: projects/harveststat.qmd
             text: NASA HarvestStat
-          - href: projects/greenhouse-mapping.qmd
-            text: Greenhouse mapping
           - text: "---"
-          - text: "Climate signals & governance"
+          - text: "02 · Climate signals & societal response"
           - href: projects/rain-rituals.qmd
             text: Rain rituals & drought governance
+          - text: "---"
+          - text: "03 · Climate risk & critical infrastructure"
+          - href: projects/index.qmd#emerging-research
+            text: Emerging research
       - href: publications.qmd
         text: Publications
       - href: teaching.qmd
@@ -91,7 +93,7 @@ format:
       dark: [darkly, theme-dark.scss, styles.scss]
     toc: false
     grid:
-      body-width: 960px
+      body-width: 1160px
     smooth-scroll: true
     link-external-newwindow: true
     canonical-url: true

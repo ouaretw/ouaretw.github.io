@@ -1,36 +1,49 @@
 ---
-title: "Mapping Agricultural Greenhouses in Algeria"
-subtitle: "Drought & agricultural land-use change · Agricultural intensification"
-description: "Deep learning on satellite imagery to map agricultural greenhouses in Algeria (IEEE M2GARSS 2024)."
+title: "Agricultural Greenhouse Mapping in Algeria"
+subtitle: "Earth observation & agricultural change · Agricultural intensification"
+description: "Satellite imagery and deep learning to characterize the spatial distribution of greenhouse agriculture in Algeria (IEEE M2GARSS 2024)."
 categories: [Deep learning, Remote sensing, Algeria]
 ---
 
+::: {.wo-projmeta}
+::: {.wo-m}
+[Status]{.wo-k}
 [Published · ongoing]{.wo-status .accepted}
+:::
+::: {.wo-m}
+[Venue]{.wo-k}
+IEEE M2GARSS 2024, Oran
+:::
+::: {.wo-m}
+[Region]{.wo-k}
+Algeria
+:::
+::: {.wo-m}
+[Methods]{.wo-k}
+Deep learning · satellite imagery
+:::
+:::
 
-## Research question
+## Overview
 
-Where, and how fast, is greenhouse agriculture expanding in Algeria, and can it be mapped reliably from satellite imagery?
+Satellite imagery and deep learning are used to characterize the spatial distribution of greenhouse agriculture in Algeria and support the monitoring of intensive agricultural land use. The research develops an Earth observation approach for identifying greenhouse structures across agricultural landscapes.
 
-## Scientific motivation
+Greenhouse agriculture is a form of intensification that is spreading quickly in Algeria, especially in the southern wilayas, and it is poorly documented in agricultural statistics and land-cover products.
 
-Greenhouse agriculture is a form of intensification that is spreading quickly in Algeria, especially in the southern wilayas. It is poorly documented in agricultural statistics and land-cover products.
+## Approach
 
-## Geographic scope
-
-Algeria.
-
-## Data and methods
-
-Deep learning applied to satellite imagery to detect agricultural greenhouses.
+Deep learning applied to satellite imagery to detect greenhouse structures across Algerian agricultural landscapes.
 
 ![Greenhouse area in the leading wilayas, 2000 and 2021.](../assets/images/proj-greenhouse-area.jpg){.wo-figure fig-alt="Bar chart comparing greenhouse area by wilaya in 2000 and 2021, with the largest increase in Biskra" loading="lazy"}
 
-## Publications and outputs
+## Research contributions
+
+An Earth observation approach to mapping greenhouse structures where agricultural statistics and land-cover products document them poorly, published at IEEE M2GARSS 2024. The mapping work is ongoing.
+
+## Publications & resources
 
 - Ouaret, W., Brown, M. E., & Shumilo, L. (2024). Mapping Agricultural Greenhouses in Algeria: A Deep Learning Approach. *2024 IEEE Mediterranean and Middle-East Geoscience and Remote Sensing Symposium (M2GARSS)*, Oran, Algeria, 103–107. [doi:10.1109/M2GARSS57310.2024.10537540](https://doi.org/10.1109/M2GARSS57310.2024.10537540)
 
-## Collaborators
+**Collaborators:** M. E. Brown, L. Shumilo.
 
-M. E. Brown, L. Shumilo.
-
-[← Research agenda](index.qmd)
+{{< include _projnav.qmd >}}

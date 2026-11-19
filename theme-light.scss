@@ -1,55 +1,53 @@
-// Atlas Digital, light theme.
-// Atlas Navy ink on warm Limestone; Mineral Turquoise for analysis and links;
-// Bronze and Terracotta as restrained cultural warmth (lines, markers, pattern).
-// Text pairs checked against WCAG 2.1 AA (ratios noted against #F5F0E8).
+// Signal Blue, light theme (default).
+// White ground, graphite type, signal teal for interaction, computational blue
+// for secondary/data elements, copper for rare cultural and editorial details.
+// WCAG 2.1 contrast on #FFFFFF: text 18.7, slate 7.6, teal 4.9, blue 4.7.
+// Copper #D58B52 is 2.8:1 on white, so it is decorative only; copper text uses #A35F2A (5.0).
 
 /*-- scss:defaults --*/
-$primary:          #101D30;   // Atlas Navy            14.9 : 1
-$secondary:        #545D6B;
-$success:          #167A87;
-$danger:           #A9452F;
-$link-color:       #13707C;   // turquoise, text-safe  5.1 : 1
-$link-hover-color: #101D30;
-$body-bg:          #F5F0E8;   // Limestone
-$body-color:       #1A2638;
-$headings-color:   #101D30;
-$navbar-bg:        #101D30;
-$navbar-fg:        #E9E2D6;   //                       13.2 : 1 on navy
-$navbar-hl:        #D6AB76;   // bronze                 8.0 : 1 on navy
-$footer-bg:        #101D30;
-$footer-fg:        #C3C9D2;
-$dropdown-bg:            #FBF8F3;
-$dropdown-link-color:    #101D30;
-$dropdown-link-hover-bg: #E6EFEE;
-$dropdown-link-hover-color: #101D30;
-$dropdown-border-color:  #E2D9CB;
+$primary:          #007B96;
+$secondary:        #475569;
+$info:             #3F6ED8;
+$link-color:       #007B96;
+$link-hover-color: #0B1220;
+$body-bg:          #FFFFFF;
+$body-color:       #0B1220;
+$headings-color:   #0B1220;
+$navbar-bg:        #FFFFFF;
+$navbar-fg:        #334155;
+$navbar-hl:        #007B96;
+$footer-bg:        #F8FAFC;
+$footer-fg:        #475569;
+$border-color:     #E2E8F0;
+$dropdown-bg:               #FFFFFF;
+$dropdown-link-color:       #0B1220;
+$dropdown-link-hover-bg:    #F1F5F9;
+$dropdown-link-hover-color: #007B96;
+$dropdown-border-color:     #E2E8F0;
 
 /*-- scss:rules --*/
 :root {
-  --wo-navy: #101D30;
-  --wo-turquoise: #167A87;
-  --wo-bronze: #D6AB76;
-  --wo-terracotta: #C65E49;
-  --wo-limestone: #F5F0E8;
-
-  --wo-nav-bg: #101D30;
-  --wo-nav-fg: #E9E2D6;
-  --wo-surface: #FCFAF6;
-  --wo-surface-2: #EFE8DC;
-  --wo-border: #E2D9CB;
-  --wo-rule: #D8CCBA;
-  --wo-muted: #545D6B;           // 5.6 : 1
-  --wo-ink: #101D30;
-  --wo-accent: #167A87;          // lines, markers, focus
-  --wo-accent-text: #13707C;     // turquoise used as text
-  --wo-warm: #C65E49;            // terracotta: decorative only
-  --wo-warm-text: #A9452F;       // terracotta as text 5.2 : 1
-  --wo-bronze-text: #8A6234;     // bronze as text     4.8 : 1
-  --wo-accent-soft: #E3EFEE;
-  --wo-shadow: 0 10px 28px -14px rgba(16, 29, 48, 0.28);
-  --wo-btn-bg: #101D30;  --wo-btn-fg: #F5F0E8;
-  --wo-chip-current-bg: #E3EFEE;  --wo-chip-current-fg: #0C5A63;
-  --wo-chip-prev-bg: #ECE5D9;     --wo-chip-prev-fg: #4A5260;
-  --wo-chip-dev-bg: transparent;  --wo-chip-dev-fg: #A9452F;
-  --wo-chip-sub-bg: #101D30;      --wo-chip-sub-fg: #F5F0E8;
+  --wo-bg: #FFFFFF;
+  --wo-bg-2: #F8FAFC;
+  --wo-ink: #0B1220;
+  --wo-muted: #475569;
+  --wo-faint: #64748B;
+  --wo-accent: #007B96;          // signal teal
+  --wo-accent-strong: #00657C;
+  --wo-accent-soft: #E6F3F6;
+  --wo-blue: #3F6ED8;            // computational blue
+  --wo-blue-soft: #EBF0FC;
+  --wo-copper: #D58B52;          // decorative only
+  --wo-copper-text: #A35F2A;
+  --wo-border: #E2E8F0;
+  --wo-border-strong: #CBD5E1;
+  --wo-grid-line: rgba(11, 18, 32, 0.045);
+  --wo-shadow: 0 1px 2px rgba(11, 18, 32, 0.04), 0 12px 32px -16px rgba(11, 18, 32, 0.22);
+  --wo-nav-bg: rgba(255, 255, 255, 0.92);
+  --wo-btn-bg: #0B1220;  --wo-btn-fg: #FFFFFF;
+  --wo-chip-current-bg: #E6F3F6;  --wo-chip-current-fg: #00606F;
+  --wo-chip-prev-bg: #F1F5F9;     --wo-chip-prev-fg: #475569;
+  --wo-chip-dev-bg: transparent;  --wo-chip-dev-fg: #A35F2A;
+  --wo-chip-sub-bg: #0B1220;      --wo-chip-sub-fg: #FFFFFF;
+  --wo-chip-pub-fg: #2F5BC2;
 }

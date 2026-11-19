@@ -42,4 +42,4 @@ All 13 talks are available on YouTube. [Open the full playlist ↗](https://www.
 
 See also: [Teaching & Training: the Open Climate Science for Agriculture curriculum](../teaching.qmd)
 
-[← Research agenda](index.qmd)
+{{< include _projnav.qmd >}}

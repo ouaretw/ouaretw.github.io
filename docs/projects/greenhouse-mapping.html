@@ -6,9 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="description" content="Deep learning on satellite imagery to map agricultural greenhouses in Algeria (IEEE M2GARSS 2024).">
+<meta name="description" content="Satellite imagery and deep learning to characterize the spatial distribution of greenhouse agriculture in Algeria (IEEE M2GARSS 2024).">
 
-<title>Mapping Agricultural Greenhouses in Algeria – Walid Ouaret</title>
+<title>Agricultural Greenhouse Mapping in Algeria – Walid Ouaret</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -41,8 +41,8 @@ ul.task-list li input[type="checkbox"] {
 <link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark-1d19c7d0460c7c9837a31f1c44df303d.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-b43dfe4f7a536a7cef5e7438c18b6a93.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="../site_libs/bootstrap/bootstrap-dark-aa8398f5e86cfd6518b66b85d07b6a8c.min.css" rel="prefetch" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="../site_libs/bootstrap/bootstrap-07eaad1d7a938d08e728a2913d781529.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-dark-05036f24e48cb4f165b229a493d9e330.min.css" rel="prefetch" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -73,13 +73,13 @@ ul.task-list li input[type="checkbox"] {
 <style>html{ scroll-behavior: smooth; }</style>
 
 
-<meta property="og:title" content="Mapping Agricultural Greenhouses in Algeria – Walid Ouaret">
-<meta property="og:description" content="Deep learning on satellite imagery to map agricultural greenhouses in Algeria (IEEE M2GARSS 2024).">
+<meta property="og:title" content="Agricultural Greenhouse Mapping in Algeria – Walid Ouaret">
+<meta property="og:description" content="Satellite imagery and deep learning to characterize the spatial distribution of greenhouse agriculture in Algeria (IEEE M2GARSS 2024).">
 <meta property="og:image" content="https://ouaretw.github.io/assets/images/proj-greenhouse-area.jpg">
 <meta property="og:site_name" content="Walid Ouaret">
 <meta property="og:image:alt" content="Bar chart comparing greenhouse area by wilaya in 2000 and 2021, with the largest increase in Biskra">
-<meta name="twitter:title" content="Mapping Agricultural Greenhouses in Algeria – Walid Ouaret">
-<meta name="twitter:description" content="Deep learning on satellite imagery to map agricultural greenhouses in Algeria (IEEE M2GARSS 2024).">
+<meta name="twitter:title" content="Agricultural Greenhouse Mapping in Algeria – Walid Ouaret">
+<meta name="twitter:description" content="Satellite imagery and deep learning to characterize the spatial distribution of greenhouse agriculture in Algeria (IEEE M2GARSS 2024).">
 <meta name="twitter:image" content="https://ouaretw.github.io/assets/images/proj-greenhouse-area.jpg">
 <meta name="twitter:image:alt" content="Bar chart comparing greenhouse area by wilaya in 2000 and 2021, with the largest increase in Biskra">
 <meta name="twitter:card" content="summary_large_image">
@@ -106,10 +106,6 @@ ul.task-list li input[type="checkbox"] {
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
-  <li class="nav-item">
-    <a class="nav-link" href="../index.html"> 
-<span class="menu-text">Home</span></a>
-  </li>  
   <li class="nav-item dropdown ">
     <a class="nav-link dropdown-toggle" href="#" id="nav-menu-research" role="link" data-bs-toggle="dropdown" aria-expanded="false">
  <span class="menu-text">Research</span>
@@ -117,31 +113,37 @@ ul.task-list li input[type="checkbox"] {
     <ul class="dropdown-menu" aria-labelledby="nav-menu-research">    
         <li>
     <a class="dropdown-item" href="../projects/index.html">
- <span class="dropdown-text">Research agenda</span></a>
+ <span class="dropdown-text">Research overview</span></a>
   </li>  
         <li><hr class="dropdown-divider"></li>
-        <li class="dropdown-header">Drought &amp; agricultural land use</li>
+        <li class="dropdown-header">01 · Earth observation &amp; agricultural change</li>
         <li>
     <a class="dropdown-item" href="../projects/winter-cereal-mapping.html">
  <span class="dropdown-text">Cropland mapping &amp; area estimation</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="../projects/drought-landuse-north-africa.html">
- <span class="dropdown-text">Drought &amp; long-term cropland change</span></a>
+ <span class="dropdown-text">Drought &amp; long-term land-use change</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../projects/greenhouse-mapping.html">
+ <span class="dropdown-text">Agricultural greenhouse mapping</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="../projects/harveststat.html">
  <span class="dropdown-text">NASA HarvestStat</span></a>
   </li>  
-        <li>
-    <a class="dropdown-item" href="../projects/greenhouse-mapping.html">
- <span class="dropdown-text">Greenhouse mapping</span></a>
-  </li>  
         <li><hr class="dropdown-divider"></li>
-        <li class="dropdown-header">Climate signals &amp; governance</li>
+        <li class="dropdown-header">02 · Climate signals &amp; societal response</li>
         <li>
     <a class="dropdown-item" href="../projects/rain-rituals.html">
  <span class="dropdown-text">Rain rituals &amp; drought governance</span></a>
+  </li>  
+        <li><hr class="dropdown-divider"></li>
+        <li class="dropdown-header">03 · Climate risk &amp; critical infrastructure</li>
+        <li>
+    <a class="dropdown-item" href="../projects/index.html#emerging-research">
+ <span class="dropdown-text">Emerging research</span></a>
   </li>  
     </ul>
   </li>
@@ -224,8 +226,8 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Mapping Agricultural Greenhouses in Algeria</h1>
-<p class="subtitle lead">Drought &amp; agricultural land-use change · Agricultural intensification</p>
+<h1 class="title">Agricultural Greenhouse Mapping in Algeria</h1>
+<p class="subtitle lead">Earth observation &amp; agricultural change · Agricultural intensification</p>
   <div class="quarto-categories">
     <div class="quarto-category">Deep learning</div>
     <div class="quarto-category">Remote sensing</div>
@@ -235,7 +237,7 @@ ul.task-list li input[type="checkbox"] {
 
 <div>
   <div class="description">
-    Deep learning on satellite imagery to map agricultural greenhouses in Algeria (IEEE M2GARSS 2024).
+    Satellite imagery and deep learning to characterize the spatial distribution of greenhouse agriculture in Algeria (IEEE M2GARSS 2024).
   </div>
 </div>
 
@@ -252,22 +254,28 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p><span class="wo-status accepted">Published · ongoing</span></p>
-<section id="research-question" class="level2">
-<h2 class="anchored" data-anchor-id="research-question">Research question</h2>
-<p>Where, and how fast, is greenhouse agriculture expanding in Algeria, and can it be mapped reliably from satellite imagery?</p>
+<div class="wo-projmeta">
+<div class="wo-m">
+<p><span class="wo-k">Status</span> <span class="wo-status accepted">Published · ongoing</span></p>
+</div>
+<div class="wo-m">
+<p><span class="wo-k">Venue</span> IEEE M2GARSS 2024, Oran</p>
+</div>
+<div class="wo-m">
+<p><span class="wo-k">Region</span> Algeria</p>
+</div>
+<div class="wo-m">
+<p><span class="wo-k">Methods</span> Deep learning · satellite imagery</p>
+</div>
+</div>
+<section id="overview" class="level2">
+<h2 class="anchored" data-anchor-id="overview">Overview</h2>
+<p>Satellite imagery and deep learning are used to characterize the spatial distribution of greenhouse agriculture in Algeria and support the monitoring of intensive agricultural land use. The research develops an Earth observation approach for identifying greenhouse structures across agricultural landscapes.</p>
+<p>Greenhouse agriculture is a form of intensification that is spreading quickly in Algeria, especially in the southern wilayas, and it is poorly documented in agricultural statistics and land-cover products.</p>
 </section>
-<section id="scientific-motivation" class="level2">
-<h2 class="anchored" data-anchor-id="scientific-motivation">Scientific motivation</h2>
-<p>Greenhouse agriculture is a form of intensification that is spreading quickly in Algeria, especially in the southern wilayas. It is poorly documented in agricultural statistics and land-cover products.</p>
-</section>
-<section id="geographic-scope" class="level2">
-<h2 class="anchored" data-anchor-id="geographic-scope">Geographic scope</h2>
-<p>Algeria.</p>
-</section>
-<section id="data-and-methods" class="level2">
-<h2 class="anchored" data-anchor-id="data-and-methods">Data and methods</h2>
-<p>Deep learning applied to satellite imagery to detect agricultural greenhouses.</p>
+<section id="approach" class="level2">
+<h2 class="anchored" data-anchor-id="approach">Approach</h2>
+<p>Deep learning applied to satellite imagery to detect greenhouse structures across Algerian agricultural landscapes.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="../assets/images/proj-greenhouse-area.jpg" class="wo-figure img-fluid figure-img" loading="lazy" alt="Bar chart comparing greenhouse area by wilaya in 2000 and 2021, with the largest increase in Biskra"></p>
@@ -275,16 +283,29 @@ ul.task-list li input[type="checkbox"] {
 </figure>
 </div>
 </section>
-<section id="publications-and-outputs" class="level2">
-<h2 class="anchored" data-anchor-id="publications-and-outputs">Publications and outputs</h2>
+<section id="research-contributions" class="level2">
+<h2 class="anchored" data-anchor-id="research-contributions">Research contributions</h2>
+<p>An Earth observation approach to mapping greenhouse structures where agricultural statistics and land-cover products document them poorly, published at IEEE M2GARSS 2024. The mapping work is ongoing.</p>
+</section>
+<section id="publications-resources" class="level2">
+<h2 class="anchored" data-anchor-id="publications-resources">Publications &amp; resources</h2>
 <ul>
 <li>Ouaret, W., Brown, M. E., &amp; Shumilo, L. (2024). Mapping Agricultural Greenhouses in Algeria: A Deep Learning Approach. <em>2024 IEEE Mediterranean and Middle-East Geoscience and Remote Sensing Symposium (M2GARSS)</em>, Oran, Algeria, 103–107. <a href="https://doi.org/10.1109/M2GARSS57310.2024.10537540">doi:10.1109/M2GARSS57310.2024.10537540</a></li>
 </ul>
-</section>
-<section id="collaborators" class="level2">
-<h2 class="anchored" data-anchor-id="collaborators">Collaborators</h2>
-<p>M. E. Brown, L. Shumilo.</p>
-<p><a href="../projects/index.html">← Research agenda</a></p>
+<p><strong>Collaborators:</strong> M. E. Brown, L. Shumilo.</p>
+<div class="wo-projnav">
+<p><span class="wo-label">Research projects</span></p>
+<ul>
+<li><a href="../projects/rain-rituals.html">Rain Rituals and Drought Governance</a></li>
+<li><a href="../projects/winter-cereal-mapping.html">Cropland Mapping and Area Estimation</a></li>
+<li><a href="../projects/drought-landuse-north-africa.html">Drought and Long-Term Land-Use Change</a></li>
+<li><a href="../projects/greenhouse-mapping.html">Agricultural Greenhouse Mapping</a></li>
+<li><a href="../projects/harveststat.html">NASA HarvestStat</a></li>
+<li><a href="../projects/seeds.html">SEEDS Seminar Series</a></li>
+<li><a href="../projects/ag-env-modeling.html">Agricultural &amp; Environmental Modeling</a></li>
+<li><a href="../projects/index.html">Research agenda →</a></li>
+</ul>
+</div>
 
 
 </section>

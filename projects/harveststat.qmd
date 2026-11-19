@@ -1,36 +1,46 @@
 ---
 title: "NASA HarvestStat"
-subtitle: "Drought & agricultural land-use change · Subnational crop statistics"
+subtitle: "Earth observation & agricultural change · Subnational crop statistics"
 description: "Contributions to NASA HarvestStat, a global database of subnational crop production statistics, with analysis of North African wheat systems."
 categories: [Food security, Crop statistics, NASA]
 ---
 
+::: {.wo-projmeta}
+::: {.wo-m}
+[Status]{.wo-k}
 [In progress]{.wo-status .current}
+:::
+::: {.wo-m}
+[Scope]{.wo-k}
+Global database · North Africa focus
+:::
+::: {.wo-m}
+[Data]{.wo-k}
+Subnational production, area and yield statistics
+:::
+::: {.wo-m}
+[Methods]{.wo-k}
+Quality control · time-series and volatility analysis
+:::
+:::
 
-## Research question
+## Overview
 
-How have North African wheat systems evolved, how volatile are they, and how sensitive are they to climate?
+Subnational crop statistics are essential for food-security monitoring and for linking climate to agricultural outcomes, but they are scattered and inconsistent across sources. NASA HarvestStat is building a global database of subnational crop production statistics. My contributions focus on North Africa.
 
-## Scientific motivation
+## Approach
 
-Subnational crop statistics are essential for food-security monitoring and for linking climate to agricultural outcomes, but they are scattered and inconsistent. NASA HarvestStat is building the most comprehensive global database of subnational crop production data.
+Compilation and quality control of subnational production, area and yield statistics, followed by time-series and volatility analysis of wheat systems.
 
-## Geographic scope
+![Ripening wheat in eastern Algeria · June 2024](../assets/images/field-algeria-wheat.jpg){.wo-figure fig-alt="Ripening wheat with wildflowers in eastern Algeria" loading="lazy"}
 
-Global database. My contributions and analysis focus on North Africa.
+## Research contributions
 
-## Data and methods
+Analysis of the evolution, volatility and climate sensitivity of North African wheat systems is in progress. Results will be reported once published.
 
-Compilation and quality control of subnational production, area and yield statistics; time-series and volatility analysis of wheat systems.
+## Publications & resources
 
-## Principal findings
+- Publications to follow.
+- Seminar: [HarvestStat: Subnational Yield Data Collection](https://www.youtube.com/watch?v=I_C72Hl1_FM), M. M. Foley, SEEDS Seminar Series (2025).
 
-Analysis in progress; no results reported here yet.
-
-## Publications and outputs
-
-None yet.
-
-![Ripening wheat in eastern Algeria, June 2024.](../assets/images/field-algeria-wheat.jpg){.wo-figure fig-alt="Ripening wheat with wildflowers in eastern Algeria" loading="lazy"}
-
-[← Research agenda](index.qmd)
+{{< include _projnav.qmd >}}

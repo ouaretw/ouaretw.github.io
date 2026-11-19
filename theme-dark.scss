@@ -1,54 +1,51 @@
-// Atlas Digital, dark theme.
-// Deep Atlas Navy ground, Limestone text, luminous Turquoise, Bronze highlights.
-// Text pairs checked against WCAG 2.1 AA (ratios noted against #0C1626).
+// Signal Blue, dark theme.
+// WCAG 2.1 contrast on #0B1220: text 17.1, slate 8.9, teal 7.8, blue 7.1, copper 8.5.
+// On the #151F30 surface: slate 7.9, teal 6.9.
 
 /*-- scss:defaults --*/
-$primary:          #6CCAD4;
-$secondary:        #A3ADBB;
-$success:          #5CC2CE;
-$danger:           #E38A73;
-$link-color:       #6CCAD4;   //                       8.3 : 1 on surface
-$link-hover-color: #F5F0E8;
-$body-bg:          #0C1626;
-$body-color:       #E2DBCF;   //                      13.0 : 1
-$headings-color:   #F5F0E8;
-$navbar-bg:        #08101C;
-$navbar-fg:        #E9E2D6;
-$navbar-hl:        #D6AB76;
-$footer-bg:        #08101C;
-$footer-fg:        #A3ADBB;
-$dropdown-bg:            #132338;
-$dropdown-link-color:    #E9E2D6;
-$dropdown-link-hover-bg: #1B3048;
-$dropdown-link-hover-color: #FFFFFF;
-$dropdown-border-color:  #22374F;
+$primary:          #49B5C8;
+$secondary:        #A7B4C7;
+$info:             #7B9BFA;
+$link-color:       #49B5C8;
+$link-hover-color: #F1F5F9;
+$body-bg:          #0B1220;
+$body-color:       #F1F5F9;
+$headings-color:   #F1F5F9;
+$navbar-bg:        #0B1220;
+$navbar-fg:        #CBD5E1;
+$navbar-hl:        #49B5C8;
+$footer-bg:        #0B1220;
+$footer-fg:        #A7B4C7;
+$border-color:     #29364A;
+$dropdown-bg:               #151F30;
+$dropdown-link-color:       #F1F5F9;
+$dropdown-link-hover-bg:    #1D2A40;
+$dropdown-link-hover-color: #49B5C8;
+$dropdown-border-color:     #29364A;
 
 /*-- scss:rules --*/
 :root {
-  --wo-navy: #101D30;
-  --wo-turquoise: #167A87;
-  --wo-bronze: #D6AB76;
-  --wo-terracotta: #C65E49;
-  --wo-limestone: #F5F0E8;
-
-  --wo-nav-bg: #08101C;
-  --wo-nav-fg: #E9E2D6;
-  --wo-surface: #132338;
-  --wo-surface-2: #182B43;
-  --wo-border: #22374F;
-  --wo-rule: #2C4360;
-  --wo-muted: #A3ADBB;           // 7.0 : 1 on surface
-  --wo-ink: #F5F0E8;
-  --wo-accent: #5CC2CE;
-  --wo-accent-text: #6CCAD4;
-  --wo-warm: #E38A73;
-  --wo-warm-text: #E38A73;       // 7.0 : 1
-  --wo-bronze-text: #D6AB76;     // 8.6 : 1
-  --wo-accent-soft: #123447;
-  --wo-shadow: 0 12px 30px -14px rgba(0, 0, 0, 0.6);
-  --wo-btn-bg: #D6AB76;  --wo-btn-fg: #101D30;   // 8.0 : 1
-  --wo-chip-current-bg: #123447;  --wo-chip-current-fg: #8EDAE2;
-  --wo-chip-prev-bg: #1B2C42;     --wo-chip-prev-fg: #BCC4CF;
-  --wo-chip-dev-bg: transparent;  --wo-chip-dev-fg: #E9A08C;
-  --wo-chip-sub-bg: #E9E2D6;      --wo-chip-sub-fg: #101D30;
+  --wo-bg: #0B1220;
+  --wo-bg-2: #151F30;
+  --wo-ink: #F1F5F9;
+  --wo-muted: #A7B4C7;
+  --wo-faint: #8796AC;
+  --wo-accent: #49B5C8;
+  --wo-accent-strong: #7FCEDC;
+  --wo-accent-soft: #12303A;
+  --wo-blue: #7B9BFA;
+  --wo-blue-soft: #1A2647;
+  --wo-copper: #E1A16C;
+  --wo-copper-text: #E1A16C;
+  --wo-border: #29364A;
+  --wo-border-strong: #3A4A62;
+  --wo-grid-line: rgba(241, 245, 249, 0.045);
+  --wo-shadow: 0 1px 2px rgba(0, 0, 0, 0.3), 0 14px 34px -16px rgba(0, 0, 0, 0.7);
+  --wo-nav-bg: rgba(11, 18, 32, 0.92);
+  --wo-btn-bg: #49B5C8;  --wo-btn-fg: #0B1220;
+  --wo-chip-current-bg: #12303A;  --wo-chip-current-fg: #8FD6E3;
+  --wo-chip-prev-bg: #1D2A40;     --wo-chip-prev-fg: #CBD5E1;
+  --wo-chip-dev-bg: transparent;  --wo-chip-dev-fg: #E1A16C;
+  --wo-chip-sub-bg: #F1F5F9;      --wo-chip-sub-fg: #0B1220;
+  --wo-chip-pub-fg: #9CB4FB;
 }

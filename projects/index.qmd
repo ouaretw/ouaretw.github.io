@@ -1,28 +1,30 @@
 ---
-title: "Research agenda"
+title: "Research"
 subtitle: "Climate extremes, environmental change and societal response"
-description: "Research on drought and agricultural land-use change, climate signals and environmental governance, and emerging work on climate risk and critical infrastructure."
+description: "Research on Earth observation and agricultural change, climate signals and societal response, and emerging work on climate risk and critical infrastructure."
 ---
 
 ::: {.column-screen .wo-banner}
 ![Cereal fields, Bizerte region, northern Tunisia · fieldwork, May 2024](../assets/images/hero-tunisia-cereal-fields.jpg){fig-alt="Rolling golden cereal fields in northern Tunisia"}
 :::
 
-::: {.wo-question}
-How do climate extremes generate environmental, infrastructure, and institutional risks, and how can Earth observation and quantitative evidence support more resilient decisions?
-:::
+The research program links satellite Earth observation, field surveys, climate records and archival data to document how climate extremes reshape agricultural land use and how societies and institutions respond. Fieldwork has centred on the drylands of Algeria, Morocco and Tunisia; current work at Georgetown extends the program to climate risks for critical infrastructure.
 
 ::: {.wo-legend}
-**Status:** [Published / accepted]{.wo-status .accepted} [Completed · manuscript in preparation]{.wo-status .current} [In progress]{.wo-status .current} [Emerging]{.wo-status .dev} [Completed]{.wo-status .prev}
+**Status** [Published / accepted]{.wo-status .accepted} [Completed · manuscript in preparation]{.wo-status .current} [In progress]{.wo-status .current} [Emerging]{.wo-status .dev} [Completed]{.wo-status .prev}
 :::
 
-## A · Drought & Agricultural Land-Use Change {#drought-agricultural-land-use-change}
+## 01 · Earth Observation & Agricultural Change {#earth-observation-agricultural-change}
+
+```{=html}
+<span id="drought-agricultural-land-use-change" aria-hidden="true"></span>
+```
 
 [Established]{.wo-status .published}
 
-How drought variability and persistence relate to cropland extent and agricultural intensification in drylands. This direction builds field surveys and reference datasets, assesses remote-sensing cropland products, and examines agricultural vulnerability. **Geographic experience:** Algeria, Morocco and Tunisia.
+Satellite remote sensing, cropland mapping, agricultural monitoring, probability-based field surveys and land-use dynamics in dryland environments. This work builds field reference datasets, assesses satellite cropland products, and relates drought to cropland extent and agricultural intensification across Algeria, Morocco and Tunisia.
 
-::: {.wo-grid .wide}
+::: {.wo-grid}
 
 ::: {.wo-card}
 ![](../assets/images/card-cereal-belt.jpg){.wo-card-img fig-alt="Map of winter cereal density across the North African cereal belt" loading="lazy"}
@@ -30,7 +32,7 @@ How drought variability and persistence relate to cropland extent and agricultur
 [Completed · manuscript in preparation]{.wo-status .current}
 
 ### [Cropland Mapping and Area Estimation](winter-cereal-mapping.qmd){.stretched-link}
-Field-based cropland area estimation and an independent assessment of satellite cropland maps.
+A probability-based field survey, design-based area estimation and an independent assessment of satellite cropland maps.
 :::
 
 ::: {.wo-card}
@@ -38,7 +40,7 @@ Field-based cropland area estimation and an independent assessment of satellite 
 
 [Completed · manuscript in preparation]{.wo-status .current}
 
-### [Drought and Long-Term Cropland Change](drought-landuse-north-africa.qmd){.stretched-link}
+### [Drought and Long-Term Agricultural Land-Use Change](drought-landuse-north-africa.qmd){.stretched-link}
 Long-term cropland change across the region (2000–2024) and its relationship with drought.
 :::
 
@@ -52,38 +54,45 @@ Subnational crop production statistics for North Africa, and the evolution, vola
 :::
 
 ::: {.wo-card}
+[]{.wo-tile aria-hidden="true"}
+
 [Published · ongoing]{.wo-status .accepted}
 
-### [Mapping Agricultural Greenhouses in Algeria](greenhouse-mapping.qmd){.stretched-link}
-Deep learning on satellite imagery to map rapidly expanding greenhouse agriculture (IEEE M2GARSS 2024).
+### [Agricultural Greenhouse Mapping in Algeria](greenhouse-mapping.qmd){.stretched-link}
+Deep learning on satellite imagery to map greenhouse structures and monitor intensive agricultural land use (IEEE M2GARSS 2024).
 :::
 
 :::
 
-## B · Climate Signals & Environmental Governance {#climate-signals-environmental-governance}
+## 02 · Climate Signals & Societal Response {#climate-signals-societal-response}
 
-[Established · expanding]{.wo-status .published}
+```{=html}
+<span id="climate-signals-environmental-governance" aria-hidden="true"></span>
+```
 
-When does environmental stress become publicly recognized and institutionally actionable? This direction studies institutional responses to drought, the role of environmental information in decision-making, climate-risk communication, and how governance is activated under environmental stress. Rain rituals are treated as **observable institutional responses**, distinct from the physical drought conditions that precede them.
+[Established]{.wo-status .published}
 
-::: {.wo-grid .wide}
+Drought indicators, institutional recognition of environmental stress, climate governance and observable societal responses to climate extremes. This work studies institutional responses to drought, the role of environmental information in decision-making and climate-risk communication. State-organized rain rituals are treated as **observable institutional responses**, distinct from the physical drought conditions that precede them.
 
-::: {.wo-card}
-![](../assets/images/card-newspaper-archive.jpg){.wo-card-img fig-alt="Boxes of newspaper archives on a library cart" loading="lazy"}
+::: {.wo-feature}
+::: {.wo-feature-media}
+![](../assets/images/proj-newspaper-archive.jpg){fig-alt="Boxes of newspaper archives on a library cart" loading="lazy"}
+:::
+::: {.wo-feature-body}
+[Accepted · *Environmental Research: Climate*]{.wo-status .accepted}
 
-[Accepted]{.wo-status .accepted}
+### [Rain Rituals and Drought Governance in North Africa](rain-rituals.qmd)
+A 25-year archival record of 63 state-organized rain rituals in Algeria, Morocco and Tunisia, linked to drought indicators over cropland. Featured in [*Eos*](https://eos.org/articles/when-a-prayer-is-also-a-climate-signal) (AGU), 2025.
 
-### [Rain Rituals and Drought Governance](rain-rituals.qmd){.stretched-link}
-When drought becomes publicly and institutionally recognized, read from state-organized rain rituals. Accepted in *Environmental Research: Climate*.
+[Project page →](rain-rituals.qmd){.wo-more}
+:::
 :::
 
-:::
+## 03 · Climate Risk & Critical Infrastructure {#emerging-research}
 
-## C · Emerging: Climate Risk & Critical Infrastructure {#emerging-research}
+[Emerging · early stage]{.wo-status .dev}
 
-[Emerging]{.wo-status .dev}
-
-At The Earth Commons Institute, I am beginning to extend this work toward climate risks to critical infrastructure. This research is at an early stage, and details will be shared as it develops. If you are interested in collaborating, please [get in touch](../index.qmd#contact).
+Emerging research at The Earth Commons Institute connecting environmental extremes with energy systems, water infrastructure, data centers and resilience analysis. The work is at an early stage; details will be shared as it develops. Researchers interested in collaborating are welcome to [get in touch](../index.qmd#contact).
 
 ## Previous research
 
@@ -112,27 +121,27 @@ Crop allocation in Tunisia, liming trade-offs in Kenya, organic–conventional y
 ## Methods & tools
 
 ::: {.wo-tools}
-[**Earth observation**: Sentinel · Landsat · MODIS · VIIRS · SMAP · GRACE · Planet · MERRA-2]{.wo-toolrow}
-[**Analysis**: field survey design · area estimation · deep learning · drought indices · trend analysis · machine learning]{.wo-toolrow}
-[**Open science**: Python · Jupyter · Git/GitHub · Pixi · Snakemake · NASA Earthdata · cloud-native climate data]{.wo-toolrow}
+[**Earth observation** Sentinel · Landsat · MODIS · VIIRS · SMAP · GRACE · Planet · MERRA-2]{.wo-toolrow}
+[**Analysis** Field survey design · area estimation · deep learning · drought indices · trend analysis · machine learning]{.wo-toolrow}
+[**Open science** Python · Jupyter · Git/GitHub · Pixi · Snakemake · NASA Earthdata · cloud-native climate data]{.wo-toolrow}
 :::
 
 ## Fieldwork across the Maghreb {#fieldwork-across-the-maghreb}
 
-Fieldwork in 2024 took me through the cereal belt and its margins in all three countries.
+Field campaigns in 2023–2024 covered the cereal belt and its margins in all three countries.
 
 ::: {.wo-gallery}
-![Cereals and grazing, northwestern Tunisia, April 2024](../assets/images/field-tunisia-wheat-sheep.jpg){fig-alt="Sheep walking past green wheat fields in northwestern Tunisia" loading="lazy"}
+![Cereals and grazing, northwestern Tunisia · April 2024](../assets/images/field-tunisia-wheat-sheep.jpg){fig-alt="Sheep walking past green wheat fields in northwestern Tunisia" loading="lazy"}
 
-![Oasis agriculture, southern Tunisia, April 2024](../assets/images/field-tunisia-palms.jpg){fig-alt="Row of date palms above green fields in southern Tunisia" loading="lazy"}
+![Oasis agriculture, southern Tunisia · April 2024](../assets/images/field-tunisia-palms.jpg){fig-alt="Row of date palms above green fields in southern Tunisia" loading="lazy"}
 
-![Ripening wheat, eastern Algeria, June 2024](../assets/images/field-algeria-wheat.jpg){fig-alt="Ripening wheat with wildflowers in eastern Algeria" loading="lazy"}
+![Ripening wheat, eastern Algeria · June 2024](../assets/images/field-algeria-wheat.jpg){fig-alt="Ripening wheat with wildflowers in eastern Algeria" loading="lazy"}
 
-![Cereal hills, Bordj Bou Arréridj region, Algeria, June 2024](../assets/images/field-algeria-hills.jpg){fig-alt="Hills with cereal fields in Algeria" loading="lazy"}
+![Cereal hills, Bordj Bou Arréridj region, Algeria · June 2024](../assets/images/field-algeria-hills.jpg){fig-alt="Hills with cereal fields in Algeria" loading="lazy"}
 
-![Rangeland, Tiaret region, Algeria, April 2024](../assets/images/field-algeria-tiaret.jpg){fig-alt="Dry rangeland with a lone tree in western Algeria" loading="lazy"}
+![Rangeland, Tiaret region, Algeria · April 2024](../assets/images/field-algeria-tiaret.jpg){fig-alt="Dry rangeland with a lone tree in western Algeria" loading="lazy"}
 
-![Cropland and hillslopes, Taza region, Morocco, February 2024](../assets/images/field-morocco-taza.jpg){fig-alt="Hillside above green fields in northern Morocco" loading="lazy"}
+![Cropland and hillslopes, Taza region, Morocco · February 2024](../assets/images/field-morocco-taza.jpg){fig-alt="Hillside above green fields in northern Morocco" loading="lazy"}
 
-![Olive tree and cereals, Middle Atlas foothills, Morocco, March 2024](../assets/images/field-morocco-olive.jpg){fig-alt="Olive tree above a cereal field in Morocco" loading="lazy"}
+![Olive tree and cereals, Middle Atlas foothills, Morocco · March 2024](../assets/images/field-morocco-olive.jpg){fig-alt="Olive tree above a cereal field in Morocco" loading="lazy"}
 :::

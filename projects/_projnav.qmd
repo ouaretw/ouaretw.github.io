@@ -1,0 +1,12 @@
+::: {.wo-projnav}
+[Research projects]{.wo-label}
+
+- [Rain Rituals and Drought Governance](rain-rituals.qmd)
+- [Cropland Mapping and Area Estimation](winter-cereal-mapping.qmd)
+- [Drought and Long-Term Land-Use Change](drought-landuse-north-africa.qmd)
+- [Agricultural Greenhouse Mapping](greenhouse-mapping.qmd)
+- [NASA HarvestStat](harveststat.qmd)
+- [SEEDS Seminar Series](seeds.qmd)
+- [Agricultural & Environmental Modeling](ag-env-modeling.qmd)
+- [Research agenda →](index.qmd)
+:::

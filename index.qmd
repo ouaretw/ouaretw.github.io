@@ -1,198 +1,264 @@
 ---
 pagetitle: "Walid Ouaret, Ph.D. · Climate Extremes, Environmental Change, and Societal Response"
-description: "Walid Ouaret studies how climate extremes affect agricultural landscapes, critical infrastructure and the institutions that manage environmental risk. Postdoctoral Fellow, The Earth Commons Institute, Georgetown University."
+description: "Walid Ouaret, Ph.D., Earth observation scientist and Postdoctoral Fellow at Georgetown University's Earth Commons Institute. Satellite observations, climate data, field surveys and quantitative modeling of environmental change, climate-related risks and societal responses."
 image: assets/images/profile.jpg
 ---
 
 ::: {.wo-hero}
 
-::: {.wo-portrait}
-![](assets/images/profile.jpg){fig-alt="Portrait of Walid Ouaret"}
-:::
-
 ::: {.wo-hero-text}
-[Walid Ouaret, Ph.D.]{.wo-eyebrow}
+[The Earth Commons Institute · Georgetown University]{.wo-eyebrow}
 
 ```{=html}
 <h1 class="wo-headline">Climate Extremes, Environmental Change, and Societal Response</h1>
 ```
 
-::: {.wo-identity}
-Earth observation scientist. Postdoctoral Fellow at The Earth Commons Institute, Georgetown University.
+::: {.wo-lede}
+**Walid Ouaret, Ph.D.** is an Earth observation scientist and Postdoctoral Fellow at Georgetown University's Earth Commons Institute. His research combines satellite observations, climate data, field surveys, and quantitative modeling to investigate environmental change, climate-related risks, and societal responses.
 :::
 
-::: {.wo-links}
-[<i class="bi bi-envelope" aria-hidden="true"></i> Email](mailto:wo140@georgetown.edu)
-[<i class="bi bi-mortarboard" aria-hidden="true"></i> Google Scholar](https://scholar.google.com/citations?user=p7yIdHgAAAAJ)
+::: {.wo-hero-links}
+[Research](projects/index.qmd){.wo-primary}
+[Publications](publications.qmd){.wo-primary}
 [<i class="bi bi-github" aria-hidden="true"></i> GitHub](https://github.com/ouaretw)
+[<i class="bi bi-mortarboard" aria-hidden="true"></i> Google Scholar](https://scholar.google.com/citations?user=p7yIdHgAAAAJ)
 [<i class="bi bi-person-vcard" aria-hidden="true"></i> ORCID](https://orcid.org/0000-0002-2615-1451)
 [<i class="bi bi-file-earmark-text" aria-hidden="true"></i> CV](cv.qmd)
 :::
 :::
 
+::: {.wo-portrait}
+![](assets/images/profile.jpg){fig-alt="Portrait of Walid Ouaret"}
+
+[**Postdoctoral Fellow**, SuRGE Lab, The Earth Commons Institute, Georgetown University]{.wo-portrait-caption}
 :::
 
-::: {.wo-facts}
-::: {.wo-fact}
-[Appointment]{.wo-fact-label}
-**Postdoctoral Fellow**, The Earth Commons Institute, Georgetown University
-:::
-::: {.wo-fact}
-[Lab]{.wo-fact-label}
-**SuRGE Lab**, with Roshanak (Roshi) Nateghi
-:::
-::: {.wo-fact}
-[Doctorate]{.wo-fact-label}
-**Ph.D., Geographical Sciences**, University of Maryland, 2026
-:::
-::: {.wo-fact}
-[Methods]{.wo-fact-label}
-Remote sensing, field surveys, climate records, statistical modeling
-:::
 :::
 
-::: {.wo-intro-text}
-My research investigates how climate extremes affect agricultural landscapes, critical infrastructure, and the institutions responsible for managing environmental risk. I integrate satellite observations, climate records, field surveys, and quantitative modeling to understand environmental change, identify emerging risks, and support resilience decisions.
+## Research areas
 
-At Georgetown University's Earth Commons Institute, I am extending this work toward climate risks to critical infrastructure.
-:::
+::: {.wo-areas}
 
-## Research vision
+::: {.wo-area}
+[01]{.wo-area-num}
 
-::: {.wo-question}
-How do climate extremes generate environmental, infrastructure, and institutional risks, and how can Earth observation and quantitative evidence support more resilient decisions?
-:::
+### [Earth Observation & Agricultural Change](projects/index.qmd#earth-observation-agricultural-change)
+Satellite remote sensing, cropland mapping, agricultural monitoring, probability-based field surveys, and land-use dynamics in dryland environments.
 
-## Research directions
-
-::: {.wo-grid .wide .wo-directions}
-
-::: {.wo-card}
 [Established]{.wo-status .published}
-
-### [Drought & Agricultural Land-Use Change](projects/index.qmd#drought-agricultural-land-use-change){.stretched-link}
-How drought variability and persistence relate to cropland extent and intensification in drylands, using field surveys, reference datasets and satellite cropland products. Algeria, Morocco and Tunisia.
 :::
 
-::: {.wo-card}
-[Established · expanding]{.wo-status .published}
+::: {.wo-area}
+[02]{.wo-area-num}
 
-### [Climate Signals & Environmental Governance](projects/index.qmd#climate-signals-environmental-governance){.stretched-link}
-When environmental stress becomes institutionally recognized. State-organized rain rituals are studied as observable institutional responses to drought, not as measurements of it.
-:::
+### [Climate Signals & Societal Response](projects/index.qmd#climate-signals-societal-response)
+Drought indicators, institutional recognition of environmental stress, climate governance, and observable societal responses to climate extremes.
 
-::: {.wo-card}
-[Emerging]{.wo-status .dev}
-
-### [Climate Risk & Critical Infrastructure](#contact){.stretched-link}
-Early-stage work at Georgetown on how climate extremes affect critical infrastructure. Details will follow as the work matures; I'm glad to talk with potential collaborators.
-:::
-
-::: {.wo-card}
 [Established]{.wo-status .published}
+:::
 
-### [Earth Observation & Open Science](teaching.qmd){.stretched-link}
-Reproducible geospatial analysis, open climate-data tools and remote-sensing training, including a NASA-funded curriculum in three languages.
+::: {.wo-area .is-emerging}
+[03]{.wo-area-num}
+
+### [Climate Risk & Critical Infrastructure](projects/index.qmd#emerging-research)
+Emerging research connecting environmental extremes with energy systems, water infrastructure, data centers, and resilience analysis.
+
+[Emerging · early stage]{.wo-status .dev}
 :::
 
 :::
 
-## Featured work
+## Featured research
 
 ::: {.wo-feature}
-::: {.wo-feature-img}
-![](assets/images/card-newspaper-archive.jpg){fig-alt="Boxes of newspaper archives on a library cart" loading="lazy"}
+::: {.wo-feature-media .tall}
+![](assets/images/proj-microfilm.jpg){fig-alt="A hand holding a reel of newspaper microfilm beside an archive reader" loading="lazy"}
+
+[Archival research for the rain-ritual record.]{.wo-cap}
 :::
 ::: {.wo-feature-body}
 [Accepted · *Environmental Research: Climate*]{.wo-status .accepted}
 
-### [Rain Rituals and Drought Governance](projects/rain-rituals.qmd){.stretched-link}
-A 25-year archival record of state-organized rain rituals in Algeria, Morocco and Tunisia, read as a signal of when drought becomes publicly and institutionally recognized.
+### [Rain Rituals and Drought Governance in North Africa](projects/rain-rituals.qmd)
+A 25-year archival record (2000–2024) of 63 state-organized rain rituals in Algeria, Morocco and Tunisia, linked to drought indicators over cropland. Institutional recognition of drought follows agricultural drought, concentrating in the rainfed cropping season and in the main rainfed regions.
 
-::: {.wo-feature-meta}
-[Drought governance]{.wo-tag} [Archival records]{.wo-tag} [Drylands]{.wo-tag}Featured in [*Eos*](https://eos.org/articles/when-a-prayer-is-also-a-climate-signal) (AGU), 2025
+::: {.wo-kv}
+[Authors]{.wo-k} [**Ouaret, W.**, Brown, M. E., Endsley, A., Enenkel, M., Anderson, W., Hadjout, S., & Loboda, T. V.]{.wo-v}
+[Coverage]{.wo-k} [*Eos* (AGU): [When a Prayer Is Also a Climate Signal](https://eos.org/articles/when-a-prayer-is-also-a-climate-signal), 2025]{.wo-v}
+:::
+
+[Project page →](projects/rain-rituals.qmd){.wo-more}
 :::
 :::
+
+::: {.wo-feature .reverse}
+::: {.wo-feature-media .figure}
+![](assets/images/proj-cereal-belt-map.jpg){fig-alt="Map of winter cereal density across Morocco, Algeria and Tunisia, concentrated in a narrow northern band between the Mediterranean and the Sahara" loading="lazy"}
+
+[The North African cereal belt, 2023–2024 season. Map-derived pattern for illustration; not an area estimate.]{.wo-cap}
 :::
-
-## Research projects
-
-::: {.wo-grid}
-
-::: {.wo-card}
-![](assets/images/card-cereal-belt.jpg){.wo-card-img fig-alt="Map of winter cereal density across the North African cereal belt" loading="lazy"}
-
+::: {.wo-feature-body}
 [Completed · manuscript in preparation]{.wo-status .current}
 
-### [Cropland Mapping and Area Estimation](projects/winter-cereal-mapping.qmd){.stretched-link}
-Field-based cropland area estimation and an independent assessment of satellite cropland maps in Algeria, Morocco and Tunisia.
+### [Cropland Mapping and Area Estimation](projects/winter-cereal-mapping.qmd)
+A probability-based field survey across the principal cereal-producing regions of Algeria, Morocco and Tunisia, used for design-based cropland area estimation and an independent assessment of publicly available satellite cropland products.
+
+::: {.wo-kv}
+[Season]{.wo-k} [2023–2024 agricultural season]{.wo-v}
+[Data]{.wo-k} [1,350 field observations · satellite cropland products]{.wo-v}
 :::
 
-::: {.wo-card}
-![](assets/images/card-drought-landuse.jpg){.wo-card-img fig-alt="Dry steppe landscape with a lone tree, western Algeria" loading="lazy"}
+[Project page →](projects/winter-cereal-mapping.qmd){.wo-more}
+:::
+:::
 
+[Further projects]{.wo-label}
+
+::: {.wo-index}
+
+::: {.wo-row}
+::: {.wo-row-media}
+![](assets/images/card-drought-landuse.jpg){fig-alt="Dry steppe landscape with a lone tree, western Algeria" loading="lazy"}
+:::
+::: {.wo-row-body}
+### [Drought and Long-Term Agricultural Land-Use Change](projects/drought-landuse-north-africa.qmd)
+Satellite cropland records, gridded drought indicators and statistical modeling of cropland expansion and contraction, 2000–2024.
+:::
+::: {.wo-row-meta}
 [Completed · manuscript in preparation]{.wo-status .current}
-
-### [Drought and Long-Term Cropland Change](projects/drought-landuse-north-africa.qmd){.stretched-link}
-Long-term cropland change across Algeria, Morocco and Tunisia (2000–2024) and its relationship with drought.
+[Algeria · Morocco · Tunisia]{.wo-label}
+:::
 :::
 
-::: {.wo-card}
-![](assets/images/card-harveststat-wheat.jpg){.wo-card-img fig-alt="Ripening wheat field in eastern Algeria" loading="lazy"}
+::: {.wo-row}
+::: {.wo-row-media}
+[]{.wo-tile aria-hidden="true"}
+:::
+::: {.wo-row-body}
+### [Agricultural Greenhouse Mapping in Algeria](projects/greenhouse-mapping.qmd)
+Deep learning on satellite imagery to map greenhouse structures and monitor intensive agricultural land use.
+:::
+::: {.wo-row-meta}
+[Published · ongoing]{.wo-status .accepted}
+[IEEE M2GARSS 2024]{.wo-label}
+:::
+:::
 
+::: {.wo-row}
+::: {.wo-row-media}
+![](assets/images/card-harveststat-wheat.jpg){fig-alt="Ripening wheat field in eastern Algeria" loading="lazy"}
+:::
+::: {.wo-row-body}
+### [NASA HarvestStat](projects/harveststat.qmd)
+Subnational crop production statistics for North Africa, and the evolution, volatility and climate sensitivity of wheat systems.
+:::
+::: {.wo-row-meta}
 [In progress]{.wo-status .current}
+[North Africa]{.wo-label}
+:::
+:::
 
-### [NASA HarvestStat](projects/harveststat.qmd){.stretched-link}
-Subnational crop production statistics for North Africa, and the climate sensitivity of wheat systems.
+::: {.wo-row}
+::: {.wo-row-media}
+[]{.wo-tile .blue aria-hidden="true"}
+:::
+::: {.wo-row-body}
+### [Climate Risk and Critical Infrastructure](projects/index.qmd#emerging-research)
+Early-stage research at The Earth Commons Institute. Details will be shared as the work develops.
+:::
+::: {.wo-row-meta}
+[Emerging]{.wo-status .dev}
+[Georgetown University]{.wo-label}
+:::
 :::
 
 :::
 
 [Full research agenda →](projects/index.qmd){.wo-more}
 
-## Selected publications and outputs
+## In the field
+
+Field campaigns in 2023–2024 covered the cereal belt and its margins in Algeria, Morocco and Tunisia, producing the field reference data behind the cropland work.
+
+::: {.wo-mosaic}
+![Cereals and grazing, northwestern Tunisia · April 2024](assets/images/field-tunisia-wheat-sheep.jpg){fig-alt="Sheep walking past green wheat fields in northwestern Tunisia" loading="lazy"}
+
+![Cereal hills, Bordj Bou Arréridj, Algeria · June 2024](assets/images/field-algeria-hills.jpg){fig-alt="Hills with cereal fields in Algeria" loading="lazy"}
+
+![Olive and cereals, Middle Atlas foothills, Morocco · March 2024](assets/images/field-morocco-olive.jpg){fig-alt="Olive tree above a cereal field in Morocco" loading="lazy"}
+
+![Oasis agriculture, southern Tunisia · April 2024](assets/images/field-tunisia-palms.jpg){fig-alt="Row of date palms above green fields in southern Tunisia" loading="lazy"}
+
+![Rangeland, Tiaret region, Algeria · April 2024](assets/images/field-algeria-tiaret.jpg){fig-alt="Dry rangeland with a lone tree in western Algeria" loading="lazy"}
+:::
+
+[Doctoral research →](phd.qmd){.wo-more}
+
+## Selected publications
 
 ::: {.wo-pub}
+[2026]{.wo-pub-year}
 [Rain rituals signal climate risk in drylands]{.wo-pub-title}
 [**Ouaret, W.**, Brown, M. E., Endsley, A., Enenkel, M., Anderson, W., Hadjout, S., & Loboda, T. V.]{.wo-pub-authors}
-[*Environmental Research: Climate* [Accepted]{.wo-status .accepted}]{.wo-pub-venue}
+[*Environmental Research: Climate* · DOI pending [Accepted]{.wo-status .accepted}]{.wo-pub-venue}
 :::
 
 ::: {.wo-pub}
+[2024]{.wo-pub-year}
 [Mapping Agricultural Greenhouses in Algeria: A Deep Learning Approach](https://doi.org/10.1109/M2GARSS57310.2024.10537540){.wo-pub-title}
-[**Ouaret, W.**, Brown, M. E., & Shumilo, L. (2024)]{.wo-pub-authors}
+[**Ouaret, W.**, Brown, M. E., & Shumilo, L.]{.wo-pub-authors}
 [*IEEE M2GARSS 2024*, 103–107 · [doi:10.1109/M2GARSS57310.2024.10537540](https://doi.org/10.1109/M2GARSS57310.2024.10537540)]{.wo-pub-venue}
 :::
 
 ::: {.wo-pub}
+[2021]{.wo-pub-year}
 [Liming agricultural soils in Western Kenya: Can long-term economic and environmental benefits pay off short term investments?](https://doi.org/10.1016/j.agsy.2021.103095){.wo-pub-title}
-[Hijbeek, R., van Loon, M. P., **Ouaret, W.**, Boekelo, B., & van Ittersum, M. K. (2021)]{.wo-pub-authors}
+[Hijbeek, R., van Loon, M. P., **Ouaret, W.**, Boekelo, B., & van Ittersum, M. K.]{.wo-pub-authors}
 [*Agricultural Systems*, 190, 103095 · [doi:10.1016/j.agsy.2021.103095](https://doi.org/10.1016/j.agsy.2021.103095)]{.wo-pub-venue}
 :::
 
 ::: {.wo-outputs}
-- **Media.** Rain-ritual research featured in *Eos* (AGU): [When a Prayer Is Also a Climate Signal](https://eos.org/articles/when-a-prayer-is-also-a-climate-signal) (2025)
-- **Open curriculum.** [Open Climate Science for Agriculture](teaching.qmd): five modules in English, French and Arabic
-- **Recorded seminars.** [SEEDS Seminar Series](projects/seeds.qmd): 13 talks on remote sensing and AI for agriculture (2025)
+- **Media** Rain-ritual research featured in *Eos* (AGU): [When a Prayer Is Also a Climate Signal](https://eos.org/articles/when-a-prayer-is-also-a-climate-signal) (2025)
+- **Open curriculum** [Open Climate Science for Agriculture](teaching.qmd): five modules in English, French and Arabic, with code on [GitHub](https://github.com/OpenClimateScience)
+- **Recorded seminars** [SEEDS Seminar Series](projects/seeds.qmd): 13 talks on remote sensing and AI for agriculture (2025)
 :::
 
 [All publications →](publications.qmd){.wo-more}
 
-## Teaching, mentoring & collaboration
+## Teaching & open science
 
-I co-developed **[Open Climate Science for Agriculture](teaching.qmd)**, a NASA-funded open curriculum in English, French and Arabic, and taught its workshops in Algeria. I also organized the **[SEEDS Seminar Series](projects/seeds.qmd)**. Earlier, I advised undergraduate researchers and served as a teaching assistant for GIS courses at Miami University. My collaborations span the University of Maryland, the University of Montana, NASA HarvestStat and research institutions in Algeria.
+::: {.wo-split}
+::: {.wo-split-media}
+![](assets/images/proj-tops-teaching.jpg){fig-alt="Walid Ouaret teaching at a whiteboard during an Open Climate Science for Agriculture workshop" loading="lazy"}
+:::
+::: {.wo-split-body}
+I co-developed **[Open Climate Science for Agriculture](teaching.qmd)**, a NASA-funded open curriculum in English, French and Arabic, and taught its workshops in Algeria. I also organized the **[SEEDS Seminar Series](projects/seeds.qmd)**. Earlier, I advised undergraduate researchers and served as a teaching assistant for GIS courses at Miami University.
 
-## Collaboration & contact {#contact}
+My collaborations span the University of Maryland, the University of Montana, NASA HarvestStat and research institutions in Algeria.
+
+[Teaching →](teaching.qmd){.wo-more}
+:::
+:::
+
+## About
+
+Ph.D. in Geographical Sciences, University of Maryland (2026), directed by Tatiana V. Loboda with mentorship from Molly E. Brown. Before the doctorate: landscape and agricultural modeling at INRAE and Wageningen University, and remote sensing research at Miami University's Geospatial Analysis Center. Trained as an agronomist at the École Nationale Supérieure Agronomique, Algiers, with master's degrees from Paris-Saclay University and AgroParisTech, and from the Mediterranean Agronomic Institute of Chania.
+
+[Biography →](about.qmd){.wo-more} &ensp; [Doctoral research →](phd.qmd){.wo-more} &ensp; [CV →](cv.qmd){.wo-more}
+
+## Collaborations & Contact {#contact}
 
 ```{=html}
 <span id="book-a-consultation" aria-hidden="true"></span>
 ```
 
 ::: {.wo-consult}
+::: {.wo-consult-body}
 I welcome inquiries about research collaboration, student mentoring and invited talks.
 
 **The Earth Commons Institute, Georgetown University, Washington, DC**\
 [wo140@georgetown.edu](mailto:wo140@georgetown.edu) · [Georgetown profile](https://earthcommons.georgetown.edu/research/eco-fellows/) · [Google Scholar](https://scholar.google.com/citations?user=p7yIdHgAAAAJ) · [GitHub](https://github.com/ouaretw) · [LinkedIn](https://www.linkedin.com/in/walid-ouaret/) · [ORCID](https://orcid.org/0000-0002-2615-1451)
+:::
 
-[Email me](mailto:wo140@georgetown.edu?subject=Inquiry){.wo-btn-consult}
+[<i class="bi bi-envelope" aria-hidden="true"></i> Email me](mailto:wo140@georgetown.edu?subject=Inquiry){.wo-btn-consult}
 :::

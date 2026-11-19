@@ -1,33 +1,42 @@
 ---
-title: "Drought and Long-Term Cropland Change Across North Africa"
-subtitle: "Drought & agricultural land-use change · Doctoral research"
+title: "Drought and Long-Term Agricultural Land-Use Change in North Africa"
+subtitle: "Earth observation & agricultural change · Doctoral research"
 description: "Long-term cropland change across Algeria, Morocco and Tunisia (2000–2024) and its relationship with drought."
 categories: [Drought, Land-use change, Remote sensing, North Africa]
 ---
 
+::: {.wo-projmeta}
+::: {.wo-m}
+[Status]{.wo-k}
 [Completed · manuscript in preparation]{.wo-status .current}
+:::
+::: {.wo-m}
+[Region · period]{.wo-k}
+Algeria, Morocco, Tunisia · 2000–2024
+:::
+::: {.wo-m}
+[Data]{.wo-k}
+Satellite cropland records · gridded drought indicators
+:::
+::: {.wo-m}
+[Methods]{.wo-k}
+Statistical modeling of cropland change
+:::
+:::
 
-## Research question
+## Overview
 
-How is drought related to long-term cropland expansion and contraction across North Africa?
-
-## Motivation
-
-Most climate–agriculture research focuses on crop yield or production. Yet drought can also change whether land is planted, kept in cultivation, left fallow or withdrawn from cropping, and these effects on the extent of cultivation are poorly understood.
-
-## Geographic scope
-
-Algeria, Morocco and Tunisia, 2000–2024.
+Most climate–agriculture research focuses on crop yield or production. Drought can also change whether land is planted, kept in cultivation, left fallow or withdrawn from cropping, and these effects on the extent of cultivation remain poorly documented. This project examines long-term cropland expansion and contraction across Algeria, Morocco and Tunisia and its relationship with drought.
 
 ## Approach
 
-Long-term satellite cropland records combined with gridded drought indicators and statistical modeling.
+Long-term satellite cropland records (2000–2024) combined with gridded drought indicators and statistical modeling of cropland expansion and contraction.
 
-## Results
+## Research contributions
 
-Forthcoming in a manuscript currently in preparation.
+The analysis addresses an under-studied pathway of drought impact: change in the extent of cultivated land, rather than in yield or production. Results will appear in a manuscript currently in preparation.
 
-## Related outputs
+## Publications & resources
 
 - Doctoral dissertation chapter, University of Maryland (2026); manuscript in preparation.
 - Ouaret, W., & Brown, M. E. (2023). *Enhancing Early Warning Systems for Drought Resilience in Agriculture: The Case of Algeria's Drought Shield Program.* AGU Fall Meeting, GC13F-0982 (poster).
@@ -36,11 +45,11 @@ Forthcoming in a manuscript currently in preparation.
 ## In the field
 
 ::: {.wo-gallery}
-![Tiaret region, Algeria, April 2024](../assets/images/field-algeria-tiaret.jpg){fig-alt="Dry rangeland with a lone tree in western Algeria" loading="lazy"}
+![Tiaret region, Algeria · April 2024](../assets/images/field-algeria-tiaret.jpg){fig-alt="Dry rangeland with a lone tree in western Algeria" loading="lazy"}
 
-![Bordj Bou Arréridj region, Algeria, June 2024](../assets/images/field-algeria-hills.jpg){fig-alt="Hills with cereal fields in Algeria" loading="lazy"}
+![Bordj Bou Arréridj region, Algeria · June 2024](../assets/images/field-algeria-hills.jpg){fig-alt="Hills with cereal fields in Algeria" loading="lazy"}
 
-![Taza region, Morocco, February 2024](../assets/images/field-morocco-taza.jpg){fig-alt="Hillside above green fields in northern Morocco" loading="lazy"}
+![Taza region, Morocco · February 2024](../assets/images/field-morocco-taza.jpg){fig-alt="Hillside above green fields in northern Morocco" loading="lazy"}
 :::
 
-[← Research](index.qmd)
+{{< include _projnav.qmd >}}
