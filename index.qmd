@@ -36,7 +36,7 @@ Georgetown University
 ::: {.wo-intro-text}
 My research investigates how climate extremes affect agricultural landscapes, critical infrastructure, and the institutions responsible for managing environmental risk. I integrate satellite observations, climate records, field surveys, and quantitative modeling to understand environmental change, identify emerging risks, and support resilience decisions.
 
-At Georgetown University's Earth Commons Institute, I am extending this work toward interconnected climate, water, and energy risks, including infrastructure vulnerability and the environmental consequences of data-center expansion.
+At Georgetown University's Earth Commons Institute, I am extending this work toward climate risks to critical infrastructure.
 :::
 
 ## Research vision
@@ -66,15 +66,15 @@ When environmental stress becomes institutionally recognized. State-organized ra
 ::: {.wo-card}
 [Emerging]{.wo-status .dev}
 
-### [Climate & Energy Infrastructure Resilience](projects/infrastructure-resilience.qmd){.stretched-link}
-Drought-related electricity-system vulnerability, climate–grid interactions and multi-hazard exposure of energy infrastructure. Includes DROUGHT-GRID, a proposed research framework.
+### [Climate Risk & Critical Infrastructure](#contact){.stretched-link}
+Early-stage work at Georgetown on how climate extremes affect critical infrastructure. Details will follow as the work matures; I'm glad to talk with potential collaborators.
 :::
 
 ::: {.wo-card}
-[Emerging]{.wo-status .dev}
+[Established]{.wo-status .published}
 
-### [Data Centers & Environmental Risk](projects/data-centers.qmd){.stretched-link}
-The electricity, water, cooling and air-quality footprint of data-center expansion, and how grid connectivity and environmental equity shape its risks.
+### [Earth Observation & Open Science](teaching.qmd){.stretched-link}
+Reproducible geospatial analysis, open climate-data tools and remote-sensing training, including a NASA-funded curriculum in three languages.
 :::
 
 :::
@@ -89,7 +89,7 @@ The electricity, water, cooling and air-quality footprint of data-center expansi
 [Completed · manuscript in preparation]{.wo-status .current}
 
 ### [Cropland Mapping and Area Estimation](projects/winter-cereal-mapping.qmd){.stretched-link}
-A 1,350-site probability survey across three countries, used to estimate cropland area and assess three satellite cropland products.
+Field-based cropland area estimation and an independent assessment of satellite cropland maps in Algeria, Morocco and Tunisia.
 :::
 
 ::: {.wo-card}
@@ -98,7 +98,7 @@ A 1,350-site probability survey across three countries, used to estimate croplan
 [Completed · manuscript in preparation]{.wo-status .current}
 
 ### [Drought and Long-Term Cropland Change](projects/drought-landuse-north-africa.qmd){.stretched-link}
-Persistent cropland change across Algeria, Morocco and Tunisia (2000–2024), and its association with the timing, severity and persistence of drought.
+Long-term cropland change across Algeria, Morocco and Tunisia (2000–2024) and its relationship with drought.
 :::
 
 ::: {.wo-card}
@@ -107,7 +107,7 @@ Persistent cropland change across Algeria, Morocco and Tunisia (2000–2024), an
 [Accepted]{.wo-status .accepted}
 
 ### [Rain Rituals and Drought Governance](projects/rain-rituals.qmd){.stretched-link}
-A 25-year record of 63 state-organized rain rituals, linked to drought over cropland to study when drought becomes institutionally recognized.
+When drought becomes publicly and institutionally recognized, read from state-organized rain rituals.
 :::
 
 ::: {.wo-card}

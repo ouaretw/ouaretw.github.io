@@ -38,12 +38,6 @@ website:
           - text: "Climate signals & governance"
           - href: projects/rain-rituals.qmd
             text: Rain rituals & drought governance
-          - text: "---"
-          - text: "Emerging research"
-          - href: projects/infrastructure-resilience.qmd
-            text: Climate & energy infrastructure
-          - href: projects/data-centers.qmd
-            text: Data centers & environmental risk
       - href: publications.qmd
         text: Publications
       - href: teaching.qmd

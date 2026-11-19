@@ -1,7 +1,7 @@
 ---
 title: "Research agenda"
 subtitle: "Climate extremes, Earth observation and societal resilience"
-description: "Four research directions: drought and agricultural land-use change; climate signals and environmental governance; climate and energy infrastructure resilience; data centers and environmental risk."
+description: "Research on drought and agricultural land-use change, climate signals and environmental governance, and emerging work on climate risk and critical infrastructure."
 ---
 
 ::: {.column-screen .wo-banner}
@@ -13,7 +13,7 @@ How do climate extremes generate environmental, infrastructure, and institutiona
 :::
 
 ::: {.wo-legend}
-**Status:** [Published / accepted]{.wo-status .accepted} [Completed · manuscript in preparation]{.wo-status .current} [In progress]{.wo-status .current} [Proposed research]{.wo-status .dev} [Completed]{.wo-status .prev}
+**Status:** [Published / accepted]{.wo-status .accepted} [Completed · manuscript in preparation]{.wo-status .current} [In progress]{.wo-status .current} [Emerging]{.wo-status .dev} [Completed]{.wo-status .prev}
 :::
 
 ## A · Drought & Agricultural Land-Use Change {#drought-agricultural-land-use-change}
@@ -30,7 +30,7 @@ How drought variability and persistence relate to cropland extent and agricultur
 [Completed · manuscript in preparation]{.wo-status .current}
 
 ### [Cropland Mapping and Area Estimation](winter-cereal-mapping.qmd){.stretched-link}
-A stratified two-stage probability survey (1,350 field observations) used to estimate cropland area and assess GLAD, Esri–Impact Observatory and GACED30 cropland products.
+Field-based cropland area estimation and an independent assessment of satellite cropland maps.
 :::
 
 ::: {.wo-card}
@@ -39,7 +39,7 @@ A stratified two-stage probability survey (1,350 field observations) used to est
 [Completed · manuscript in preparation]{.wo-status .current}
 
 ### [Drought and Long-Term Cropland Change](drought-landuse-north-africa.qmd){.stretched-link}
-Persistent cropland change in 0.05° cells (2000–2024) and its association with four dimensions of drought derived from SPEI-1.
+Long-term cropland change across the region (2000–2024) and its relationship with drought.
 :::
 
 ::: {.wo-card}
@@ -74,44 +74,16 @@ When does environmental stress become publicly recognized and institutionally ac
 [Accepted]{.wo-status .accepted}
 
 ### [Rain Rituals and Drought Governance](rain-rituals.qmd){.stretched-link}
-A 25-year dataset of 63 state-organized rain rituals in Algeria, Morocco and Tunisia, linked to drought over cropland. Accepted in *Environmental Research: Climate*.
+When drought becomes publicly and institutionally recognized, read from state-organized rain rituals. Accepted in *Environmental Research: Climate*.
 :::
 
 :::
 
-## C · Climate & Energy Infrastructure Resilience {#climate-energy-infrastructure-resilience}
+## C · Emerging: Climate Risk & Critical Infrastructure {#emerging-research}
 
 [Emerging]{.wo-status .dev}
 
-Drought-related vulnerability of electricity systems, climate–grid interactions, exposure of energy infrastructure, multi-hazard risk assessment, geospatial indicators of infrastructure vulnerability, and AI-assisted resilience analysis.
-
-::: {.wo-grid .wide}
-
-::: {.wo-card}
-[Proposed research]{.wo-status .dev}
-
-### [DROUGHT-GRID and Infrastructure Resilience](infrastructure-resilience.qmd){.stretched-link}
-A proposed research framework for evaluating AI-assisted analysis in energy-resilience decisions under drought. Objectives and planned approach; no results yet.
-:::
-
-:::
-
-## D · Data Centers & Environmental Risk {#data-centers-environmental-risk}
-
-[Emerging]{.wo-status .dev}
-
-Electricity demand, water withdrawal and consumption, cooling requirements, air quality and backup generation, grid connectivity, and environmental equity in data-center expansion, assessed by integrating remote sensing and climate data at regional and global scales.
-
-::: {.wo-grid .wide}
-
-::: {.wo-card}
-[Proposed research]{.wo-status .dev}
-
-### [Data Centers and Environmental Risk](data-centers.qmd){.stretched-link}
-Research objectives and planned approach for a regional-to-global environmental-risk assessment of data-center expansion. No results yet.
-:::
-
-:::
+At The Earth Commons Institute, I am beginning to extend this work toward climate risks to critical infrastructure. This research is at an early stage, and details will be shared as it develops. If you are interested in collaborating, please [get in touch](../index.qmd#contact).
 
 ## Previous research
 
@@ -141,13 +113,13 @@ Crop allocation in Tunisia, liming trade-offs in Kenya, organic–conventional y
 
 ::: {.wo-tools}
 [**Earth observation**: Sentinel · Landsat · MODIS · VIIRS · SMAP · GRACE · Planet · MERRA-2]{.wo-toolrow}
-[**Analysis**: design-based area estimation · stratified two-stage field sampling · deep learning · drought indices (SPEI) · Theil–Sen trends · random forests with cross-validation]{.wo-toolrow}
+[**Analysis**: field survey design · area estimation · deep learning · drought indices · trend analysis · machine learning]{.wo-toolrow}
 [**Open science**: Python · Jupyter · Git/GitHub · Pixi · Snakemake · NASA Earthdata · cloud-native climate data]{.wo-toolrow}
 :::
 
 ## Fieldwork across the Maghreb {#fieldwork-across-the-maghreb}
 
-The 2024 probability survey took me through the cereal belt and its margins in all three countries. Survey periods: Morocco, February–March; Algeria, March–June (two campaigns); Tunisia, April–May.
+Fieldwork in 2024 took me through the cereal belt and its margins in all three countries.
 
 ::: {.wo-gallery}
 ![Cereals and grazing, northwestern Tunisia, April 2024](../assets/images/field-tunisia-wheat-sheep.jpg){fig-alt="Sheep walking past green wheat fields in northwestern Tunisia" loading="lazy"}

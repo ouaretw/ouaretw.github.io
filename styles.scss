@@ -1,38 +1,38 @@
 /*-- scss:defaults --*/
 // Colors live in theme-light.scss / theme-dark.scss. Shared typography here.
-// Georgia headings + sans body, as in the PhD defense deck.
-$font-family-sans-serif: "Inter", Arial, system-ui, -apple-system, "Segoe UI", sans-serif;
-$headings-font-family: Georgia, "Times New Roman", serif;
+// Inter for text and headings; IBM Plex Mono for technical accents (labels, dates, figures).
+$font-family-sans-serif: "Inter", system-ui, -apple-system, "Segoe UI", Arial, sans-serif;
+$headings-font-family: "Inter", system-ui, -apple-system, "Segoe UI", Arial, sans-serif;
 $headings-font-weight: 700;
 $line-height-base: 1.6;
 
 /*-- scss:rules --*/
-@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap");
 
 /* ---------- Amazigh textile band (chain of lozenges, defense-deck colors) ---------- */
-$amazigh-band: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='32' height='14' viewBox='0 0 32 14'%3E%3Crect width='32' height='14' fill='%23142D24'/%3E%3Cpath d='M0 7 8 1.5 16 7 8 12.5Z M16 7 24 1.5 32 7 24 12.5Z' fill='none' stroke='%23C16234' stroke-width='1.4'/%3E%3Cpath d='M8 4.6 10.4 7 8 9.4 5.6 7Z M24 4.6 26.4 7 24 9.4 21.6 7Z' fill='%23D3C7B2'/%3E%3Ccircle cx='16' cy='7' r='1' fill='%23B8322A'/%3E%3Ccircle cx='0' cy='7' r='1' fill='%23B8322A'/%3E%3Ccircle cx='32' cy='7' r='1' fill='%23B8322A'/%3E%3C/svg%3E");
+$amazigh-band: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='28' height='10' viewBox='0 0 28 10'%3E%3Cpath d='M0 5 7 1 14 5 7 9Z M14 5 21 1 28 5 21 9Z' fill='none' stroke='%2330B5B3' stroke-width='1'/%3E%3Cpath d='M7 3.6 8.4 5 7 6.4 5.6 5Z M21 3.6 22.4 5 21 6.4 19.6 5Z' fill='%2386DAD6'/%3E%3C/svg%3E");
 
-.wo-band { height: 14px; background: $amazigh-band repeat-x; background-size: 32px 14px; }
+.wo-band { height: 10px; background: $amazigh-band repeat-x; background-size: 28px 10px; }
 
 #quarto-header::after {
   content: "";
   display: block;
-  height: 14px;
-  background: $amazigh-band repeat-x;
-  background-size: 32px 14px;
+  height: 10px;
+  background: var(--wo-nav-bg) $amazigh-band repeat-x;
+  background-size: 28px 10px;
 }
 .navbar-brand .navbar-logo { max-height: 30px; margin-right: 0.35rem; }
 .nav-footer { border-top: none; position: relative; padding-top: 1.6rem; }
 .nav-footer::before {
   content: "";
   position: absolute; left: 0; right: 0; top: 0;
-  height: 14px;
-  background: $amazigh-band repeat-x;
-  background-size: 32px 14px;
+  height: 10px;
+  background: var(--wo-nav-bg) $amazigh-band repeat-x;
+  background-size: 28px 10px;
 }
-.navbar-title { font-family: Georgia, "Times New Roman", serif; font-weight: 700; letter-spacing: 0.01em; }
+.navbar-title { font-family: var(--wo-sans); font-weight: 700; letter-spacing: 0.01em; }
 
-h1.title { font-family: Georgia, "Times New Roman", serif; }
+h1.title { font-family: var(--wo-sans); }
 h2 {
   font-size: 1.4rem;
   margin-top: 2.4rem;
@@ -66,7 +66,7 @@ h3 { font-size: 1.12rem; }
 }
 .wo-name {
   display: block;
-  font-family: Georgia, "Times New Roman", serif;
+  font-family: var(--wo-sans);
   font-weight: 700;
   font-size: clamp(1.9rem, 4vw, 2.6rem);
   line-height: 1.15;
@@ -82,7 +82,7 @@ h3 { font-size: 1.12rem; }
   border-bottom: 1px solid var(--wo-rule);
 }
 .wo-line {
-  font-family: Georgia, "Times New Roman", serif;
+  font-family: var(--wo-sans);
   font-size: 1.3rem;
   line-height: 1.55;
   color: var(--wo-ink);
@@ -288,7 +288,7 @@ h3 { font-size: 1.12rem; }
 .wo-module ol li { margin-bottom: 0.1rem; }
 .wo-mod-num {
   display: inline-block; align-self: flex-start;
-  font-family: Georgia, "Times New Roman", serif; font-weight: 700; font-size: 0.95rem;
+  font-family: var(--wo-sans); font-weight: 700; font-size: 0.95rem;
   color: var(--wo-ink); border: 1px solid var(--wo-rule); border-radius: 4px;
   padding: 0.05rem 0.5rem; letter-spacing: 0.04em;
 }
@@ -307,7 +307,7 @@ h3 { font-size: 1.12rem; }
 .wo-event:last-child { border-bottom: none; }
 .wo-event > p:first-child { margin: 0; }
 .wo-event-date {
-  font-family: Georgia, "Times New Roman", serif; font-weight: 700; color: var(--wo-accent);
+  font-family: var(--wo-sans); font-weight: 700; color: var(--wo-accent);
   font-size: 0.95rem; white-space: nowrap;
 }
 .wo-event p { margin-bottom: 0.2rem; }
@@ -357,7 +357,7 @@ h3 { font-size: 1.12rem; }
 .wo-stat + .wo-stat { border-left: 1px solid var(--wo-border); }
 .wo-stat p { margin: 0; }
 .wo-stat-num {
-  display: block; font-family: Georgia, "Times New Roman", serif; font-weight: 700;
+  display: block; font-family: var(--wo-sans); font-weight: 700;
   font-size: clamp(1.6rem, 3.4vw, 2.2rem); line-height: 1.1; color: var(--wo-ink);
 }
 .wo-stat-label { display: block; font-size: 0.8rem; color: var(--wo-muted); margin-top: 0.3rem; letter-spacing: 0.02em; }
@@ -374,7 +374,7 @@ h3 { font-size: 1.12rem; }
 .wo-finding p { margin-bottom: 0.6rem; }
 .wo-finding p:last-child { margin: auto 0 0; }
 .wo-find-num {
-  font-family: Georgia, "Times New Roman", serif; font-weight: 700; font-size: 1.05rem;
+  font-family: var(--wo-sans); font-weight: 700; font-size: 1.05rem;
   color: var(--wo-accent); letter-spacing: 0.06em;
 }
 .wo-why {
@@ -402,7 +402,7 @@ h3 { font-size: 1.12rem; }
   border: 1px solid var(--wo-rule); padding: 6px; background: var(--wo-surface); margin: 0;
 }
 .wo-headline {
-  font-family: Georgia, "Times New Roman", serif;
+  font-family: var(--wo-sans);
   font-weight: 700;
   font-size: clamp(1.75rem, 3.6vw, 2.45rem);
   line-height: 1.15;
@@ -426,7 +426,7 @@ h3 { font-size: 1.12rem; }
 
 /* research vision */
 .wo-question {
-  font-family: Georgia, "Times New Roman", serif;
+  font-family: var(--wo-sans);
   font-size: clamp(1.15rem, 2.3vw, 1.35rem);
   line-height: 1.55;
   color: var(--wo-ink);
@@ -467,3 +467,37 @@ a:focus-visible, button:focus-visible, .nav-link:focus-visible {
 }
 .wo-card:has(.stretched-link:focus-visible) { border-color: var(--wo-accent); box-shadow: 0 0 0 2px var(--wo-accent); }
 @media (prefers-reduced-motion: reduce) { .wo-card, .wo-feature { transition: none; } }
+
+/* =========================================================
+   Technical, minimal identity layer
+   ========================================================= */
+:root {
+  --wo-sans: "Inter", system-ui, -apple-system, "Segoe UI", Arial, sans-serif;
+  --wo-mono: "IBM Plex Mono", ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+}
+h1, h2, h3, h4, .title, .wo-headline { letter-spacing: -0.02em; }
+h1.title, .wo-headline { font-weight: 700; }
+h2 { font-size: 1.3rem; font-weight: 650; }
+h2::before { width: 0.42em; height: 0.42em; border-width: 1.5px; border-color: var(--wo-accent); }
+.navbar-title { font-family: var(--wo-sans); font-weight: 650; letter-spacing: -0.01em; }
+
+/* monospace for technical accents */
+.wo-status, .wo-event-date, .wo-stat-num, .wo-find-num, .wo-mod-num, .wo-tag,
+.wo-dated li > strong:first-child, .wo-legend strong, .quarto-category {
+  font-family: var(--wo-mono);
+}
+.wo-status { font-weight: 500; letter-spacing: 0.03em; border-radius: 4px; font-size: 0.7rem; }
+.wo-status.dev { border: 1px dashed var(--wo-accent); }
+.wo-status.accepted { background: var(--wo-chip-sub-bg); color: var(--wo-chip-sub-fg); }
+.wo-stat-num { font-weight: 500; letter-spacing: -0.02em; }
+.wo-find-num, .wo-event-date { color: var(--wo-accent); font-weight: 500; }
+
+/* calmer, sharper research statements */
+.wo-question { font-family: var(--wo-sans); font-weight: 450; letter-spacing: -0.01em; border-left-width: 2px; }
+.wo-headline { font-size: clamp(1.8rem, 3.8vw, 2.6rem); }
+
+/* cards: crisp edges, accent on hover */
+.wo-card, .wo-finding, .wo-feature, .wo-consult { border-radius: 6px; }
+.wo-card:has(.stretched-link):hover, .wo-feature:hover { border-color: var(--wo-accent); box-shadow: 0 6px 20px rgba(11, 31, 42, 0.08); }
+.wo-portrait img, .wo-hero .wo-portrait img, .wo-about .wo-portrait img { border-color: var(--wo-rule); }
+.wo-btn-consult { border-radius: 4px !important; }

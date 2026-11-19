@@ -56,53 +56,39 @@
     "text": "Research question\nHow much cropland is there in North Africa’s main cereal-producing regions, and how well do satellite cropland products represent it?"
   },
   {
-    "objectID": "projects/winter-cereal-mapping.html#scientific-motivation",
-    "href": "projects/winter-cereal-mapping.html#scientific-motivation",
+    "objectID": "projects/winter-cereal-mapping.html#motivation",
+    "href": "projects/winter-cereal-mapping.html#motivation",
     "title": "Cropland Mapping and Area Estimation in Algeria, Morocco and Tunisia",
-    "section": "Scientific motivation",
-    "text": "Scientific motivation\nSatellite cropland products differ both in how much cropland they map and in what they count as cropland. In North Africa, agricultural area is known mainly from such products and from administrative statistics. Independent, probability-based reference data are scarce."
+    "section": "Motivation",
+    "text": "Motivation\nSatellite cropland maps differ in how much cropland they show and in what they count as cropland. In North Africa, independent field-based reference data to test them are scarce."
   },
   {
     "objectID": "projects/winter-cereal-mapping.html#geographic-scope",
     "href": "projects/winter-cereal-mapping.html#geographic-scope",
     "title": "Cropland Mapping and Area Estimation in Algeria, Morocco and Tunisia",
     "section": "Geographic scope",
-    "text": "Geographic scope\nPrincipal cereal-producing regions of Morocco, Algeria and Tunisia. The survey domains cover 12.44, 12.88 and 3.32 Mha respectively. Cereal reference season: September 2023 to July 2024."
+    "text": "Geographic scope\nThe principal cereal-producing regions of Algeria, Morocco and Tunisia, 2023–2024 agricultural season."
   },
   {
-    "objectID": "projects/winter-cereal-mapping.html#data-and-methods",
-    "href": "projects/winter-cereal-mapping.html#data-and-methods",
+    "objectID": "projects/winter-cereal-mapping.html#approach",
+    "href": "projects/winter-cereal-mapping.html#approach",
     "title": "Cropland Mapping and Area Estimation in Algeria, Morocco and Tunisia",
-    "section": "Data and methods",
-    "text": "Data and methods\n\nSampling design. A stratified two-stage probability design, using identical rules in each country. 15 primary sampling units (PSUs) were drawn per stratum (high, medium and low agricultural density), giving 45 PSUs per country. 10 secondary sampling units were drawn per PSU, giving 450 observations per country and 1,350 in total. WorldCereal was used only to build the sampling frame and strata.\nField campaigns. Morocco, February–March 2024. Algeria, March–June 2024 (two campaigns). Tunisia, April–May 2024. Each observation was assigned to one of 18 agricultural and land-cover classes.\nEstimation and assessment. Design-based estimators for cereal and cropland area. Accuracy assessment of three public products: GLAD annual cropland, Esri–Impact Observatory land cover, and GACED30.\n\n\n\n\nSampling design: stratified sampling domain, a selected primary sampling unit, and a field reference observation."
+    "section": "Approach",
+    "text": "Approach\nA probability-based field survey across all three countries, combined with design-based area estimation and an assessment of publicly available satellite cropland products."
   },
   {
-    "objectID": "projects/winter-cereal-mapping.html#principal-findings",
-    "href": "projects/winter-cereal-mapping.html#principal-findings",
+    "objectID": "projects/winter-cereal-mapping.html#results",
+    "href": "projects/winter-cereal-mapping.html#results",
     "title": "Cropland Mapping and Area Estimation in Algeria, Morocco and Tunisia",
-    "section": "Principal findings",
-    "text": "Principal findings\n\nCropland area. Under a harmonized definition (active herbaceous crops, fallow and tilled land, excluding woody-only agriculture), estimated cropland was 7.015 Mha in Morocco, 6.786 Mha in Algeria and 2.028 Mha in Tunisia. Fallow made up 31.7% of cropland.\nProduct differences. Relative to these estimates, GLAD mapped 20.5%, 21.3% and 14.4% less cropland (Morocco, Algeria, Tunisia). Esri–Impact Observatory mapped 33.4%, 45.1% and 33.0% less. GACED30 mapped 11.2%, 0.7% and 15.2% more.\nFallow. Disagreement was concentrated in fallow. GLAD, Esri–Impact Observatory and GACED30 classified 50.2%, 33.6% and 74.4% of fallow observations as cropland, against 85.8%, 66.7% and 91.9% of active herbaceous observations.\nDefinitions. Adding woody agriculture (olive, citrus, orchards) to the reference definition, to match GACED30, reversed the direction of its area difference in all three countries (6.8%, 7.1% and 12.2% less).\n\n\n\n\nField photographs from the 2024 campaign, paired with Sentinel-2 imagery, showing the agricultural states recorded on the ground."
+    "section": "Results",
+    "text": "Results\nForthcoming in a manuscript currently in preparation."
   },
   {
-    "objectID": "projects/winter-cereal-mapping.html#scientific-significance",
-    "href": "projects/winter-cereal-mapping.html#scientific-significance",
+    "objectID": "projects/winter-cereal-mapping.html#outputs",
+    "href": "projects/winter-cereal-mapping.html#outputs",
     "title": "Cropland Mapping and Area Estimation in Algeria, Morocco and Tunisia",
-    "section": "Scientific significance",
-    "text": "Scientific significance\nDisagreement between satellite products and agricultural-area estimates can come from incomplete representation of agricultural land, from differences in what counts as cropland, or from both. Probability-based reference data that keep each observation’s agricultural state make it possible to separate these sources and estimate area with quantified uncertainty. The survey needed about US$10,000 per country in direct campaign costs, a scale within reach of national agricultural services."
-  },
-  {
-    "objectID": "projects/winter-cereal-mapping.html#publications-and-outputs",
-    "href": "projects/winter-cereal-mapping.html#publications-and-outputs",
-    "title": "Cropland Mapping and Area Estimation in Algeria, Morocco and Tunisia",
-    "section": "Publications and outputs",
-    "text": "Publications and outputs\n\nOuaret, W. Assessment of Satellite-Derived Cropland Mapping in the Dryland Agricultural Systems of North Africa. Doctoral dissertation chapter, University of Maryland (2026); manuscript in preparation.\nOuaret, W., Loboda, T. V., Skakun, S., Endsley, A., & Brown, M. E. (2024). High-Resolution Winter Cereal Mapping in North Africa for the 2023–2024 Cropping Season Using Collected Field Data. AGU Fall Meeting, GC13O-0385 (poster)."
-  },
-  {
-    "objectID": "projects/winter-cereal-mapping.html#collaborators",
-    "href": "projects/winter-cereal-mapping.html#collaborators",
-    "title": "Cropland Mapping and Area Estimation in Algeria, Morocco and Tunisia",
-    "section": "Collaborators",
-    "text": "Collaborators\nT. V. Loboda, M. E. Brown, S. Skakun, A. Endsley (AGU 2024 co-authors).\n← Research agenda"
+    "section": "Outputs",
+    "text": "Outputs\n\nDoctoral dissertation chapter, University of Maryland (2026); manuscript in preparation.\nOuaret, W., Loboda, T. V., Skakun, S., Endsley, A., & Brown, M. E. (2024). High-Resolution Winter Cereal Mapping in North Africa for the 2023–2024 Cropping Season Using Collected Field Data. AGU Fall Meeting, GC13O-0385 (poster).\n\n← Research"
   },
   {
     "objectID": "projects/rain-rituals.html",
@@ -116,14 +102,14 @@
     "href": "projects/rain-rituals.html#research-question",
     "title": "Rain Rituals and Drought Governance",
     "section": "Research question",
-    "text": "Research question\nWhen does drought become a matter of institutional concern, and how is that recognition related to drought conditions over cropland?"
+    "text": "Research question\nWhen does drought become a matter of public, institutional concern?"
   },
   {
-    "objectID": "projects/rain-rituals.html#scientific-motivation",
-    "href": "projects/rain-rituals.html#scientific-motivation",
+    "objectID": "projects/rain-rituals.html#motivation",
+    "href": "projects/rain-rituals.html#motivation",
     "title": "Rain Rituals and Drought Governance",
-    "section": "Scientific motivation",
-    "text": "Scientific motivation\nIn drylands, formal impact records are often incomplete. Climate risk emerges from the interaction of rainfall deficits, agricultural dependence, public concern and governance response. Across North Africa, governments periodically organize Islamic rain rituals (Ṣalāt al-Istisqāʾ) in response to water scarcity. Their announcements leave a public record of when drought becomes institutionally recognized."
+    "section": "Motivation",
+    "text": "Motivation\nDrought monitoring records physical anomalies, but not the moment environmental stress becomes publicly recognized and institutionally actionable. Across North Africa, governments periodically organize Islamic rain rituals (Ṣalāt al-Istisqāʾ) in response to water scarcity, and their announcements leave a public record of that moment."
   },
   {
     "objectID": "projects/rain-rituals.html#geographic-scope",
@@ -133,200 +119,144 @@
     "text": "Geographic scope\nAlgeria, Morocco and Tunisia, 2000–2024."
   },
   {
-    "objectID": "projects/rain-rituals.html#data-and-methods",
-    "href": "projects/rain-rituals.html#data-and-methods",
+    "objectID": "projects/rain-rituals.html#approach",
+    "href": "projects/rain-rituals.html#approach",
     "title": "Rain Rituals and Drought Governance",
-    "section": "Data and methods",
-    "text": "Data and methods\n\nEvent record. 63 state-organized Rain Ritual Events (RREs), compiled through longitudinal archival content analysis. Microfilmed national newspapers (El Moujahid, Le Temps, Al Bayane) at the U.S. Library of Congress were reviewed for 2000–2015, and digital archives, press agencies and ministry platforms for 2015–2024.\nDrought over cropland. SPEI at 1-, 3-, 6- and 12-month accumulation periods, computed from CHIRPS v3 precipitation and CHIRTS temperature, with FAO Penman–Monteith evapotranspiration from ERA5-Land inputs. Restricted to cropland and aggregated nationally and within sub-national drought clusters.\nAnalysis. Logistic regression linking the odds of an RRE to drought severity.\n\n\n\n\n\nNewspaper archives reviewed to build the event record.\n\n\n\n\n\nA microfilm reel from the national newspaper collection."
+    "section": "Approach",
+    "text": "Approach\nA 25-year archival record of 63 state-organized rain rituals, linked to drought indicators over cropland."
   },
   {
-    "objectID": "projects/rain-rituals.html#principal-findings",
-    "href": "projects/rain-rituals.html#principal-findings",
+    "objectID": "projects/rain-rituals.html#key-insight",
+    "href": "projects/rain-rituals.html#key-insight",
     "title": "Rain Rituals and Drought Governance",
-    "section": "Principal findings",
-    "text": "Principal findings\n\nThe odds of an RRE rose as drought over cropland intensified.\nAll RREs occurred within the rainfed cropping season, and more than two-thirds between November and February.\nThe best-fitting drought timescale differed by country: one-month SPEI in Algeria, three-month SPEI in Tunisia, and one-, three- and six-month SPEI about equally in Morocco.\nIn each country, drought in one or a few northern and central rainfed clusters was more strongly associated with RREs than nationally averaged drought.\n\n\nInterpretation. RREs record when hydroclimatic stress becomes publicly visible and institutionally recognized. They do not measure drought or its impacts. They are an institutional climate-risk signal, positioned between environmental hazard and downstream impacts."
+    "section": "Key insight",
+    "text": "Key insight\nInstitutional recognition of drought follows agricultural drought: it concentrates in the rainfed cropping season and in the main rainfed regions. Rain rituals mark when stress becomes publicly visible; they do not measure drought or its impacts. Full results will appear in the forthcoming article.\n\n\n\n\n\n\nIn the news. When a Prayer Is Also a Climate Signal. Eos (AGU), 3 December 2025."
   },
   {
-    "objectID": "projects/rain-rituals.html#scientific-significance",
-    "href": "projects/rain-rituals.html#scientific-significance",
+    "objectID": "projects/rain-rituals.html#outputs",
+    "href": "projects/rain-rituals.html#outputs",
     "title": "Rain Rituals and Drought Governance",
-    "section": "Scientific significance",
-    "text": "Scientific significance\nThe study offers a measurable institutional climate-risk signal for data-scarce drylands, complementing physical drought indicators. A next step is to test whether institutional recognition precedes drought-relief measures, irrigation and groundwater interventions, or agricultural land-use decisions. A related line of work concerns early-warning design in Algeria’s Drought Shield program.\n\n\n\n\n\n\nIn the news. When a Prayer Is Also a Climate Signal. Eos (AGU), 3 December 2025, by Nathaniel Scharping. doi:10.1029/2025EO250450"
+    "section": "Outputs",
+    "text": "Outputs\n\nOuaret, W., Brown, M. E., Endsley, A., Enenkel, M., Anderson, W., Hadjout, S., & Loboda, T. V. Rain rituals signal climate risk in drylands. Environmental Research: Climate (accepted).\nOuaret, W. (2023). Praying for data, does it work? Ignite AGU stage talk. Watch\nOuaret, W., Kaci, G., & Brown, M. E. (2023). Divine Insight: Uncovering the Climate Information Potential of Rain Prayer Events in the Middle East and North Africa Region. AGU Fall Meeting, SY13A-05.\n\n← Research"
   },
   {
-    "objectID": "projects/rain-rituals.html#publications-and-outputs",
-    "href": "projects/rain-rituals.html#publications-and-outputs",
-    "title": "Rain Rituals and Drought Governance",
-    "section": "Publications and outputs",
-    "text": "Publications and outputs\n\nOuaret, W., Brown, M. E., Endsley, A., Enenkel, M., Anderson, W., Hadjout, S., & Loboda, T. V. Rain rituals signal climate risk in drylands. Environmental Research: Climate (accepted). Accepted\nPresentation at AGU’s Annual Meeting 2025, New Orleans, 18 December 2025. Abstract\nOuaret, W., Kaci, G., & Brown, M. E. (2023). Divine Insight: Uncovering the Climate Information Potential of Rain Prayer Events in the Middle East and North Africa Region. AGU Fall Meeting, SY13A-05 (oral).\nOuaret, W. (2023). Praying for data, does it work? Ignite AGU stage talk, AGU Fall Meeting. Watch\nOuaret, W., & Brown, M. E. (2023). Enhancing Early Warning Systems for Drought Resilience in Agriculture: The Case of Algeria’s Drought Shield Program. AGU Fall Meeting, GC13F-0982 (poster)."
-  },
-  {
-    "objectID": "projects/rain-rituals.html#collaborators",
-    "href": "projects/rain-rituals.html#collaborators",
-    "title": "Rain Rituals and Drought Governance",
-    "section": "Collaborators",
-    "text": "Collaborators\nM. E. Brown, A. Endsley, M. Enenkel, W. Anderson, S. Hadjout, T. V. Loboda, G. Kaci.\n← Research agenda"
-  },
-  {
-    "objectID": "projects/index.html",
-    "href": "projects/index.html",
-    "title": "Research agenda",
+    "objectID": "projects/harveststat.html",
+    "href": "projects/harveststat.html",
+    "title": "NASA HarvestStat",
     "section": "",
-    "text": "Cereal fields, Bizerte region, northern Tunisia · fieldwork, May 2024"
+    "text": "In progress"
   },
   {
-    "objectID": "projects/index.html#drought-agricultural-land-use-change",
-    "href": "projects/index.html#drought-agricultural-land-use-change",
-    "title": "Research agenda",
-    "section": "A · Drought & Agricultural Land-Use Change",
-    "text": "A · Drought & Agricultural Land-Use Change\nEstablished\nHow drought variability and persistence relate to cropland extent and agricultural intensification in drylands. This direction builds field surveys and reference datasets, assesses remote-sensing cropland products, and examines agricultural vulnerability. Geographic experience: Algeria, Morocco and Tunisia.\n\n\n\nCompleted · manuscript in preparation\n\nCropland Mapping and Area Estimation\nA stratified two-stage probability survey (1,350 field observations) used to estimate cropland area and assess GLAD, Esri–Impact Observatory and GACED30 cropland products.\n\n\n\n\nCompleted · manuscript in preparation\n\nDrought and Long-Term Cropland Change\nPersistent cropland change in 0.05° cells (2000–2024) and its association with four dimensions of drought derived from SPEI-1.\n\n\n\n\nIn progress\n\nNASA HarvestStat\nSubnational crop production statistics for North Africa, and the evolution, volatility and climate sensitivity of wheat systems.\n\n\n\nPublished · ongoing\n\nMapping Agricultural Greenhouses in Algeria\nDeep learning on satellite imagery to map rapidly expanding greenhouse agriculture (IEEE M2GARSS 2024)."
-  },
-  {
-    "objectID": "projects/index.html#climate-signals-environmental-governance",
-    "href": "projects/index.html#climate-signals-environmental-governance",
-    "title": "Research agenda",
-    "section": "B · Climate Signals & Environmental Governance",
-    "text": "B · Climate Signals & Environmental Governance\nEstablished · expanding\nWhen does environmental stress become publicly recognized and institutionally actionable? This direction studies institutional responses to drought, the role of environmental information in decision-making, climate-risk communication, and how governance is activated under environmental stress. Rain rituals are treated as observable institutional responses, distinct from the physical drought conditions that precede them.\n\n\n\nAccepted\n\nRain Rituals and Drought Governance\nA 25-year dataset of 63 state-organized rain rituals in Algeria, Morocco and Tunisia, linked to drought over cropland. Accepted in Environmental Research: Climate."
-  },
-  {
-    "objectID": "projects/index.html#climate-energy-infrastructure-resilience",
-    "href": "projects/index.html#climate-energy-infrastructure-resilience",
-    "title": "Research agenda",
-    "section": "C · Climate & Energy Infrastructure Resilience",
-    "text": "C · Climate & Energy Infrastructure Resilience\nEmerging\nDrought-related vulnerability of electricity systems, climate–grid interactions, exposure of energy infrastructure, multi-hazard risk assessment, geospatial indicators of infrastructure vulnerability, and AI-assisted resilience analysis.\n\n\nProposed research\n\nDROUGHT-GRID and Infrastructure Resilience\nA proposed research framework for evaluating AI-assisted analysis in energy-resilience decisions under drought. Objectives and planned approach; no results yet."
-  },
-  {
-    "objectID": "projects/index.html#data-centers-environmental-risk",
-    "href": "projects/index.html#data-centers-environmental-risk",
-    "title": "Research agenda",
-    "section": "D · Data Centers & Environmental Risk",
-    "text": "D · Data Centers & Environmental Risk\nEmerging\nElectricity demand, water withdrawal and consumption, cooling requirements, air quality and backup generation, grid connectivity, and environmental equity in data-center expansion, assessed by integrating remote sensing and climate data at regional and global scales.\n\n\nProposed research\n\nData Centers and Environmental Risk\nResearch objectives and planned approach for a regional-to-global environmental-risk assessment of data-center expansion. No results yet."
-  },
-  {
-    "objectID": "projects/index.html#previous-research",
-    "href": "projects/index.html#previous-research",
-    "title": "Research agenda",
-    "section": "Previous research",
-    "text": "Previous research\n\n\n\nCompleted\n\nOpen Climate Science for Agriculture\nA five-module, trilingual open curriculum (NASA TOPS, 2023–2025), with workshops in Algiers and Helena, Montana.\n\n\n\n\nCompleted\n\nAgricultural and Environmental Modeling\nCrop allocation in Tunisia, liming trade-offs in Kenya, organic–conventional yield synthesis, intercropping models and peri-urban agriculture (2015–2023)."
-  },
-  {
-    "objectID": "projects/index.html#methods-tools",
-    "href": "projects/index.html#methods-tools",
-    "title": "Research agenda",
-    "section": "Methods & tools",
-    "text": "Methods & tools\n\nEarth observation: Sentinel · Landsat · MODIS · VIIRS · SMAP · GRACE · Planet · MERRA-2 Analysis: design-based area estimation · stratified two-stage field sampling · deep learning · drought indices (SPEI) · Theil–Sen trends · random forests with cross-validation Open science: Python · Jupyter · Git/GitHub · Pixi · Snakemake · NASA Earthdata · cloud-native climate data"
-  },
-  {
-    "objectID": "projects/index.html#fieldwork-across-the-maghreb",
-    "href": "projects/index.html#fieldwork-across-the-maghreb",
-    "title": "Research agenda",
-    "section": "Fieldwork across the Maghreb",
-    "text": "Fieldwork across the Maghreb\nThe 2024 probability survey took me through the cereal belt and its margins in all three countries. Survey periods: Morocco, February–March; Algeria, March–June (two campaigns); Tunisia, April–May.\n\n\n\n\nCereals and grazing, northwestern Tunisia, April 2024\n\n\n\n\n\nOasis agriculture, southern Tunisia, April 2024\n\n\n\n\n\nRipening wheat, eastern Algeria, June 2024\n\n\n\n\n\nCereal hills, Bordj Bou Arréridj region, Algeria, June 2024\n\n\n\n\n\nRangeland, Tiaret region, Algeria, April 2024\n\n\n\n\n\nCropland and hillslopes, Taza region, Morocco, February 2024\n\n\n\n\n\nOlive tree and cereals, Middle Atlas foothills, Morocco, March 2024"
-  },
-  {
-    "objectID": "projects/greenhouse-mapping.html",
-    "href": "projects/greenhouse-mapping.html",
-    "title": "Mapping Agricultural Greenhouses in Algeria",
-    "section": "",
-    "text": "Published · ongoing"
-  },
-  {
-    "objectID": "projects/greenhouse-mapping.html#research-question",
-    "href": "projects/greenhouse-mapping.html#research-question",
-    "title": "Mapping Agricultural Greenhouses in Algeria",
+    "objectID": "projects/harveststat.html#research-question",
+    "href": "projects/harveststat.html#research-question",
+    "title": "NASA HarvestStat",
     "section": "Research question",
-    "text": "Research question\nWhere, and how fast, is greenhouse agriculture expanding in Algeria, and can it be mapped reliably from satellite imagery?"
+    "text": "Research question\nHow have North African wheat systems evolved, how volatile are they, and how sensitive are they to climate?"
   },
   {
-    "objectID": "projects/greenhouse-mapping.html#scientific-motivation",
-    "href": "projects/greenhouse-mapping.html#scientific-motivation",
-    "title": "Mapping Agricultural Greenhouses in Algeria",
+    "objectID": "projects/harveststat.html#scientific-motivation",
+    "href": "projects/harveststat.html#scientific-motivation",
+    "title": "NASA HarvestStat",
     "section": "Scientific motivation",
-    "text": "Scientific motivation\nGreenhouse agriculture is a form of intensification that is spreading quickly in Algeria, especially in the southern wilayas. It is poorly documented in agricultural statistics and land-cover products."
+    "text": "Scientific motivation\nSubnational crop statistics are essential for food-security monitoring and for linking climate to agricultural outcomes, but they are scattered and inconsistent. NASA HarvestStat is building the most comprehensive global database of subnational crop production data."
   },
   {
-    "objectID": "projects/greenhouse-mapping.html#geographic-scope",
-    "href": "projects/greenhouse-mapping.html#geographic-scope",
-    "title": "Mapping Agricultural Greenhouses in Algeria",
+    "objectID": "projects/harveststat.html#geographic-scope",
+    "href": "projects/harveststat.html#geographic-scope",
+    "title": "NASA HarvestStat",
     "section": "Geographic scope",
-    "text": "Geographic scope\nAlgeria."
+    "text": "Geographic scope\nGlobal database. My contributions and analysis focus on North Africa."
   },
   {
-    "objectID": "projects/greenhouse-mapping.html#data-and-methods",
-    "href": "projects/greenhouse-mapping.html#data-and-methods",
-    "title": "Mapping Agricultural Greenhouses in Algeria",
+    "objectID": "projects/harveststat.html#data-and-methods",
+    "href": "projects/harveststat.html#data-and-methods",
+    "title": "NASA HarvestStat",
     "section": "Data and methods",
-    "text": "Data and methods\nDeep learning applied to satellite imagery to detect agricultural greenhouses.\n\n\n\nGreenhouse area in the leading wilayas, 2000 and 2021."
+    "text": "Data and methods\nCompilation and quality control of subnational production, area and yield statistics; time-series and volatility analysis of wheat systems."
   },
   {
-    "objectID": "projects/greenhouse-mapping.html#publications-and-outputs",
-    "href": "projects/greenhouse-mapping.html#publications-and-outputs",
-    "title": "Mapping Agricultural Greenhouses in Algeria",
+    "objectID": "projects/harveststat.html#principal-findings",
+    "href": "projects/harveststat.html#principal-findings",
+    "title": "NASA HarvestStat",
+    "section": "Principal findings",
+    "text": "Principal findings\nAnalysis in progress; no results reported here yet."
+  },
+  {
+    "objectID": "projects/harveststat.html#publications-and-outputs",
+    "href": "projects/harveststat.html#publications-and-outputs",
+    "title": "NASA HarvestStat",
     "section": "Publications and outputs",
-    "text": "Publications and outputs\n\nOuaret, W., Brown, M. E., & Shumilo, L. (2024). Mapping Agricultural Greenhouses in Algeria: A Deep Learning Approach. 2024 IEEE Mediterranean and Middle-East Geoscience and Remote Sensing Symposium (M2GARSS), Oran, Algeria, 103–107. doi:10.1109/M2GARSS57310.2024.10537540"
+    "text": "Publications and outputs\nNone yet.\n\n\n\nRipening wheat in eastern Algeria, June 2024.\n\n\n← Research agenda"
   },
   {
-    "objectID": "projects/greenhouse-mapping.html#collaborators",
-    "href": "projects/greenhouse-mapping.html#collaborators",
-    "title": "Mapping Agricultural Greenhouses in Algeria",
-    "section": "Collaborators",
-    "text": "Collaborators\nM. E. Brown, L. Shumilo.\n← Research agenda"
-  },
-  {
-    "objectID": "projects/data-centers.html",
-    "href": "projects/data-centers.html",
-    "title": "Data Centers & Environmental Risk",
+    "objectID": "projects/drought-landuse-north-africa.html",
+    "href": "projects/drought-landuse-north-africa.html",
+    "title": "Drought and Long-Term Cropland Change Across North Africa",
     "section": "",
-    "text": "Proposed research"
+    "text": "Completed · manuscript in preparation"
   },
   {
-    "objectID": "projects/data-centers.html#research-question",
-    "href": "projects/data-centers.html#research-question",
-    "title": "Data Centers & Environmental Risk",
+    "objectID": "projects/drought-landuse-north-africa.html#research-question",
+    "href": "projects/drought-landuse-north-africa.html#research-question",
+    "title": "Drought and Long-Term Cropland Change Across North Africa",
     "section": "Research question",
-    "text": "Research question\nWhat environmental risks does data-center expansion create for electricity systems, water resources, air quality and nearby communities, and how do climate extremes change them?"
+    "text": "Research question\nHow is drought related to long-term cropland expansion and contraction across North Africa?"
   },
   {
-    "objectID": "projects/data-centers.html#scientific-motivation",
-    "href": "projects/data-centers.html#scientific-motivation",
-    "title": "Data Centers & Environmental Risk",
-    "section": "Scientific motivation",
-    "text": "Scientific motivation\nData centers concentrate electricity demand and cooling needs in specific places. Those places differ in water availability, grid capacity and exposure to climate extremes. Assessing these risks requires combining infrastructure information with environmental and climate data at regional and global scales."
+    "objectID": "projects/drought-landuse-north-africa.html#motivation",
+    "href": "projects/drought-landuse-north-africa.html#motivation",
+    "title": "Drought and Long-Term Cropland Change Across North Africa",
+    "section": "Motivation",
+    "text": "Motivation\nMost climate–agriculture research focuses on crop yield or production. Yet drought can also change whether land is planted, kept in cultivation, left fallow or withdrawn from cropping, and these effects on the extent of cultivation are poorly understood."
   },
   {
-    "objectID": "projects/data-centers.html#research-objectives",
-    "href": "projects/data-centers.html#research-objectives",
-    "title": "Data Centers & Environmental Risk",
-    "section": "Research objectives",
-    "text": "Research objectives\n\nAssess data-center electricity demand and its implications for grid connectivity and transmission infrastructure.\nCharacterize water withdrawal, consumption and cooling requirements under climate variability.\nExamine air-quality implications, including backup generation.\nEvaluate environmental-equity dimensions of where data centers are sited."
+    "objectID": "projects/drought-landuse-north-africa.html#geographic-scope",
+    "href": "projects/drought-landuse-north-africa.html#geographic-scope",
+    "title": "Drought and Long-Term Cropland Change Across North Africa",
+    "section": "Geographic scope",
+    "text": "Geographic scope\nAlgeria, Morocco and Tunisia, 2000–2024."
   },
   {
-    "objectID": "projects/data-centers.html#planned-approach",
-    "href": "projects/data-centers.html#planned-approach",
-    "title": "Data Centers & Environmental Risk",
-    "section": "Planned approach",
-    "text": "Planned approach\n\nIntegrate remote sensing and climate data with infrastructure and siting information.\nDevelop regional and global environmental-risk assessments using spatial, multifactor indicators.\n\n← Research agenda"
+    "objectID": "projects/drought-landuse-north-africa.html#approach",
+    "href": "projects/drought-landuse-north-africa.html#approach",
+    "title": "Drought and Long-Term Cropland Change Across North Africa",
+    "section": "Approach",
+    "text": "Approach\nLong-term satellite cropland records combined with gridded drought indicators and statistical modeling."
+  },
+  {
+    "objectID": "projects/drought-landuse-north-africa.html#results",
+    "href": "projects/drought-landuse-north-africa.html#results",
+    "title": "Drought and Long-Term Cropland Change Across North Africa",
+    "section": "Results",
+    "text": "Results\nForthcoming in a manuscript currently in preparation."
+  },
+  {
+    "objectID": "projects/drought-landuse-north-africa.html#related-outputs",
+    "href": "projects/drought-landuse-north-africa.html#related-outputs",
+    "title": "Drought and Long-Term Cropland Change Across North Africa",
+    "section": "Related outputs",
+    "text": "Related outputs\n\nDoctoral dissertation chapter, University of Maryland (2026); manuscript in preparation.\nOuaret, W., & Brown, M. E. (2023). Enhancing Early Warning Systems for Drought Resilience in Agriculture: The Case of Algeria’s Drought Shield Program. AGU Fall Meeting, GC13F-0982 (poster).\nOuaret, W., Kaci, G., & Brown, M. E. (2023). Charting Two Decades of Algerian Agriculture: Cropland Area and Yield Estimation (1998–2021). AgMIP9, New York (poster)."
+  },
+  {
+    "objectID": "projects/drought-landuse-north-africa.html#in-the-field",
+    "href": "projects/drought-landuse-north-africa.html#in-the-field",
+    "title": "Drought and Long-Term Cropland Change Across North Africa",
+    "section": "In the field",
+    "text": "In the field\n\n\n\n\nTiaret region, Algeria, April 2024\n\n\n\n\n\nBordj Bou Arréridj region, Algeria, June 2024\n\n\n\n\n\nTaza region, Morocco, February 2024\n\n\n\n← Research"
   },
   {
     "objectID": "phd.html",
     "href": "phd.html",
     "title": "Doctoral research",
     "section": "",
-    "text": "I completed my PhD in Geographical Sciences at the University of Maryland in 2026, directed by Tatiana V. Loboda and mentored by Molly E. Brown. My dissertation, Drought and Agricultural Land-Use Change in North Africa, examined how drought shapes agricultural land use across Algeria, Morocco and Tunisia.\nFrom the start, I wanted to put people in the equation. Satellites show where farmland changes, but not how societies experience drought. So alongside satellite and climate records, I read drought through the moment states publicly recognize it: state-organized rain rituals.\nThe work also meant going to the fields. Over the 2023–2024 season I drove thousands of kilometres through the cereal belt of all three countries, collecting an independent, probability-sampled ground truth to test how well satellite maps capture the region’s farmland."
-  },
-  {
-    "objectID": "phd.html#findings",
-    "href": "phd.html#findings",
-    "title": "Doctoral research",
-    "section": "Findings",
-    "text": "Findings\n\n\n01\nInstitutional recognition follows agricultural drought. The odds of a state-organized rain ritual rose as drought over cropland intensified. All rituals fell within the rainfed cropping season, and drought in northern and central rainfed clusters was more strongly associated with them than nationally averaged drought. Rituals mark institutional recognition; they do not measure drought impacts.\nAccepted · Environmental Research: Climate\n\n\n02\nFallow is where satellite maps disagree. Design-based estimates put cropland at 7.015 Mha in Morocco, 6.786 Mha in Algeria and 2.028 Mha in Tunisia. Fallow, 31.7% of cropland, was where disagreement among the three satellite products concentrated. Adding woody agriculture to the definition reversed the direction of one product’s area difference in all three countries.\nManuscript in preparation\n\n\n03\nWhen drought strikes matters most. Persistent cropland change occurred in 61.3% of grid cells (2000–2024): mostly expansion in Algeria, mostly contraction in Morocco and Tunisia. Drought characteristics accounted for 47–57% of out-of-fold spatial variation in change rates, and seasonal timing carried the most information. These are predictive associations, not causal attribution.\nManuscript in preparation\n\n\n\nWhy it matters. Better drought governance starts with what people experience on the ground. Early warning in drylands should track when and where drought strikes, not only how severe it is on average. It should pair satellite indicators with signals of how communities and institutions recognize drought, and it needs cropland maps built on consistent definitions and independent field data. The dissertation and its field dataset give agencies and researchers a practical basis for all three."
+    "text": "I completed my PhD in Geographical Sciences at the University of Maryland in 2026, directed by Tatiana V. Loboda and mentored by Molly E. Brown. My dissertation, Drought and Agricultural Land-Use Change in North Africa, examined how drought shapes agricultural land use across Algeria, Morocco and Tunisia.\nFrom the start, I wanted to put people in the equation. Satellites show where farmland changes, but not how societies experience drought. So alongside satellite and climate records, I read drought through the moment states publicly recognize it: state-organized rain rituals.\nThe work also meant going to the fields. Over the 2023–2024 season I drove thousands of kilometres through the cereal belt of all three countries, collecting independent field observations of the region’s farmland."
   },
   {
     "objectID": "phd.html#chapters",
     "href": "phd.html#chapters",
     "title": "Doctoral research",
     "section": "Chapters",
-    "text": "Chapters\n\n\nChapter 2. Rain Rituals Signal Climate Risk in Drylands. Accepted in Environmental Research: Climate. Project page →\nChapter 3. Assessment of Satellite-Derived Cropland Mapping in the Dryland Agricultural Systems of North Africa. Manuscript in preparation. Project page →\nChapter 4. Drought and Long-Term Cropland Change Across North Africa. Manuscript in preparation. Project page →\n\n\nAdvisory committee: Tatiana V. Loboda (Chair), Weston Anderson, Molly E. Brown, Arthur K. Endsley, Michael Humber, Sergii Skakun, and Barnet Pavão-Zuckerman (Dean’s Representative)."
+    "text": "Chapters\n\n\n01\nRain rituals signal climate risk in drylands. When drought becomes publicly and institutionally recognized, read from state-organized rain rituals.\nAccepted · Environmental Research: Climate\nProject page →\n\n\n02\nSatellite cropland mapping in dryland agriculture. Field-based cropland area estimation and an independent assessment of satellite cropland maps.\nManuscript in preparation\nProject page →\n\n\n03\nDrought and long-term cropland change. How drought relates to cropland expansion and contraction across the region since 2000.\nManuscript in preparation\nProject page →\n\n\nAdvisory committee: Tatiana V. Loboda (Chair), Weston Anderson, Molly E. Brown, Arthur K. Endsley, Michael Humber, Sergii Skakun, and Barnet Pavão-Zuckerman (Dean’s Representative)."
   },
   {
     "objectID": "phd.html#in-the-field",
@@ -354,14 +284,14 @@
     "href": "index.html#research-directions",
     "title": "Climate Extremes, Earth Observation & Societal Resilience",
     "section": "Research directions",
-    "text": "Research directions\n\n\nEstablished\n\nDrought & Agricultural Land-Use Change\nHow drought variability and persistence relate to cropland extent and intensification in drylands, using field surveys, reference datasets and satellite cropland products. Algeria, Morocco and Tunisia.\n\n\n\nEstablished · expanding\n\nClimate Signals & Environmental Governance\nWhen environmental stress becomes institutionally recognized. State-organized rain rituals are studied as observable institutional responses to drought, not as measurements of it.\n\n\n\nEmerging\n\nClimate & Energy Infrastructure Resilience\nDrought-related electricity-system vulnerability, climate–grid interactions and multi-hazard exposure of energy infrastructure. Includes DROUGHT-GRID, a proposed research framework.\n\n\n\nEmerging\n\nData Centers & Environmental Risk\nThe electricity, water, cooling and air-quality footprint of data-center expansion, and how grid connectivity and environmental equity shape its risks."
+    "text": "Research directions\n\n\nEstablished\n\nDrought & Agricultural Land-Use Change\nHow drought variability and persistence relate to cropland extent and intensification in drylands, using field surveys, reference datasets and satellite cropland products. Algeria, Morocco and Tunisia.\n\n\n\nEstablished · expanding\n\nClimate Signals & Environmental Governance\nWhen environmental stress becomes institutionally recognized. State-organized rain rituals are studied as observable institutional responses to drought, not as measurements of it.\n\n\n\nEmerging\n\nClimate Risk & Critical Infrastructure\nEarly-stage work at Georgetown on how climate extremes affect critical infrastructure. Details will follow as the work matures; I’m glad to talk with potential collaborators.\n\n\n\nEstablished\n\nEarth Observation & Open Science\nReproducible geospatial analysis, open climate-data tools and remote-sensing training, including a NASA-funded curriculum in three languages."
   },
   {
     "objectID": "index.html#selected-research-projects",
     "href": "index.html#selected-research-projects",
     "title": "Climate Extremes, Earth Observation & Societal Resilience",
     "section": "Selected research projects",
-    "text": "Selected research projects\n\n\n\nCompleted · manuscript in preparation\n\nCropland Mapping and Area Estimation\nA 1,350-site probability survey across three countries, used to estimate cropland area and assess three satellite cropland products.\n\n\n\n\nCompleted · manuscript in preparation\n\nDrought and Long-Term Cropland Change\nPersistent cropland change across Algeria, Morocco and Tunisia (2000–2024), and its association with the timing, severity and persistence of drought.\n\n\n\n\nAccepted\n\nRain Rituals and Drought Governance\nA 25-year record of 63 state-organized rain rituals, linked to drought over cropland to study when drought becomes institutionally recognized.\n\n\n\n\nIn progress\n\nNASA HarvestStat\nSubnational crop production statistics for North Africa, and the climate sensitivity of wheat systems.\n\n\n\nFull research agenda →"
+    "text": "Selected research projects\n\n\n\nCompleted · manuscript in preparation\n\nCropland Mapping and Area Estimation\nField-based cropland area estimation and an independent assessment of satellite cropland maps in Algeria, Morocco and Tunisia.\n\n\n\n\nCompleted · manuscript in preparation\n\nDrought and Long-Term Cropland Change\nLong-term cropland change across Algeria, Morocco and Tunisia (2000–2024) and its relationship with drought.\n\n\n\n\nAccepted\n\nRain Rituals and Drought Governance\nWhen drought becomes publicly and institutionally recognized, read from state-organized rain rituals.\n\n\n\n\nIn progress\n\nNASA HarvestStat\nSubnational crop production statistics for North Africa, and the climate sensitivity of wheat systems.\n\n\n\nFull research agenda →"
   },
   {
     "objectID": "index.html#selected-publications-and-outputs",
@@ -396,7 +326,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Walid Ouaret is an Earth observation scientist and a Postdoctoral Fellow at The Earth Commons Institute, Georgetown University, where he works with Roshanak (Roshi) Nateghi in the SuRGE Lab. His research examines how climate extremes affect agricultural landscapes, critical infrastructure and the institutions that manage environmental risk.\nHe received his Ph.D. in Geographical Sciences from the University of Maryland, College Park in 2026. His dissertation, Drought and Agricultural Land-Use Change in North Africa, was directed by Tatiana V. Loboda, with mentorship from Molly E. Brown. It combined a probability-based field survey across Algeria, Morocco and Tunisia, satellite cropland records and an archival record of state-organized rain rituals.\nBefore his doctorate, he worked on landscape and agricultural modeling at INRAE (Montpellier and Paris) and at Wageningen University, and on remote sensing and GIS research at Miami University’s Geospatial Analysis Center. He trained as an agronomist at the École Nationale Supérieure Agronomique in Algiers. He holds master’s degrees from Paris-Saclay University and AgroParisTech, and from the Mediterranean Agronomic Institute of Chania. He co-developed the NASA-funded Open Climate Science for Agriculture curriculum, taught in English, French and Arabic."
+    "text": "Walid Ouaret is an Earth observation scientist and a Postdoctoral Fellow at The Earth Commons Institute, Georgetown University, where he works with Roshanak (Roshi) Nateghi in the SuRGE Lab. His research examines how climate extremes affect agricultural landscapes, critical infrastructure and the institutions that manage environmental risk.\nHe received his Ph.D. in Geographical Sciences from the University of Maryland, College Park in 2026. His dissertation, Drought and Agricultural Land-Use Change in North Africa, was directed by Tatiana V. Loboda, with mentorship from Molly E. Brown. It combined fieldwork across Algeria, Morocco and Tunisia with satellite, climate and archival records.\nBefore his doctorate, he worked on landscape and agricultural modeling at INRAE (Montpellier and Paris) and at Wageningen University, and on remote sensing and GIS research at Miami University’s Geospatial Analysis Center. He trained as an agronomist at the École Nationale Supérieure Agronomique in Algiers. He holds master’s degrees from Paris-Saclay University and AgroParisTech, and from the Mediterranean Agronomic Institute of Chania. He co-developed the NASA-funded Open Climate Science for Agriculture curriculum, taught in English, French and Arabic."
   },
   {
     "objectID": "about.html#current-affiliations",
@@ -602,151 +532,102 @@
     "text": "Urban expansion and peri-urban agriculture\nGeospatial Analysis Center, Miami University · 2021–2023 · NASA Interdisciplinary Research in Earth Science (PI: Christopher Hain, NASA Marshall Space Flight Center)\nAs a graduate research assistant, I worked on the impact of urban expansion on peri-urban agriculture, hydrometeorology, food security and human health. I used GRACE, SMAP, MODIS, VIIRS, Planet, Sentinel, Landsat and other satellite data.\n← Research agenda"
   },
   {
-    "objectID": "projects/drought-landuse-north-africa.html",
-    "href": "projects/drought-landuse-north-africa.html",
-    "title": "Drought and Long-Term Cropland Change Across North Africa",
+    "objectID": "projects/greenhouse-mapping.html",
+    "href": "projects/greenhouse-mapping.html",
+    "title": "Mapping Agricultural Greenhouses in Algeria",
     "section": "",
-    "text": "Completed · manuscript in preparation"
+    "text": "Published · ongoing"
   },
   {
-    "objectID": "projects/drought-landuse-north-africa.html#research-question",
-    "href": "projects/drought-landuse-north-africa.html#research-question",
-    "title": "Drought and Long-Term Cropland Change Across North Africa",
+    "objectID": "projects/greenhouse-mapping.html#research-question",
+    "href": "projects/greenhouse-mapping.html#research-question",
+    "title": "Mapping Agricultural Greenhouses in Algeria",
     "section": "Research question",
-    "text": "Research question\nWhich characteristics of drought (frequency, severity, persistence or seasonal timing) are most closely associated with persistent cropland expansion and contraction in North Africa?"
+    "text": "Research question\nWhere, and how fast, is greenhouse agriculture expanding in Algeria, and can it be mapped reliably from satellite imagery?"
   },
   {
-    "objectID": "projects/drought-landuse-north-africa.html#scientific-motivation",
-    "href": "projects/drought-landuse-north-africa.html#scientific-motivation",
-    "title": "Drought and Long-Term Cropland Change Across North Africa",
+    "objectID": "projects/greenhouse-mapping.html#scientific-motivation",
+    "href": "projects/greenhouse-mapping.html#scientific-motivation",
+    "title": "Mapping Agricultural Greenhouses in Algeria",
     "section": "Scientific motivation",
-    "text": "Scientific motivation\nMost climate–agriculture research focuses on crop yield or production. Yet drought can also change whether land is planted, kept in cultivation, left fallow or withdrawn from cropping. The effects of drought on the long-term spatial extent of cultivation in North Africa remain poorly understood."
+    "text": "Scientific motivation\nGreenhouse agriculture is a form of intensification that is spreading quickly in Algeria, especially in the southern wilayas. It is poorly documented in agricultural statistics and land-cover products."
   },
   {
-    "objectID": "projects/drought-landuse-north-africa.html#geographic-scope",
-    "href": "projects/drought-landuse-north-africa.html#geographic-scope",
-    "title": "Drought and Long-Term Cropland Change Across North Africa",
+    "objectID": "projects/greenhouse-mapping.html#geographic-scope",
+    "href": "projects/greenhouse-mapping.html#geographic-scope",
+    "title": "Mapping Agricultural Greenhouses in Algeria",
     "section": "Geographic scope",
-    "text": "Geographic scope\nAlgeria, Morocco and Tunisia, 2000–2024, analysed on a 0.05° grid (cells of roughly 5 × 5 km)."
+    "text": "Geographic scope\nAlgeria."
   },
   {
-    "objectID": "projects/drought-landuse-north-africa.html#data-and-methods",
-    "href": "projects/drought-landuse-north-africa.html#data-and-methods",
-    "title": "Drought and Long-Term Cropland Change Across North Africa",
+    "objectID": "projects/greenhouse-mapping.html#data-and-methods",
+    "href": "projects/greenhouse-mapping.html#data-and-methods",
+    "title": "Mapping Agricultural Greenhouses in Algeria",
     "section": "Data and methods",
-    "text": "Data and methods\n\nCropland change. Annual 30 m cropland observations from GACED30 were aggregated to 0.05° cells. Trends were estimated with the Theil–Sen estimator, and change was treated as persistent where the 95% confidence interval excluded zero.\nDrought. Monthly SPEI-1, with a drought month defined as SPEI-1 ≤ −0.5. Drought was characterized along four dimensions: frequency and exposure, severity and intensity, duration and persistence, and seasonal timing (three-month windows of the September–August agricultural year).\nModels. Country-specific random forest regression evaluated by repeated 10-fold cross-validation, with leave-one-dimension-out analysis, held-out permutation importance and spatially blocked classification. Comparison of 2000–2014 with 2015–2024."
+    "text": "Data and methods\nDeep learning applied to satellite imagery to detect agricultural greenhouses.\n\n\n\nGreenhouse area in the leading wilayas, 2000 and 2021."
   },
   {
-    "objectID": "projects/drought-landuse-north-africa.html#principal-findings",
-    "href": "projects/drought-landuse-north-africa.html#principal-findings",
-    "title": "Drought and Long-Term Cropland Change Across North Africa",
-    "section": "Principal findings",
-    "text": "Principal findings\n\nPersistent change. Persistent change occurred in 6,799 of 11,100 cells (61.3%). Expansion made up 61.3% of significantly changing cells in Algeria. Contraction made up 90.3% in Morocco and 63.4% in Tunisia.\nAssociation with drought. Drought characteristics accounted for 47–57% of out-of-fold spatial variation in cropland-change rates (cross-validated R² 0.473, 0.516 and 0.573 in Algeria, Morocco and Tunisia).\nSeasonal timing. Timing was the most informative dimension everywhere. Removing it lowered R² by 0.222, 0.174 and 0.153, against at most 0.018 for any other dimension. The most informative season differed: early season in Algeria, early and mid-season in Morocco, late and hot-dry seasons in Tunisia.\nDirection of change. Drought characteristics separated contraction from expansion more clearly in Algeria (AUC 0.820) and Tunisia (AUC 0.845) than in Morocco (AUC 0.665).\nLater period. After 2015, median change rates moved toward contraction in Algeria and Morocco. Drought characteristics did not explain the later trajectories consistently better, which is consistent with water access, investment and other factors shaping post-2015 change.\n\n\nInterpretation. These are predictive associations. Model performance should not be read as a causal estimate of the share of agricultural change attributable to drought. Irrigation, groundwater access, policy and socioeconomic conditions were not modeled directly."
-  },
-  {
-    "objectID": "projects/drought-landuse-north-africa.html#scientific-significance",
-    "href": "projects/drought-landuse-north-africa.html#scientific-significance",
-    "title": "Drought and Long-Term Cropland Change Across North Africa",
-    "section": "Scientific significance",
-    "text": "Scientific significance\nThe relationship between drought and cropland change depends on when drought occurs within the agricultural year and on the crops and water systems exposed to it. Drought monitoring for agriculture therefore benefits from seasonally and spatially resolved indicators, rather than whole-period summaries alone."
-  },
-  {
-    "objectID": "projects/drought-landuse-north-africa.html#publications-and-outputs",
-    "href": "projects/drought-landuse-north-africa.html#publications-and-outputs",
-    "title": "Drought and Long-Term Cropland Change Across North Africa",
+    "objectID": "projects/greenhouse-mapping.html#publications-and-outputs",
+    "href": "projects/greenhouse-mapping.html#publications-and-outputs",
+    "title": "Mapping Agricultural Greenhouses in Algeria",
     "section": "Publications and outputs",
-    "text": "Publications and outputs\n\nOuaret, W. Drought and Long-Term Cropland Change Across North Africa. Doctoral dissertation chapter, University of Maryland (2026); manuscript in preparation.\nOuaret, W., & Brown, M. E. (2023). Enhancing Early Warning Systems for Drought Resilience in Agriculture: The Case of Algeria’s Drought Shield Program. AGU Fall Meeting, GC13F-0982 (poster).\nOuaret, W., Kaci, G., & Brown, M. E. (2023). Charting Two Decades of Algerian Agriculture: Cropland Area and Yield Estimation (1998–2021). AgMIP9, New York (poster).\nOuaret, W., Endsley, K. A., Brown, M. E., & McCarty, J. L. (2022). Spatiotemporal Climatic and Hydrological Trends for Algerian Smallholder Agriculture Using Remotely Sensed Data. AGU Fall Meeting, H12N-0862 (poster)."
+    "text": "Publications and outputs\n\nOuaret, W., Brown, M. E., & Shumilo, L. (2024). Mapping Agricultural Greenhouses in Algeria: A Deep Learning Approach. 2024 IEEE Mediterranean and Middle-East Geoscience and Remote Sensing Symposium (M2GARSS), Oran, Algeria, 103–107. doi:10.1109/M2GARSS57310.2024.10537540"
   },
   {
-    "objectID": "projects/drought-landuse-north-africa.html#in-the-field",
-    "href": "projects/drought-landuse-north-africa.html#in-the-field",
-    "title": "Drought and Long-Term Cropland Change Across North Africa",
-    "section": "In the field",
-    "text": "In the field\n\n\n\n\nRangeland at the dry margin of the cereal belt, Tiaret region, Algeria, April 2024\n\n\n\n\n\nCereal hills, Bordj Bou Arréridj region, Algeria, June 2024\n\n\n\n\n\nCropland and hillslopes, Taza region, Morocco, February 2024\n\n\n\n← Research agenda"
+    "objectID": "projects/greenhouse-mapping.html#collaborators",
+    "href": "projects/greenhouse-mapping.html#collaborators",
+    "title": "Mapping Agricultural Greenhouses in Algeria",
+    "section": "Collaborators",
+    "text": "Collaborators\nM. E. Brown, L. Shumilo.\n← Research agenda"
   },
   {
-    "objectID": "projects/harveststat.html",
-    "href": "projects/harveststat.html",
-    "title": "NASA HarvestStat",
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Research agenda",
     "section": "",
-    "text": "In progress"
+    "text": "Cereal fields, Bizerte region, northern Tunisia · fieldwork, May 2024"
   },
   {
-    "objectID": "projects/harveststat.html#research-question",
-    "href": "projects/harveststat.html#research-question",
-    "title": "NASA HarvestStat",
-    "section": "Research question",
-    "text": "Research question\nHow have North African wheat systems evolved, how volatile are they, and how sensitive are they to climate?"
+    "objectID": "projects/index.html#drought-agricultural-land-use-change",
+    "href": "projects/index.html#drought-agricultural-land-use-change",
+    "title": "Research agenda",
+    "section": "A · Drought & Agricultural Land-Use Change",
+    "text": "A · Drought & Agricultural Land-Use Change\nEstablished\nHow drought variability and persistence relate to cropland extent and agricultural intensification in drylands. This direction builds field surveys and reference datasets, assesses remote-sensing cropland products, and examines agricultural vulnerability. Geographic experience: Algeria, Morocco and Tunisia.\n\n\n\nCompleted · manuscript in preparation\n\nCropland Mapping and Area Estimation\nField-based cropland area estimation and an independent assessment of satellite cropland maps.\n\n\n\n\nCompleted · manuscript in preparation\n\nDrought and Long-Term Cropland Change\nLong-term cropland change across the region (2000–2024) and its relationship with drought.\n\n\n\n\nIn progress\n\nNASA HarvestStat\nSubnational crop production statistics for North Africa, and the evolution, volatility and climate sensitivity of wheat systems.\n\n\n\nPublished · ongoing\n\nMapping Agricultural Greenhouses in Algeria\nDeep learning on satellite imagery to map rapidly expanding greenhouse agriculture (IEEE M2GARSS 2024)."
   },
   {
-    "objectID": "projects/harveststat.html#scientific-motivation",
-    "href": "projects/harveststat.html#scientific-motivation",
-    "title": "NASA HarvestStat",
-    "section": "Scientific motivation",
-    "text": "Scientific motivation\nSubnational crop statistics are essential for food-security monitoring and for linking climate to agricultural outcomes, but they are scattered and inconsistent. NASA HarvestStat is building the most comprehensive global database of subnational crop production data."
+    "objectID": "projects/index.html#climate-signals-environmental-governance",
+    "href": "projects/index.html#climate-signals-environmental-governance",
+    "title": "Research agenda",
+    "section": "B · Climate Signals & Environmental Governance",
+    "text": "B · Climate Signals & Environmental Governance\nEstablished · expanding\nWhen does environmental stress become publicly recognized and institutionally actionable? This direction studies institutional responses to drought, the role of environmental information in decision-making, climate-risk communication, and how governance is activated under environmental stress. Rain rituals are treated as observable institutional responses, distinct from the physical drought conditions that precede them.\n\n\n\nAccepted\n\nRain Rituals and Drought Governance\nWhen drought becomes publicly and institutionally recognized, read from state-organized rain rituals. Accepted in Environmental Research: Climate."
   },
   {
-    "objectID": "projects/harveststat.html#geographic-scope",
-    "href": "projects/harveststat.html#geographic-scope",
-    "title": "NASA HarvestStat",
-    "section": "Geographic scope",
-    "text": "Geographic scope\nGlobal database. My contributions and analysis focus on North Africa."
+    "objectID": "projects/index.html#emerging-research",
+    "href": "projects/index.html#emerging-research",
+    "title": "Research agenda",
+    "section": "C · Emerging: Climate Risk & Critical Infrastructure",
+    "text": "C · Emerging: Climate Risk & Critical Infrastructure\nEmerging\nAt The Earth Commons Institute, I am beginning to extend this work toward climate risks to critical infrastructure. This research is at an early stage, and details will be shared as it develops. If you are interested in collaborating, please get in touch."
   },
   {
-    "objectID": "projects/harveststat.html#data-and-methods",
-    "href": "projects/harveststat.html#data-and-methods",
-    "title": "NASA HarvestStat",
-    "section": "Data and methods",
-    "text": "Data and methods\nCompilation and quality control of subnational production, area and yield statistics; time-series and volatility analysis of wheat systems."
+    "objectID": "projects/index.html#previous-research",
+    "href": "projects/index.html#previous-research",
+    "title": "Research agenda",
+    "section": "Previous research",
+    "text": "Previous research\n\n\n\nCompleted\n\nOpen Climate Science for Agriculture\nA five-module, trilingual open curriculum (NASA TOPS, 2023–2025), with workshops in Algiers and Helena, Montana.\n\n\n\n\nCompleted\n\nAgricultural and Environmental Modeling\nCrop allocation in Tunisia, liming trade-offs in Kenya, organic–conventional yield synthesis, intercropping models and peri-urban agriculture (2015–2023)."
   },
   {
-    "objectID": "projects/harveststat.html#principal-findings",
-    "href": "projects/harveststat.html#principal-findings",
-    "title": "NASA HarvestStat",
-    "section": "Principal findings",
-    "text": "Principal findings\nAnalysis in progress; no results reported here yet."
+    "objectID": "projects/index.html#methods-tools",
+    "href": "projects/index.html#methods-tools",
+    "title": "Research agenda",
+    "section": "Methods & tools",
+    "text": "Methods & tools\n\nEarth observation: Sentinel · Landsat · MODIS · VIIRS · SMAP · GRACE · Planet · MERRA-2 Analysis: field survey design · area estimation · deep learning · drought indices · trend analysis · machine learning Open science: Python · Jupyter · Git/GitHub · Pixi · Snakemake · NASA Earthdata · cloud-native climate data"
   },
   {
-    "objectID": "projects/harveststat.html#publications-and-outputs",
-    "href": "projects/harveststat.html#publications-and-outputs",
-    "title": "NASA HarvestStat",
-    "section": "Publications and outputs",
-    "text": "Publications and outputs\nNone yet.\n\n\n\nRipening wheat in eastern Algeria, June 2024.\n\n\n← Research agenda"
-  },
-  {
-    "objectID": "projects/infrastructure-resilience.html",
-    "href": "projects/infrastructure-resilience.html",
-    "title": "Climate & Energy Infrastructure Resilience",
-    "section": "",
-    "text": "Proposed research"
-  },
-  {
-    "objectID": "projects/infrastructure-resilience.html#research-question",
-    "href": "projects/infrastructure-resilience.html#research-question",
-    "title": "Climate & Energy Infrastructure Resilience",
-    "section": "Research question",
-    "text": "Research question\nHow does drought create vulnerability in electricity systems, and how can geospatial evidence and AI-assisted analysis support resilience decisions for energy infrastructure?"
-  },
-  {
-    "objectID": "projects/infrastructure-resilience.html#scientific-motivation",
-    "href": "projects/infrastructure-resilience.html#scientific-motivation",
-    "title": "Climate & Energy Infrastructure Resilience",
-    "section": "Scientific motivation",
-    "text": "Scientific motivation\nDrought affects energy systems through water availability, cooling and generation, and these effects interact with other climate hazards. My doctoral work showed that when and where drought occurs matters for agricultural outcomes. This direction asks whether timing- and location-aware drought indicators can similarly inform the exposure and resilience of critical infrastructure."
-  },
-  {
-    "objectID": "projects/infrastructure-resilience.html#research-objectives",
-    "href": "projects/infrastructure-resilience.html#research-objectives",
-    "title": "Climate & Energy Infrastructure Resilience",
-    "section": "Research objectives",
-    "text": "Research objectives\n\nCharacterize drought-related vulnerability of electricity systems.\nExamine climate–power-grid interactions and the exposure of energy infrastructure to multiple hazards.\nDevelop geospatial indicators of infrastructure vulnerability.\nDROUGHT-GRID, a proposed research framework: evaluate how AI-assisted analysis can support energy-resilience decisions under drought."
-  },
-  {
-    "objectID": "projects/infrastructure-resilience.html#planned-approach",
-    "href": "projects/infrastructure-resilience.html#planned-approach",
-    "title": "Climate & Energy Infrastructure Resilience",
-    "section": "Planned approach",
-    "text": "Planned approach\n\nIntegrate Earth observation and climate records with infrastructure location and exposure information.\nApply multi-hazard, spatially explicit risk-assessment methods.\nEvaluate AI-assisted analyses against transparent, reproducible baselines.\n\n← Research agenda"
+    "objectID": "projects/index.html#fieldwork-across-the-maghreb",
+    "href": "projects/index.html#fieldwork-across-the-maghreb",
+    "title": "Research agenda",
+    "section": "Fieldwork across the Maghreb",
+    "text": "Fieldwork across the Maghreb\nFieldwork in 2024 took me through the cereal belt and its margins in all three countries.\n\n\n\n\nCereals and grazing, northwestern Tunisia, April 2024\n\n\n\n\n\nOasis agriculture, southern Tunisia, April 2024\n\n\n\n\n\nRipening wheat, eastern Algeria, June 2024\n\n\n\n\n\nCereal hills, Bordj Bou Arréridj region, Algeria, June 2024\n\n\n\n\n\nRangeland, Tiaret region, Algeria, April 2024\n\n\n\n\n\nCropland and hillslopes, Taza region, Morocco, February 2024\n\n\n\n\n\nOlive tree and cereals, Middle Atlas foothills, Morocco, March 2024"
   },
   {
     "objectID": "projects/seeds.html",

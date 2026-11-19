@@ -1,30 +1,32 @@
-// Dark variant: deep green ground, warm off-white text, soft green links, terracotta accents only.
+// Dark theme: deep slate ground, cool light text, luminous teal accent.
 
 /*-- scss:defaults --*/
-$primary:     #A9D3BC;
-$secondary:   #8FA89C;
-$link-color:  #A9D3BC;
+$primary:          #6FD6D2;
+$secondary:        #9DB0B8;
+$link-color:       #6FD6D2;
 $link-hover-color: #FFFFFF;
-$body-bg:     #101C17;
-$body-color:  #E9E4D8;
-$headings-color: #F3EFE6;
-$navbar-bg:   #0B1511;
-$navbar-fg:   #E9E4D8;
-$navbar-hl:   #FFFFFF;
-$footer-bg:   #0B1511;
-$footer-fg:   #B9B3A6;
+$body-bg:          #0B1419;
+$body-color:       #E3EBEE;
+$headings-color:   #F2F6F7;
+$navbar-bg:        #070F13;
+$navbar-fg:        #DCE7EA;
+$navbar-hl:        #FFFFFF;
+$footer-bg:        #070F13;
+$footer-fg:        #9DB0B8;
 
 /*-- scss:rules --*/
 :root {
-  --wo-surface: #15241E;
-  --wo-border: #24372F;
-  --wo-rule: #2E443A;
-  --wo-muted: #B9B3A6;
-  --wo-accent: #D49A76;
-  --wo-ink: #F3EFE6;
-  --wo-btn-bg: #E9E4D8;  --wo-btn-fg: #101C17;
-  --wo-chip-current-bg: #1E3A2F;  --wo-chip-current-fg: #CFE6DA;
-  --wo-chip-prev-bg: #26332D;     --wo-chip-prev-fg: #D3CDBF;
-  --wo-chip-dev-bg: #26332D;      --wo-chip-dev-fg: #D3CDBF;
-  --wo-chip-sub-bg: #3A2A20;      --wo-chip-sub-fg: #F0C6AA;
+  --wo-nav-bg: #070F13;
+  --wo-surface: #111E25;
+  --wo-border: #1F2F38;
+  --wo-rule: #2A3D47;
+  --wo-muted: #9DB0B8;
+  --wo-ink: #F2F6F7;
+  --wo-accent: #3FC1BE;
+  --wo-accent-soft: #123036;
+  --wo-btn-bg: #E3EBEE;  --wo-btn-fg: #0B1419;
+  --wo-chip-current-bg: #123036;  --wo-chip-current-fg: #8EE3DF;
+  --wo-chip-prev-bg: #1A2830;     --wo-chip-prev-fg: #B8C7CD;
+  --wo-chip-dev-bg: transparent;  --wo-chip-dev-fg: #8EE3DF;
+  --wo-chip-sub-bg: #E3EBEE;      --wo-chip-sub-fg: #0B1419;
 }
