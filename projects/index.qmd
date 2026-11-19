@@ -1,6 +1,6 @@
 ---
 title: "Research agenda"
-subtitle: "Climate extremes, Earth observation and societal resilience"
+subtitle: "Climate extremes, environmental change and societal response"
 description: "Research on drought and agricultural land-use change, climate signals and environmental governance, and emerging work on climate risk and critical infrastructure."
 ---
 

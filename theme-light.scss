@@ -1,33 +1,55 @@
-// Light theme: cool, minimal, technical.
-// Deep slate ink, near-white ground, teal as the single accent.
+// Atlas Digital, light theme.
+// Atlas Navy ink on warm Limestone; Mineral Turquoise for analysis and links;
+// Bronze and Terracotta as restrained cultural warmth (lines, markers, pattern).
+// Text pairs checked against WCAG 2.1 AA (ratios noted against #F5F0E8).
 
 /*-- scss:defaults --*/
-$primary:          #0B1F2A;
-$secondary:        #51606A;
-$link-color:       #0B6670;
-$link-hover-color: #0B1F2A;
-$body-bg:          #FBFCFC;
-$body-color:       #15222A;
-$headings-color:   #0B1F2A;
-$navbar-bg:        #0B1A22;
-$navbar-fg:        #DCE7EA;
-$navbar-hl:        #FFFFFF;
-$footer-bg:        #F2F5F6;
-$footer-fg:        #51606A;
+$primary:          #101D30;   // Atlas Navy            14.9 : 1
+$secondary:        #545D6B;
+$success:          #167A87;
+$danger:           #A9452F;
+$link-color:       #13707C;   // turquoise, text-safe  5.1 : 1
+$link-hover-color: #101D30;
+$body-bg:          #F5F0E8;   // Limestone
+$body-color:       #1A2638;
+$headings-color:   #101D30;
+$navbar-bg:        #101D30;
+$navbar-fg:        #E9E2D6;   //                       13.2 : 1 on navy
+$navbar-hl:        #D6AB76;   // bronze                 8.0 : 1 on navy
+$footer-bg:        #101D30;
+$footer-fg:        #C3C9D2;
+$dropdown-bg:            #FBF8F3;
+$dropdown-link-color:    #101D30;
+$dropdown-link-hover-bg: #E6EFEE;
+$dropdown-link-hover-color: #101D30;
+$dropdown-border-color:  #E2D9CB;
 
 /*-- scss:rules --*/
 :root {
-  --wo-nav-bg: #0B1A22;
-  --wo-surface: #FFFFFF;
-  --wo-border: #E3E8EB;
-  --wo-rule: #D5DEE2;
-  --wo-muted: #51606A;
-  --wo-ink: #0B1F2A;
-  --wo-accent: #0E8A91;          /* teal: lines, markers, hover */
-  --wo-accent-soft: #E4F3F3;
-  --wo-btn-bg: #0B1F2A;  --wo-btn-fg: #FFFFFF;
-  --wo-chip-current-bg: #E4F3F3;  --wo-chip-current-fg: #0B5E66;
-  --wo-chip-prev-bg: #EEF2F4;     --wo-chip-prev-fg: #47545C;
-  --wo-chip-dev-bg: transparent;  --wo-chip-dev-fg: #0B5E66;
-  --wo-chip-sub-bg: #0B1F2A;      --wo-chip-sub-fg: #FFFFFF;
+  --wo-navy: #101D30;
+  --wo-turquoise: #167A87;
+  --wo-bronze: #D6AB76;
+  --wo-terracotta: #C65E49;
+  --wo-limestone: #F5F0E8;
+
+  --wo-nav-bg: #101D30;
+  --wo-nav-fg: #E9E2D6;
+  --wo-surface: #FCFAF6;
+  --wo-surface-2: #EFE8DC;
+  --wo-border: #E2D9CB;
+  --wo-rule: #D8CCBA;
+  --wo-muted: #545D6B;           // 5.6 : 1
+  --wo-ink: #101D30;
+  --wo-accent: #167A87;          // lines, markers, focus
+  --wo-accent-text: #13707C;     // turquoise used as text
+  --wo-warm: #C65E49;            // terracotta: decorative only
+  --wo-warm-text: #A9452F;       // terracotta as text 5.2 : 1
+  --wo-bronze-text: #8A6234;     // bronze as text     4.8 : 1
+  --wo-accent-soft: #E3EFEE;
+  --wo-shadow: 0 10px 28px -14px rgba(16, 29, 48, 0.28);
+  --wo-btn-bg: #101D30;  --wo-btn-fg: #F5F0E8;
+  --wo-chip-current-bg: #E3EFEE;  --wo-chip-current-fg: #0C5A63;
+  --wo-chip-prev-bg: #ECE5D9;     --wo-chip-prev-fg: #4A5260;
+  --wo-chip-dev-bg: transparent;  --wo-chip-dev-fg: #A9452F;
+  --wo-chip-sub-bg: #101D30;      --wo-chip-sub-fg: #F5F0E8;
 }

@@ -1,32 +1,54 @@
-// Dark theme: deep slate ground, cool light text, luminous teal accent.
+// Atlas Digital, dark theme.
+// Deep Atlas Navy ground, Limestone text, luminous Turquoise, Bronze highlights.
+// Text pairs checked against WCAG 2.1 AA (ratios noted against #0C1626).
 
 /*-- scss:defaults --*/
-$primary:          #6FD6D2;
-$secondary:        #9DB0B8;
-$link-color:       #6FD6D2;
-$link-hover-color: #FFFFFF;
-$body-bg:          #0B1419;
-$body-color:       #E3EBEE;
-$headings-color:   #F2F6F7;
-$navbar-bg:        #070F13;
-$navbar-fg:        #DCE7EA;
-$navbar-hl:        #FFFFFF;
-$footer-bg:        #070F13;
-$footer-fg:        #9DB0B8;
+$primary:          #6CCAD4;
+$secondary:        #A3ADBB;
+$success:          #5CC2CE;
+$danger:           #E38A73;
+$link-color:       #6CCAD4;   //                       8.3 : 1 on surface
+$link-hover-color: #F5F0E8;
+$body-bg:          #0C1626;
+$body-color:       #E2DBCF;   //                      13.0 : 1
+$headings-color:   #F5F0E8;
+$navbar-bg:        #08101C;
+$navbar-fg:        #E9E2D6;
+$navbar-hl:        #D6AB76;
+$footer-bg:        #08101C;
+$footer-fg:        #A3ADBB;
+$dropdown-bg:            #132338;
+$dropdown-link-color:    #E9E2D6;
+$dropdown-link-hover-bg: #1B3048;
+$dropdown-link-hover-color: #FFFFFF;
+$dropdown-border-color:  #22374F;
 
 /*-- scss:rules --*/
 :root {
-  --wo-nav-bg: #070F13;
-  --wo-surface: #111E25;
-  --wo-border: #1F2F38;
-  --wo-rule: #2A3D47;
-  --wo-muted: #9DB0B8;
-  --wo-ink: #F2F6F7;
-  --wo-accent: #3FC1BE;
-  --wo-accent-soft: #123036;
-  --wo-btn-bg: #E3EBEE;  --wo-btn-fg: #0B1419;
-  --wo-chip-current-bg: #123036;  --wo-chip-current-fg: #8EE3DF;
-  --wo-chip-prev-bg: #1A2830;     --wo-chip-prev-fg: #B8C7CD;
-  --wo-chip-dev-bg: transparent;  --wo-chip-dev-fg: #8EE3DF;
-  --wo-chip-sub-bg: #E3EBEE;      --wo-chip-sub-fg: #0B1419;
+  --wo-navy: #101D30;
+  --wo-turquoise: #167A87;
+  --wo-bronze: #D6AB76;
+  --wo-terracotta: #C65E49;
+  --wo-limestone: #F5F0E8;
+
+  --wo-nav-bg: #08101C;
+  --wo-nav-fg: #E9E2D6;
+  --wo-surface: #132338;
+  --wo-surface-2: #182B43;
+  --wo-border: #22374F;
+  --wo-rule: #2C4360;
+  --wo-muted: #A3ADBB;           // 7.0 : 1 on surface
+  --wo-ink: #F5F0E8;
+  --wo-accent: #5CC2CE;
+  --wo-accent-text: #6CCAD4;
+  --wo-warm: #E38A73;
+  --wo-warm-text: #E38A73;       // 7.0 : 1
+  --wo-bronze-text: #D6AB76;     // 8.6 : 1
+  --wo-accent-soft: #123447;
+  --wo-shadow: 0 12px 30px -14px rgba(0, 0, 0, 0.6);
+  --wo-btn-bg: #D6AB76;  --wo-btn-fg: #101D30;   // 8.0 : 1
+  --wo-chip-current-bg: #123447;  --wo-chip-current-fg: #8EDAE2;
+  --wo-chip-prev-bg: #1B2C42;     --wo-chip-prev-fg: #BCC4CF;
+  --wo-chip-dev-bg: transparent;  --wo-chip-dev-fg: #E9A08C;
+  --wo-chip-sub-bg: #E9E2D6;      --wo-chip-sub-fg: #101D30;
 }

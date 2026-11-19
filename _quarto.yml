@@ -8,7 +8,7 @@ project:
 website:
   title: "Walid Ouaret"
   site-url: "https://ouaretw.github.io"
-  description: "Walid Ouaret, Ph.D. Climate extremes, Earth observation and societal resilience. Postdoctoral Fellow, The Earth Commons Institute, Georgetown University."
+  description: "Walid Ouaret, Ph.D. Climate extremes, environmental change and societal response. Postdoctoral Fellow, The Earth Commons Institute, Georgetown University."
   favicon: assets/images/amazigh-sign.png
   image: assets/images/profile.jpg
   open-graph: true
@@ -90,6 +90,8 @@ format:
       light: [flatly, theme-light.scss, styles.scss]
       dark: [darkly, theme-dark.scss, styles.scss]
     toc: false
+    grid:
+      body-width: 960px
     smooth-scroll: true
     link-external-newwindow: true
     canonical-url: true

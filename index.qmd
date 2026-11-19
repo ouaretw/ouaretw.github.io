@@ -1,5 +1,5 @@
 ---
-pagetitle: "Walid Ouaret, Ph.D. · Climate Extremes, Earth Observation & Societal Resilience"
+pagetitle: "Walid Ouaret, Ph.D. · Climate Extremes, Environmental Change, and Societal Response"
 description: "Walid Ouaret studies how climate extremes affect agricultural landscapes, critical infrastructure and the institutions that manage environmental risk. Postdoctoral Fellow, The Earth Commons Institute, Georgetown University."
 image: assets/images/profile.jpg
 ---
@@ -11,15 +11,14 @@ image: assets/images/profile.jpg
 :::
 
 ::: {.wo-hero-text}
+[Walid Ouaret, Ph.D.]{.wo-eyebrow}
+
 ```{=html}
-<h1 class="wo-headline">Climate Extremes, Earth Observation &amp; Societal Resilience</h1>
+<h1 class="wo-headline">Climate Extremes, Environmental Change, and Societal Response</h1>
 ```
 
 ::: {.wo-identity}
-**Walid Ouaret, Ph.D.**\
-Postdoctoral Fellow\
-The Earth Commons Institute\
-Georgetown University
+Earth observation scientist. Postdoctoral Fellow at The Earth Commons Institute, Georgetown University.
 :::
 
 ::: {.wo-links}
@@ -31,6 +30,25 @@ Georgetown University
 :::
 :::
 
+:::
+
+::: {.wo-facts}
+::: {.wo-fact}
+[Appointment]{.wo-fact-label}
+**Postdoctoral Fellow**, The Earth Commons Institute, Georgetown University
+:::
+::: {.wo-fact}
+[Lab]{.wo-fact-label}
+**SuRGE Lab**, with Roshanak (Roshi) Nateghi
+:::
+::: {.wo-fact}
+[Doctorate]{.wo-fact-label}
+**Ph.D., Geographical Sciences**, University of Maryland, 2026
+:::
+::: {.wo-fact}
+[Methods]{.wo-fact-label}
+Remote sensing, field surveys, climate records, statistical modeling
+:::
 :::
 
 ::: {.wo-intro-text}
@@ -47,7 +65,7 @@ How do climate extremes generate environmental, infrastructure, and institutiona
 
 ## Research directions
 
-::: {.wo-grid .wide}
+::: {.wo-grid .wide .wo-directions}
 
 ::: {.wo-card}
 [Established]{.wo-status .published}
@@ -79,9 +97,27 @@ Reproducible geospatial analysis, open climate-data tools and remote-sensing tra
 
 :::
 
-## Selected research projects
+## Featured work
 
-::: {.wo-grid .wide}
+::: {.wo-feature}
+::: {.wo-feature-img}
+![](assets/images/card-newspaper-archive.jpg){fig-alt="Boxes of newspaper archives on a library cart" loading="lazy"}
+:::
+::: {.wo-feature-body}
+[Accepted · *Environmental Research: Climate*]{.wo-status .accepted}
+
+### [Rain Rituals and Drought Governance](projects/rain-rituals.qmd){.stretched-link}
+A 25-year archival record of state-organized rain rituals in Algeria, Morocco and Tunisia, read as a signal of when drought becomes publicly and institutionally recognized.
+
+::: {.wo-feature-meta}
+[Drought governance]{.wo-tag} [Archival records]{.wo-tag} [Drylands]{.wo-tag}Featured in [*Eos*](https://eos.org/articles/when-a-prayer-is-also-a-climate-signal) (AGU), 2025
+:::
+:::
+:::
+
+## Research projects
+
+::: {.wo-grid}
 
 ::: {.wo-card}
 ![](assets/images/card-cereal-belt.jpg){.wo-card-img fig-alt="Map of winter cereal density across the North African cereal belt" loading="lazy"}
@@ -99,15 +135,6 @@ Field-based cropland area estimation and an independent assessment of satellite 
 
 ### [Drought and Long-Term Cropland Change](projects/drought-landuse-north-africa.qmd){.stretched-link}
 Long-term cropland change across Algeria, Morocco and Tunisia (2000–2024) and its relationship with drought.
-:::
-
-::: {.wo-card}
-![](assets/images/card-newspaper-archive.jpg){.wo-card-img fig-alt="Boxes of newspaper archives on a library cart" loading="lazy"}
-
-[Accepted]{.wo-status .accepted}
-
-### [Rain Rituals and Drought Governance](projects/rain-rituals.qmd){.stretched-link}
-When drought becomes publicly and institutionally recognized, read from state-organized rain rituals.
 :::
 
 ::: {.wo-card}
@@ -155,7 +182,7 @@ Subnational crop production statistics for North Africa, and the climate sensiti
 
 I co-developed **[Open Climate Science for Agriculture](teaching.qmd)**, a NASA-funded open curriculum in English, French and Arabic, and taught its workshops in Algeria. I also organized the **[SEEDS Seminar Series](projects/seeds.qmd)**. Earlier, I advised undergraduate researchers and served as a teaching assistant for GIS courses at Miami University. My collaborations span the University of Maryland, the University of Montana, NASA HarvestStat and research institutions in Algeria.
 
-## Contact {#contact}
+## Collaboration & contact {#contact}
 
 ```{=html}
 <span id="book-a-consultation" aria-hidden="true"></span>
